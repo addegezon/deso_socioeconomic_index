@@ -14,8 +14,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 114,Upplands Vasby,0114C1170,Skalby-Brunnby Vik,0114R007,3
 114,Upplands Vasby,0114C1190,Skalby-Brunnby Vik,0114R007,3
 114,Upplands Vasby,0114C1040,Smedby sodra-Alvsunda,0114R008,3
-114,Upplands Vasby,0114C1080,Upplands Vasby centrum-Smedby norra,0114R009,2
-114,Upplands Vasby,0114C1090,Upplands Vasby centrum-Smedby norra,0114R009,2
+114,Upplands Vasby,0114C1080,Upplands Vasby centrum-Smedby norra,0114R009,3
+114,Upplands Vasby,0114C1090,Upplands Vasby centrum-Smedby norra,0114R009,3
 114,Upplands Vasby,0114A0010,Upplands Vasby omland,0114R010,4
 114,Upplands Vasby,0114C1120,Vilunda vastra,0114R011,4
 114,Upplands Vasby,0114C1150,Vilunda vastra,0114R011,4
@@ -36,8 +36,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 115,Vallentuna,0115C1020,Vallentuna sodra tatort,0115R005,5
 115,Vallentuna,0115C1030,Vallentuna sodra tatort,0115R005,5
 115,Vallentuna,0115C1040,Vallentuna sodra tatort,0115R005,5
-115,Vallentuna,0115C1080,Vallentuna vastra tatort,0115R006,4
-115,Vallentuna,0115C1130,Vallentuna vastra tatort,0115R006,4
+115,Vallentuna,0115C1080,Vallentuna vastra tatort,0115R006,5
+115,Vallentuna,0115C1130,Vallentuna vastra tatort,0115R006,5
 115,Vallentuna,0115C1050,Vallentuna ostra tatort,0115R007,4
 115,Vallentuna,0115C1100,Vallentuna ostra tatort,0115R007,4
 115,Vallentuna,0115C1120,Vallentuna ostra tatort,0115R007,4
@@ -47,12 +47,12 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 117,Osteraker,0117C1030,Brevik-Lervik-Flaxenvik,0117R002,5
 117,Osteraker,0117C1080,Brevik-Lervik-Flaxenvik,0117R002,5
 117,Osteraker,0117C1120,Hacksta-Centrumomradet,0117R003,4
-117,Osteraker,0117A0020,Ljustero-omkringliggande skargard,0117R004,4
+117,Osteraker,0117A0020,Ljustero-omkringliggande skargard,0117R004,3
 117,Osteraker,0117C1070,Margeretelunds centrum,0117R005,4
 117,Osteraker,0117C1090,Margeretelunds centrum,0117R005,4
 117,Osteraker,0117C1110,Norrgardshojden,0117R006,3
 117,Osteraker,0117A0030,Roslagskulla-Furusundsleden,0117R007,4
-117,Osteraker,0117A0010,Rydbo,0117R008,4
+117,Osteraker,0117A0010,Rydbo,0117R008,5
 117,Osteraker,0117C1160,Skansta-Singo,0117R009,4
 117,Osteraker,0117C1190,Skansta-Singo,0117R009,4
 117,Osteraker,0117C1170,Stava-Smedby-Sjokarby,0117R010,4
@@ -62,7 +62,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 117,Osteraker,0117C1020,Svinninge,0117R011,5
 117,Osteraker,0117C1100,Sora,0117R012,4
 117,Osteraker,0117C1060,Tuna,0117R013,5
-117,Osteraker,0117C1050,Taljo-Runo,0117R014,5
+117,Osteraker,0117C1050,Taljo-Runo,0117R014,4
 117,Osteraker,0117C1040,Osterskar,0117R015,5
 120,Varmdo,0120C1190,Bjornkarret-Nyhem,0120R001,4
 120,Varmdo,0120C1210,Djuro-Vindo,0120R002,4
@@ -78,7 +78,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 120,Varmdo,0120C1020,Ingaro soder,0120R008,4
 120,Varmdo,0120C1140,Kvarnberget-Hasthagen,0120R009,4
 120,Varmdo,0120C1180,Munkmora-Osby grind,0120R010,3
-120,Varmdo,0120C1100,Mortnas,0120R011,5
+120,Varmdo,0120C1100,Mortnas,0120R011,4
 120,Varmdo,0120A0010,Norra Vardolandet-Skargarden,0120R012,4
 120,Varmdo,0120C1200,Norra Vardolandet-Skargarden,0120R012,4
 120,Varmdo,0120C1220,Ormingelandet,0120R013,4
@@ -111,7 +111,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 123,Jarfalla,0123C1310,Jakobsberg vastra,0123R013,4
 123,Jarfalla,0123C1390,Kolarangen-Villastaden,0123R014,4
 123,Jarfalla,0123C1340,Ladersattra,0123R015,4
-123,Jarfalla,0123C1290,Nibble,0123R016,3
+123,Jarfalla,0123C1290,Nibble,0123R016,2
 123,Jarfalla,0123C1160,Nyberg-Hammaren ostra,0123R017,2
 123,Jarfalla,0123C1190,Nyberg-Hammaren ostra,0123R017,2
 123,Jarfalla,0123C1380,Skogstorp,0123R018,4
@@ -148,9 +148,9 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 126,Huddinge,0126C1080,Flemingsberg vastra,0126R001,2
 126,Huddinge,0126C1110,Flemingsberg vastra,0126R001,2
 126,Huddinge,0126C1140,Flemingsberg vastra,0126R001,2
-126,Huddinge,0126C1020,Flemingsberg ostra,0126R002,2
-126,Huddinge,0126C1030,Flemingsberg ostra,0126R002,2
-126,Huddinge,0126C1060,Flemingsberg ostra,0126R002,2
+126,Huddinge,0126C1020,Flemingsberg ostra,0126R002,3
+126,Huddinge,0126C1030,Flemingsberg ostra,0126R002,3
+126,Huddinge,0126C1060,Flemingsberg ostra,0126R002,3
 126,Huddinge,0126C1180,Flemingsberg-Kasta,0126R003,4
 126,Huddinge,0126C1360,Fullersta norra,0126R004,5
 126,Huddinge,0126C1380,Fullersta norra,0126R004,5
@@ -168,10 +168,10 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 126,Huddinge,0126C1570,Segeltorp,0126R011,4
 126,Huddinge,0126C1580,Segeltorp,0126R011,4
 126,Huddinge,0126C1590,Segeltorp,0126R011,4
-126,Huddinge,0126C1230,Sjodalen centrala-norra,0126R012,4
-126,Huddinge,0126C1300,Sjodalen centrala-norra,0126R012,4
-126,Huddinge,0126C1320,Sjodalen centrala-norra,0126R012,4
-126,Huddinge,0126C1340,Sjodalen centrala-norra,0126R012,4
+126,Huddinge,0126C1230,Sjodalen centrala-norra,0126R012,3
+126,Huddinge,0126C1300,Sjodalen centrala-norra,0126R012,3
+126,Huddinge,0126C1320,Sjodalen centrala-norra,0126R012,3
+126,Huddinge,0126C1340,Sjodalen centrala-norra,0126R012,3
 126,Huddinge,0126C1120,Sjodalen sodra,0126R013,4
 126,Huddinge,0126C1150,Sjodalen sodra,0126R013,4
 126,Huddinge,0126C1190,Sjodalen sodra,0126R013,4
@@ -188,11 +188,11 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 126,Huddinge,0126C1470,Snattringe,0126R016,5
 126,Huddinge,0126C1480,Snattringe,0126R016,5
 126,Huddinge,0126C1500,Snattringe,0126R016,5
-126,Huddinge,0126C1290,Stuvsta,0126R017,5
-126,Huddinge,0126C1400,Stuvsta,0126R017,5
-126,Huddinge,0126C1410,Stuvsta,0126R017,5
-126,Huddinge,0126C1430,Stuvsta,0126R017,5
-126,Huddinge,0126C1450,Stuvsta,0126R017,5
+126,Huddinge,0126C1290,Stuvsta,0126R017,4
+126,Huddinge,0126C1400,Stuvsta,0126R017,4
+126,Huddinge,0126C1410,Stuvsta,0126R017,4
+126,Huddinge,0126C1430,Stuvsta,0126R017,4
+126,Huddinge,0126C1450,Stuvsta,0126R017,4
 126,Huddinge,0126C1200,Trangsund,0126R018,5
 126,Huddinge,0126C1240,Trangsund,0126R018,5
 126,Huddinge,0126C1330,Trangsund,0126R018,5
@@ -204,7 +204,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 126,Huddinge,0126C1550,Varby gard,0126R020,2
 126,Huddinge,0126C1370,Varby Haga-Masmo,0126R021,2
 126,Huddinge,0126C1420,Varby Haga-Masmo,0126R021,2
-126,Huddinge,0126C1490,Varby Udde-Duvberget,0126R022,3
+126,Huddinge,0126C1490,Varby Udde-Duvberget,0126R022,2
 127,Botkyrka,0127C1340,Albyberget,0127R001,2
 127,Botkyrka,0127C1350,Albyberget,0127R001,2
 127,Botkyrka,0127C1270,Albydalen,0127R002,2
@@ -289,7 +289,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 136,Haninge,0136C1150,Jordbro norra,0136R011,4
 136,Haninge,0136C1090,Jordbro Sodra,0136R012,2
 136,Haninge,0136C1100,Jordbro Sodra,0136R012,2
-136,Haninge,0136A0010,Musko,0136R013,3
+136,Haninge,0136A0010,Musko,0136R013,4
 136,Haninge,0136C1410,Norrby-Vendelso Gard,0136R014,4
 136,Haninge,0136C1440,Norrby-Vendelso Gard,0136R014,4
 136,Haninge,0136C1370,Soderby,0136R015,4
@@ -327,9 +327,9 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 138,Tyreso,0138C1060,Raksta-Brevik,0138R007,4
 138,Tyreso,0138C1250,Raksta-Brevik,0138R007,4
 138,Tyreso,0138C1210,Sikvagen,0138R008,4
-138,Tyreso,0138C1150,Tyreso centrum,0138R009,3
-138,Tyreso,0138C1160,Tyreso centrum,0138R009,3
-138,Tyreso,0138C1200,Tyreso centrum,0138R009,3
+138,Tyreso,0138C1150,Tyreso centrum,0138R009,4
+138,Tyreso,0138C1160,Tyreso centrum,0138R009,4
+138,Tyreso,0138C1200,Tyreso centrum,0138R009,4
 138,Tyreso,0138C1190,Tyreso Strand,0138R010,5
 138,Tyreso,0138C1220,Tyreso Strand,0138R010,5
 138,Tyreso,0138C1240,Tyreso Strand,0138R010,5
@@ -380,8 +380,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 160,Taby,0160C1010,Nasby Slott,0160R014,5
 160,Taby,0160C1080,Nasbydal,0160R015,4
 160,Taby,0160C1100,Nasbydal,0160R015,4
-160,Taby,0160C1030,Roslags-Nasby,0160R016,5
-160,Taby,0160C1050,Roslags-Nasby,0160R016,5
+160,Taby,0160C1030,Roslags-Nasby,0160R016,4
+160,Taby,0160C1050,Roslags-Nasby,0160R016,4
 160,Taby,0160C1380,Runborg,0160R017,5
 160,Taby,0160C1110,Skarpang,0160R018,5
 160,Taby,0160C1170,Skarpang,0160R018,5
@@ -390,7 +390,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 160,Taby,0160C1150,Taby Centrum,0160R020,4
 160,Taby,0160C1140,Taby Park,0160R021,4
 160,Taby,0160C1270,Vallabrink,0160R022,5
-160,Taby,0160C1320,Vallatorp,0160R023,5
+160,Taby,0160C1320,Vallatorp,0160R023,4
 160,Taby,0160C1070,Viggbyholm,0160R024,5
 160,Taby,0160C1330,Visinge,0160R025,5
 160,Taby,0160C1190,Vastra Hagernas,0160R026,5
@@ -459,11 +459,11 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 163,Sollentuna,0163C1340,Viby-Jarvafaltet,0163R020,5
 180,Stockholm,0180C4050,Abrahamsberg,0180R001,4
 180,Stockholm,0180C4190,Abrahamsberg,0180R001,4
-180,Stockholm,0180C6340,Akalla,0180R002,2
-180,Stockholm,0180C6410,Akalla,0180R002,2
-180,Stockholm,0180C6420,Akalla,0180R002,2
-180,Stockholm,0180C6430,Akalla,0180R002,2
-180,Stockholm,0180C6440,Akalla,0180R002,2
+180,Stockholm,0180C6340,Akalla,0180R002,3
+180,Stockholm,0180C6410,Akalla,0180R002,3
+180,Stockholm,0180C6420,Akalla,0180R002,3
+180,Stockholm,0180C6430,Akalla,0180R002,3
+180,Stockholm,0180C6440,Akalla,0180R002,3
 180,Stockholm,0180C4080,Alvik,0180R003,4
 180,Stockholm,0180C2850,Aspudden,0180R004,4
 180,Stockholm,0180C2870,Aspudden,0180R004,4
@@ -471,13 +471,13 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 180,Stockholm,0180C2970,Aspudden,0180R004,4
 180,Stockholm,0180C3030,Aspudden,0180R004,4
 180,Stockholm,0180C3090,Aspudden,0180R004,4
-180,Stockholm,0180C1740,Bagarmossen,0180R005,3
-180,Stockholm,0180C1750,Bagarmossen,0180R005,3
-180,Stockholm,0180C1800,Bagarmossen,0180R005,3
-180,Stockholm,0180C1900,Bagarmossen,0180R005,3
-180,Stockholm,0180C1940,Bagarmossen,0180R005,3
-180,Stockholm,0180C1950,Bagarmossen,0180R005,3
-180,Stockholm,0180C2040,Bagarmossen,0180R005,3
+180,Stockholm,0180C1740,Bagarmossen,0180R005,4
+180,Stockholm,0180C1750,Bagarmossen,0180R005,4
+180,Stockholm,0180C1800,Bagarmossen,0180R005,4
+180,Stockholm,0180C1900,Bagarmossen,0180R005,4
+180,Stockholm,0180C1940,Bagarmossen,0180R005,4
+180,Stockholm,0180C1950,Bagarmossen,0180R005,4
+180,Stockholm,0180C2040,Bagarmossen,0180R005,4
 180,Stockholm,0180C1470,Bandhagen,0180R006,3
 180,Stockholm,0180C1480,Bandhagen,0180R006,3
 180,Stockholm,0180C1530,Bandhagen,0180R006,3
@@ -695,9 +695,9 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 180,Stockholm,0180C3070,Liljeholmen,0180R053,4
 180,Stockholm,0180C3120,Liljeholmen,0180R053,4
 180,Stockholm,0180C3230,Liljeholmen,0180R053,4
-180,Stockholm,0180C3830,Lilla Essingen,0180R054,4
-180,Stockholm,0180C3860,Lilla Essingen,0180R054,4
-180,Stockholm,0180C3890,Lilla Essingen,0180R054,4
+180,Stockholm,0180C3830,Lilla Essingen,0180R054,5
+180,Stockholm,0180C3860,Lilla Essingen,0180R054,5
+180,Stockholm,0180C3890,Lilla Essingen,0180R054,5
 180,Stockholm,0180C2100,Liseberg,0180R055,4
 180,Stockholm,0180C1820,Langbro,0180R056,5
 180,Stockholm,0180C1830,Langbro,0180R056,5
@@ -715,8 +715,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 180,Stockholm,0180C3710,Mariatorget,0180R058,4
 180,Stockholm,0180C3740,Mariatorget,0180R058,4
 180,Stockholm,0180C3770,Mariatorget,0180R058,4
-180,Stockholm,0180C3900,Marieberg,0180R059,4
-180,Stockholm,0180C4020,Marieberg,0180R059,4
+180,Stockholm,0180C3900,Marieberg,0180R059,5
+180,Stockholm,0180C4020,Marieberg,0180R059,5
 180,Stockholm,0180C5550,Mariehall,0180R060,4
 180,Stockholm,0180C5620,Mariehall,0180R060,4
 180,Stockholm,0180C5690,Mariehall,0180R060,4
@@ -767,9 +767,9 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 180,Stockholm,0180C3390,Norra Sofia,0180R070,4
 180,Stockholm,0180C3540,Norra Sofia,0180R070,4
 180,Stockholm,0180C3650,Norra Sofia,0180R070,4
-180,Stockholm,0180C4970,Norra Angby,0180R071,4
-180,Stockholm,0180C5150,Norra Angby,0180R071,4
-180,Stockholm,0180C5250,Norra Angby,0180R071,4
+180,Stockholm,0180C4970,Norra Angby,0180R071,5
+180,Stockholm,0180C5150,Norra Angby,0180R071,5
+180,Stockholm,0180C5250,Norra Angby,0180R071,5
 180,Stockholm,0180C5840,Nalsta,0180R072,4
 180,Stockholm,0180C5870,Nalsta,0180R072,4
 180,Stockholm,0180C5920,Nalsta,0180R072,4
@@ -796,11 +796,11 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 180,Stockholm,0180C6090,Rinkeby,0180R076,1
 180,Stockholm,0180C6100,Rinkeby,0180R076,1
 180,Stockholm,0180C6110,Rinkeby,0180R076,1
-180,Stockholm,0180C5420,Racksta,0180R077,4
-180,Stockholm,0180C5480,Racksta,0180R077,4
-180,Stockholm,0180C5510,Racksta,0180R077,4
-180,Stockholm,0180C5600,Racksta,0180R077,4
-180,Stockholm,0180C5680,Racksta,0180R077,4
+180,Stockholm,0180C5420,Racksta,0180R077,3
+180,Stockholm,0180C5480,Racksta,0180R077,3
+180,Stockholm,0180C5510,Racksta,0180R077,3
+180,Stockholm,0180C5600,Racksta,0180R077,3
+180,Stockholm,0180C5680,Racksta,0180R077,3
 180,Stockholm,0180C1140,Ragsved,0180R078,2
 180,Stockholm,0180C1160,Ragsved,0180R078,2
 180,Stockholm,0180C1200,Ragsved,0180R078,2
@@ -884,8 +884,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 180,Stockholm,0180C1570,Tallkrogen,0180R100,4
 180,Stockholm,0180C1630,Tallkrogen,0180R100,4
 180,Stockholm,0180C1760,Tallkrogen,0180R100,4
-180,Stockholm,0180C5430,Tekniska Hogskolan,0180R101,3
-180,Stockholm,0180C5490,Tekniska Hogskolan,0180R101,3
+180,Stockholm,0180C5430,Tekniska Hogskolan,0180R101,4
+180,Stockholm,0180C5490,Tekniska Hogskolan,0180R101,4
 180,Stockholm,0180C6140,Tensta,0180R102,1
 180,Stockholm,0180C6170,Tensta,0180R102,1
 180,Stockholm,0180C6210,Tensta,0180R102,1
@@ -960,7 +960,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 180,Stockholm,0180C2710,Arsta,0180R117,4
 180,Stockholm,0180C2750,Arsta,0180R117,4
 180,Stockholm,0180C2800,Arsta,0180R117,4
-180,Stockholm,0180C1600,Alvsjo,0180R118,3
+180,Stockholm,0180C1600,Alvsjo,0180R118,2
 180,Stockholm,0180C3910,Appelviken,0180R119,5
 180,Stockholm,0180C1550,Orby,0180R120,4
 180,Stockholm,0180C1640,Orby,0180R120,4
@@ -969,8 +969,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 180,Stockholm,0180C2070,Ostberga,0180R122,3
 180,Stockholm,0180C2160,Ostberga,0180R122,3
 180,Stockholm,0180C2340,Ostberga,0180R122,3
-180,Stockholm,0180C1010,Ostra Farsta Strand,0180R123,2
-180,Stockholm,0180C1020,Ostra Farsta Strand,0180R123,2
+180,Stockholm,0180C1010,Ostra Farsta Strand,0180R123,3
+180,Stockholm,0180C1020,Ostra Farsta Strand,0180R123,3
 180,Stockholm,0180C3110,Ostra Katarina,0180R124,4
 180,Stockholm,0180C3140,Ostra Katarina,0180R124,4
 180,Stockholm,0180C3450,Ostra Katarina,0180R124,4
@@ -990,16 +990,16 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 180,Stockholm,0180C5300,Ostra Matteus,0180R125,4
 180,Stockholm,0180C5310,Ostra Matteus,0180R125,4
 180,Stockholm,0180C5370,Ostra Matteus,0180R125,4
-180,Stockholm,0180C4280,Ostra Sankt Goran,0180R126,5
-180,Stockholm,0180C4360,Ostra Sankt Goran,0180R126,5
-180,Stockholm,0180C4410,Ostra Sankt Goran,0180R126,5
-180,Stockholm,0180C4420,Ostra Sankt Goran,0180R126,5
-180,Stockholm,0180C4490,Ostra Sankt Goran,0180R126,5
-180,Stockholm,0180C4600,Ostra Sankt Goran,0180R126,5
-180,Stockholm,0180C4100,Ostra Sankt Goran,0180R126,5
-180,Stockholm,0180C4130,Ostra Sankt Goran,0180R126,5
-180,Stockholm,0180C4150,Ostra Sankt Goran,0180R126,5
-180,Stockholm,0180C4240,Ostra Sankt Goran,0180R126,5
+180,Stockholm,0180C4280,Ostra Sankt Goran,0180R126,4
+180,Stockholm,0180C4360,Ostra Sankt Goran,0180R126,4
+180,Stockholm,0180C4410,Ostra Sankt Goran,0180R126,4
+180,Stockholm,0180C4420,Ostra Sankt Goran,0180R126,4
+180,Stockholm,0180C4490,Ostra Sankt Goran,0180R126,4
+180,Stockholm,0180C4600,Ostra Sankt Goran,0180R126,4
+180,Stockholm,0180C4100,Ostra Sankt Goran,0180R126,4
+180,Stockholm,0180C4130,Ostra Sankt Goran,0180R126,4
+180,Stockholm,0180C4150,Ostra Sankt Goran,0180R126,4
+180,Stockholm,0180C4240,Ostra Sankt Goran,0180R126,4
 180,Stockholm,0180C1210,Ostra Skarpnacks gard-Flaten-Skrubba,0180R127,3
 181,Sodertalje,0181C1160,Blombacka,0181R001,2
 181,Sodertalje,0181C1340,Brunnsang,0181R002,2
@@ -1131,16 +1131,16 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 183,Sundbyberg,0183C1100,Storskogen-Or,0183R011,4
 183,Sundbyberg,0183C1120,Storskogen-Or,0183R011,4
 183,Sundbyberg,0183C1180,Storskogen-Or,0183R011,4
-184,Solna,0184C1310,Arenastaden,0184R001,4
+184,Solna,0184C1310,Arenastaden,0184R001,5
 184,Solna,0184C1350,Bagartorp-Agnesberg,0184R002,4
 184,Solna,0184C1370,Bagartorp-Agnesberg,0184R002,4
 184,Solna,0184C1060,Centrala Huvudsta,0184R003,4
 184,Solna,0184C1070,Centrala Huvudsta,0184R003,4
 184,Solna,0184C1080,Centrala Huvudsta,0184R003,4
 184,Solna,0184C1260,Filmstaden,0184R004,5
-184,Solna,0184C1270,Frosunda,0184R005,4
-184,Solna,0184C1300,Frosunda,0184R005,4
-184,Solna,0184C1330,Frosunda,0184R005,4
+184,Solna,0184C1270,Frosunda,0184R005,5
+184,Solna,0184C1300,Frosunda,0184R005,5
+184,Solna,0184C1330,Frosunda,0184R005,5
 184,Solna,0184C1030,Ingenting,0184R006,4
 184,Solna,0184C1050,Ingenting,0184R006,4
 184,Solna,0184C1390,Jarvastaden,0184R007,5
@@ -1201,7 +1201,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 186,Lidingo,0186C1060,Stockby ostra-Molna-Ekholmsnas,0186R013,5
 186,Lidingo,0186C1140,Stockby ostra-Molna-Ekholmsnas,0186R013,5
 187,Vaxholm,0187C1040,Edholma-Kullo,0187R001,5
-187,Vaxholm,0187C1050,Resaro vastra-Engarn-Storang,0187R002,5
+187,Vaxholm,0187C1050,Resaro vastra-Engarn-Storang,0187R002,4
 187,Vaxholm,0187C1060,Resaro ostra,0187R003,5
 187,Vaxholm,0187C1030,Rindo-Skarpo,0187R004,4
 187,Vaxholm,0187C1020,Vaxon mitt,0187R005,4
@@ -1238,7 +1238,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 188,Norrtalje,0188A0140,Roslagsbro-Vaddo,0188R014,4
 188,Norrtalje,0188A0160,Roslagsbro-Vaddo,0188R014,4
 188,Norrtalje,0188A0060,Radmanso,0188R015,4
-188,Norrtalje,0188C1110,Solbacka-Fagelsangen,0188R016,5
+188,Norrtalje,0188C1110,Solbacka-Fagelsangen,0188R016,4
 188,Norrtalje,0188C1090,Vigelsjo,0188R017,2
 188,Norrtalje,0188A0180,Vato-Vaddo-Bjorko-Arholma,0188R018,4
 188,Norrtalje,0188A0130,Vato-Vaddo-Bjorko-Arholma,0188R018,4
@@ -1262,9 +1262,9 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 191,Sigtuna,0191A0010,Skanela-Steningevik omland,0191R015,4
 191,Sigtuna,0191C1080,Steningehojden-Olsta by,0191R016,4
 191,Sigtuna,0191C1100,Satuna,0191R017,3
-191,Sigtuna,0191C1020,Sodra Valsta,0191R018,1
+191,Sigtuna,0191C1020,Sodra Valsta,0191R018,2
 191,Sigtuna,0191B2020,Til-Munkholmen,0191R019,5
-191,Sigtuna,0191C1050,Tingvalla,0191R020,1
+191,Sigtuna,0191C1050,Tingvalla,0191R020,2
 191,Sigtuna,0191C1070,Vastra Valsta,0191R021,2
 191,Sigtuna,0191C1130,Ostra Norrbacka,0191R022,2
 191,Sigtuna,0191C1010,Ostra Steninge,0191R023,4
@@ -1278,15 +1278,15 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 192,Nynashamn,0192C1030,Nynashamns stad-sodra,0192R003,4
 192,Nynashamn,0192C1050,Nynashamns stad-vastra,0192R004,2
 192,Nynashamn,0192C1070,Nynashamns stad-vastra,0192R004,2
-192,Nynashamn,0192C1040,Nynashamns stad-ostra,0192R005,3
-192,Nynashamn,0192C1060,Nynashamns stad-ostra,0192R005,3
-192,Nynashamn,0192C1080,Nynashamns stad-ostra,0192R005,3
+192,Nynashamn,0192C1040,Nynashamns stad-ostra,0192R005,4
+192,Nynashamn,0192C1060,Nynashamns stad-ostra,0192R005,4
+192,Nynashamn,0192C1080,Nynashamns stad-ostra,0192R005,4
 192,Nynashamn,0192A0010,Nynashamns sodra kommundel,0192R006,4
 192,Nynashamn,0192B3010,Nynashamns vastra kommundel,0192R007,4
 192,Nynashamn,0192A0020,Nynashamns vastra kommundel,0192R007,4
 192,Nynashamn,0192B2010,Osmo centrala,0192R008,3
 192,Nynashamn,0192B2020,Osmo centrala,0192R008,3
-305,Habo,0305C1040,Centrala Balsta-Mansangen,0305R001,2
+305,Habo,0305C1040,Centrala Balsta-Mansangen,0305R001,3
 305,Habo,0305C1020,Dyarne-Fanas-Kalmarsand,0305R002,4
 305,Habo,0305A0010,Habo landsbygd,0305R003,4
 305,Habo,0305C1070,Norra Ullevi-Sodra Ullevi-Asen,0305R004,4
@@ -1307,14 +1307,14 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 330,Knivsta,0330C1030,Knivsta centrala,0330R003,4
 330,Knivsta,0330C1010,Knivsta sodra,0330R004,3
 330,Knivsta,0330C1020,Knivsta vastra,0330R005,4
-330,Knivsta,0330C1040,Knivsta ostra,0330R006,4
+330,Knivsta,0330C1040,Knivsta ostra,0330R006,5
 330,Knivsta,0330A0020,Lagga-Langhundra,0330R007,4
 330,Knivsta,0330A0030,Lagga-Langhundra,0330R007,4
 330,Knivsta,0330A0010,Vassunda,0330R008,4
 331,Heby,0331A0020,Heby omland,0331R001,4
 331,Heby,0331C1010,Heby vastra,0331R002,3
 331,Heby,0331C1020,Heby ostra,0331R003,3
-331,Heby,0331B3010,Morgongava tatort,0331R004,2
+331,Heby,0331B3010,Morgongava tatort,0331R004,3
 331,Heby,0331A0030,Nora-Harbo omland,0331R005,3
 331,Heby,0331A0040,Nora-Harbo omland,0331R005,3
 331,Heby,0331B4010,Tarnsjo tatort,0331R006,2
@@ -1329,8 +1329,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 360,Tierp,0360A0050,Skarplinge-Hallnas,0360R004,4
 360,Tierp,0360A0070,Skarplinge-Hallnas,0360R004,4
 360,Tierp,0360B3010,Soderfors,0360R005,2
-360,Tierp,0360C1020,Tierp Centrum-Tierp Norra,0360R006,4
-360,Tierp,0360C1030,Tierp Centrum-Tierp Norra,0360R006,4
+360,Tierp,0360C1020,Tierp Centrum-Tierp Norra,0360R006,3
+360,Tierp,0360C1030,Tierp Centrum-Tierp Norra,0360R006,3
 360,Tierp,0360C1010,Tierp Sodra,0360R007,2
 360,Tierp,0360A0060,Vastland,0360R008,4
 360,Tierp,0360B2010,Orbyhus,0360R009,3
@@ -1348,8 +1348,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 380,Uppsala,0380C1730,Framre Luthagen-Fjardingen-Glunten,0380R005,4
 380,Uppsala,0380C1050,Gamla Gottsunda-Vardsatra-Vreta,0380R006,5
 380,Uppsala,0380C1010,Gamla Gottsunda-Vardsatra-Vreta,0380R006,5
-380,Uppsala,0380C2190,Gamla Uppsala,0380R007,4
-380,Uppsala,0380C2210,Gamla Uppsala,0380R007,4
+380,Uppsala,0380C2190,Gamla Uppsala,0380R007,5
+380,Uppsala,0380C2210,Gamla Uppsala,0380R007,5
 380,Uppsala,0380B5010,Gunsta-Marielund-Lanna,0380R008,4
 380,Uppsala,0380C1330,Kungsangen,0380R009,4
 380,Uppsala,0380C1480,Kungsangen,0380R009,4
@@ -1365,9 +1365,9 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 380,Uppsala,0380C1790,Mellersta Luthagen-Rickomberga,0380R014,4
 380,Uppsala,0380C1560,Mellersta Luthagen-Rickomberga,0380R014,4
 380,Uppsala,0380C1620,Mellersta Luthagen-Rickomberga,0380R014,4
-380,Uppsala,0380C1850,Mellersta Sala backe,0380R015,2
-380,Uppsala,0380C1940,Mellersta Sala backe,0380R015,2
-380,Uppsala,0380C1950,Mellersta Sala backe,0380R015,2
+380,Uppsala,0380C1850,Mellersta Sala backe,0380R015,3
+380,Uppsala,0380C1940,Mellersta Sala backe,0380R015,3
+380,Uppsala,0380C1950,Mellersta Sala backe,0380R015,3
 380,Uppsala,0380C1090,Mellersta Valsatra-Gottsunda centrum-Ostra Gottsunda,0380R016,2
 380,Uppsala,0380C1110,Mellersta Valsatra-Gottsunda centrum-Ostra Gottsunda,0380R016,2
 380,Uppsala,0380C1180,Mellersta Valsatra-Gottsunda centrum-Ostra Gottsunda,0380R016,2
@@ -1387,9 +1387,9 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 380,Uppsala,0380C2160,Nyby,0380R023,3
 380,Uppsala,0380C2180,Nyby,0380R023,3
 380,Uppsala,0380C2200,Nyby,0380R023,3
-380,Uppsala,0380C1120,Nantuna-Vilan,0380R024,5
-380,Uppsala,0380C1230,Nantuna-Vilan,0380R024,5
-380,Uppsala,0380C1270,Nantuna-Vilan,0380R024,5
+380,Uppsala,0380C1120,Nantuna-Vilan,0380R024,4
+380,Uppsala,0380C1230,Nantuna-Vilan,0380R024,4
+380,Uppsala,0380C1270,Nantuna-Vilan,0380R024,4
 380,Uppsala,0380C1400,Slavsta-Fyrislund-Danmarksby,0380R025,4
 380,Uppsala,0380C1360,Sommarro-Kungsgardet,0380R026,4
 380,Uppsala,0380C1440,Sommarro-Kungsgardet,0380R026,4
@@ -1438,7 +1438,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 380,Uppsala,0380A0050,Uppsala yttre ostra omland,0380R042,4
 380,Uppsala,0380A0070,Uppsala yttre ostra omland,0380R042,4
 380,Uppsala,0380A0130,Uppsala yttre ostra omland,0380R042,4
-380,Uppsala,0380B7010,Vattholma,0380R043,5
+380,Uppsala,0380B7010,Vattholma,0380R043,4
 380,Uppsala,0380B8010,Vange,0380R044,4
 380,Uppsala,0380C1290,Vastra Eriksberg-Haga,0380R045,4
 380,Uppsala,0380C1340,Vastra Eriksberg-Haga,0380R045,4
@@ -1447,10 +1447,10 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 380,Uppsala,0380C1460,Vastra Flogsta,0380R046,2
 380,Uppsala,0380C1070,Vastra Gottsunda,0380R047,1
 380,Uppsala,0380C1100,Vastra Gottsunda,0380R047,1
-380,Uppsala,0380C2100,Vastra Granby,0380R048,2
-380,Uppsala,0380C2040,Vastra Granby,0380R048,2
-380,Uppsala,0380C1860,Vastra Kapellgardet,0380R049,5
-380,Uppsala,0380C2020,Vastra Kapellgardet,0380R049,5
+380,Uppsala,0380C2100,Vastra Granby,0380R048,1
+380,Uppsala,0380C2040,Vastra Granby,0380R048,1
+380,Uppsala,0380C1860,Vastra Kapellgardet,0380R049,4
+380,Uppsala,0380C2020,Vastra Kapellgardet,0380R049,4
 380,Uppsala,0380C1470,Vastra Stenhagen,0380R050,3
 380,Uppsala,0380C1570,Vastra Stenhagen,0380R050,3
 380,Uppsala,0380B2010,Vastra Storvreta,0380R051,4
@@ -1464,8 +1464,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 380,Uppsala,0380C1840,Arsta,0380R053,4
 380,Uppsala,0380C2000,Arsta,0380R053,4
 380,Uppsala,0380C2110,Arsta,0380R053,4
-380,Uppsala,0380C1310,Ostra Eriksberg,0380R054,2
-380,Uppsala,0380C1320,Ostra Eriksberg,0380R054,2
+380,Uppsala,0380C1310,Ostra Eriksberg,0380R054,3
+380,Uppsala,0380C1320,Ostra Eriksberg,0380R054,3
 380,Uppsala,0380C1390,Ostra Flogsta-Ekeby-Berthaga,0380R055,4
 380,Uppsala,0380C1410,Ostra Flogsta-Ekeby-Berthaga,0380R055,4
 380,Uppsala,0380C1490,Ostra Flogsta-Ekeby-Berthaga,0380R055,4
@@ -1593,16 +1593,16 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 483,Katrineholm,0483A0060,Julita-Bie,0483R003,4
 483,Katrineholm,0483A0050,Julita-Bie,0483R003,4
 483,Katrineholm,0483C1110,Katrineholm centrum-Kerstinboda,0483R004,2
-483,Katrineholm,0483C1120,Katrineholm norra,0483R005,1
-483,Katrineholm,0483C1130,Katrineholm norra,0483R005,1
+483,Katrineholm,0483C1120,Katrineholm norra,0483R005,2
+483,Katrineholm,0483C1130,Katrineholm norra,0483R005,2
 483,Katrineholm,0483C1080,Katrineholm ostra,0483R006,2
 483,Katrineholm,0483C1100,Katrineholm ostra,0483R006,2
 483,Katrineholm,0483C1050,Nyhem-Navertorp,0483R007,1
 483,Katrineholm,0483C1090,Nyhem-Navertorp,0483R007,1
 483,Katrineholm,0483C1040,Oppunda-Laggarhult,0483R008,4
 483,Katrineholm,0483C1060,Oppunda-Laggarhult,0483R008,4
-483,Katrineholm,0483C1020,Strandsvagsomradet-Skogsborg,0483R009,3
-483,Katrineholm,0483C1030,Strandsvagsomradet-Skogsborg,0483R009,3
+483,Katrineholm,0483C1020,Strandsvagsomradet-Skogsborg,0483R009,2
+483,Katrineholm,0483C1030,Strandsvagsomradet-Skogsborg,0483R009,2
 483,Katrineholm,0483A0040,Valla-Skoldinge-Floda,0483R010,3
 483,Katrineholm,0483B2010,Valla-Skoldinge-Floda,0483R010,3
 483,Katrineholm,0483A0030,Varmbol-Duveholm,0483R011,4
@@ -1629,7 +1629,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 484,Eskilstuna,0484B5010,Hallsta-Balgviken,0484R008,4
 484,Eskilstuna,0484C1400,Hallbybrunn-Folkesta,0484R009,4
 484,Eskilstuna,0484C1420,Hallbybrunn-Folkesta,0484R009,4
-484,Eskilstuna,0484B2010,Kvicksund-Tumbo,0484R010,5
+484,Eskilstuna,0484B2010,Kvicksund-Tumbo,0484R010,4
 484,Eskilstuna,0484C1080,Lagersberg-Rabergstorp,0484R011,1
 484,Eskilstuna,0484C1100,Lagersberg-Rabergstorp,0484R011,1
 484,Eskilstuna,0484C1030,Mesta-Borsokna,0484R012,4
@@ -1658,21 +1658,21 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 484,Eskilstuna,0484A0060,Sundbyholm-Kjula-Barva,0484R024,4
 484,Eskilstuna,0484A0070,Sundbyholm-Kjula-Barva,0484R024,4
 484,Eskilstuna,0484B4010,Sundbyholm-Kjula-Barva,0484R024,4
-484,Eskilstuna,0484C1160,Trumtorp-Odlaren-Hagnestahill,0484R025,4
+484,Eskilstuna,0484C1160,Trumtorp-Odlaren-Hagnestahill,0484R025,5
 484,Eskilstuna,0484C1380,Valhalla-Slagsta,0484R026,4
 484,Eskilstuna,0484C1440,Valhalla-Slagsta,0484R026,4
 484,Eskilstuna,0484C1450,Valhalla-Slagsta,0484R026,4
-484,Eskilstuna,0484C1200,Vastra Nyfors,0484R027,2
+484,Eskilstuna,0484C1200,Vastra Nyfors,0484R027,3
 484,Eskilstuna,0484C1360,Arby-Vallby,0484R028,1
 484,Eskilstuna,0484C1370,Arby-Vallby,0484R028,1
 484,Eskilstuna,0484A0020,Arla-Hallberga,0484R029,4
 484,Eskilstuna,0484A0040,Arla-Hallberga,0484R029,4
 484,Eskilstuna,0484B3010,Arla-Hallberga,0484R029,4
-484,Eskilstuna,0484C1180,Ostra Nyfors,0484R030,3
+484,Eskilstuna,0484C1180,Ostra Nyfors,0484R030,2
 486,Strangnas,0486B2010,Mariefred,0486R001,4
 486,Strangnas,0486B2020,Mariefred,0486R001,4
 486,Strangnas,0486B2030,Mariefred norra,0486R002,4
-486,Strangnas,0486A0010,Mariefreds sodraomland,0486R003,4
+486,Strangnas,0486A0010,Mariefreds sodraomland,0486R003,5
 486,Strangnas,0486B4010,Stallarholmen,0486R004,4
 486,Strangnas,0486B4020,Stallarholmen,0486R004,4
 486,Strangnas,0486C1050,Strangnas centrala,0486R005,4
@@ -1707,10 +1707,10 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 509,Odeshog,0509C1020,Odeshog,0509R002,3
 512,Ydre,0512A0010,Sund-Norra Vi-Svinhult-Vastra Ryd,0512R001,4
 512,Ydre,0512A0020,Torpa-Asby,0512R002,4
-512,Ydre,0512C1010,Osterbymo,0512R003,3
+512,Ydre,0512C1010,Osterbymo,0512R003,2
 513,Kinda,0513A0030,Kinda norra,0513R001,4
 513,Kinda,0513A0010,Kinda vastra,0513R002,4
-513,Kinda,0513A0020,Kinda ostra,0513R003,4
+513,Kinda,0513A0020,Kinda ostra,0513R003,3
 513,Kinda,0513C1010,Kisa vastra,0513R004,3
 513,Kinda,0513C1030,Kisa vastra,0513R004,3
 513,Kinda,0513C1020,Kisa ostra,0513R005,1
@@ -1742,8 +1742,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 562,Finspang,0562C1020,Nyhem,0562R007,3
 562,Finspang,0562C1030,Storangen,0562R008,1
 562,Finspang,0562C1010,Viggestorp-Falla,0562R009,4
-563,Valdemarsvik,0563A0010,Gryt-Skargarden,0563R001,4
-563,Valdemarsvik,0563A0020,Gryt-Skargarden,0563R001,4
+563,Valdemarsvik,0563A0010,Gryt-Skargarden,0563R001,3
+563,Valdemarsvik,0563A0020,Gryt-Skargarden,0563R001,3
 563,Valdemarsvik,0563A0030,Ringarum-Gusum,0563R002,3
 563,Valdemarsvik,0563B2010,Ringarum-Gusum,0563R002,3
 563,Valdemarsvik,0563C1010,Valdemarsviks tatort,0563R003,3
@@ -1780,8 +1780,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 580,Linkoping,0580C1110,Lambohov-Slaka,0580R011,3
 580,Linkoping,0580C1170,Lambohov-Slaka,0580R011,3
 580,Linkoping,0580C1190,Lambohov-Slaka,0580R011,3
-580,Linkoping,0580C1440,Lilla Torget-Sankt Lars,0580R012,4
-580,Linkoping,0580C1520,Lilla Torget-Sankt Lars,0580R012,4
+580,Linkoping,0580C1440,Lilla Torget-Sankt Lars,0580R012,3
+580,Linkoping,0580C1520,Lilla Torget-Sankt Lars,0580R012,3
 580,Linkoping,0580B3010,Linghem,0580R013,5
 580,Linkoping,0580B3020,Linghem,0580R013,5
 580,Linkoping,0580B2010,Ljungsbro-Berg,0580R014,4
@@ -1807,9 +1807,9 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 580,Linkoping,0580B6020,Sturefors,0580R019,5
 580,Linkoping,0580C1640,Tallboda,0580R020,4
 580,Linkoping,0580C1690,Tallboda,0580R020,4
-580,Linkoping,0580C1410,Tannefors-Stangebro-Kallerstad,0580R021,4
-580,Linkoping,0580C1430,Tannefors-Stangebro-Kallerstad,0580R021,4
-580,Linkoping,0580C1490,Tannefors-Stangebro-Kallerstad,0580R021,4
+580,Linkoping,0580C1410,Tannefors-Stangebro-Kallerstad,0580R021,3
+580,Linkoping,0580C1430,Tannefors-Stangebro-Kallerstad,0580R021,3
+580,Linkoping,0580C1490,Tannefors-Stangebro-Kallerstad,0580R021,3
 580,Linkoping,0580C1360,Tradgardsforeningen-Folkungavallen,0580R022,4
 580,Linkoping,0580C1370,Tradgardsforeningen-Folkungavallen,0580R022,4
 580,Linkoping,0580C1010,Ullstamma-Haninge,0580R023,4
@@ -1866,9 +1866,9 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 581,Norrkoping,0581B4030,Kolmarden,0581R012,4
 581,Norrkoping,0581C1040,Karrhagen-Kattsatter,0581R013,4
 581,Norrkoping,0581C1140,Karrhagen-Kattsatter,0581R013,4
-581,Norrkoping,0581C1450,Lindo-Berga-Marby,0581R014,4
-581,Norrkoping,0581C1530,Lindo-Berga-Marby,0581R014,4
-581,Norrkoping,0581C1550,Lindo-Berga-Marby,0581R014,4
+581,Norrkoping,0581C1450,Lindo-Berga-Marby,0581R014,5
+581,Norrkoping,0581C1530,Lindo-Berga-Marby,0581R014,5
+581,Norrkoping,0581C1550,Lindo-Berga-Marby,0581R014,5
 581,Norrkoping,0581C1020,Navestad-Aselstad,0581R015,1
 581,Norrkoping,0581C1030,Navestad-Aselstad,0581R015,1
 581,Norrkoping,0581C1470,Nordvastra Marielund,0581R016,3
@@ -1899,8 +1899,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 581,Norrkoping,0581B5020,Svartinge-Loddby-Landsbygd,0581R030,5
 581,Norrkoping,0581A0080,Svartinge-Loddby-Landsbygd,0581R030,5
 581,Norrkoping,0581B5010,Svartinge-Loddby-Landsbygd,0581R030,5
-581,Norrkoping,0581C1130,Sydvastra Hageby,0581R031,1
-581,Norrkoping,0581C1070,Sydvastra Hageby,0581R031,1
+581,Norrkoping,0581C1130,Sydvastra Hageby,0581R031,2
+581,Norrkoping,0581C1070,Sydvastra Hageby,0581R031,2
 581,Norrkoping,0581C1430,Sydostra Marielund,0581R032,1
 581,Norrkoping,0581C1360,Sydostra Nordantill,0581R033,4
 581,Norrkoping,0581C1420,Sydostra Nordantill,0581R033,4
@@ -1971,7 +1971,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 586,Mjolby,0586C1090,Slomarp-Egeby,0586R008,2
 586,Mjolby,0586C1080,Svarta strand-Centrum-Albacken,0586R009,3
 586,Mjolby,0586C2010,Sya-Spangsholm-Veta,0586R010,4
-586,Mjolby,0586C1020,Sorby-Ostra Lundby-Centrum,0586R011,2
+586,Mjolby,0586C1020,Sorby-Ostra Lundby-Centrum,0586R011,3
 586,Mjolby,0586C1070,Tunet-Hagaparken,0586R012,3
 586,Mjolby,0586C1040,Vasa,0586R013,3
 586,Mjolby,0586A0020,Vaderstad-Vaderstad omnejd,0586R014,4
@@ -1979,7 +1979,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 586,Mjolby,0586C1010,Vastra Lundby,0586R016,3
 604,Aneby,0604C1020,Aneby nordvastra,0604R001,4
 604,Aneby,0604A0020,Aneby vastra omland,0604R002,4
-604,Aneby,0604C1010,Aneby ostra,0604R003,3
+604,Aneby,0604C1010,Aneby ostra,0604R003,2
 604,Aneby,0604A0010,Aneby ostra omland,0604R004,4
 617,Gnosjo,0617A0010,Gnosjo landsbygd,0617R001,4
 617,Gnosjo,0617A0020,Gnosjo landsbygd,0617R001,4
@@ -1988,7 +1988,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 617,Gnosjo,0617C1030,Gnosjo tatort,0617R002,3
 617,Gnosjo,0617B2010,Hillerstorp tatort,0617R003,3
 642,Mullsjo,0642C1020,Mullsjo tatort nordvastra,0642R001,4
-642,Mullsjo,0642C1030,Mullsjo tatort nordostra,0642R002,4
+642,Mullsjo,0642C1030,Mullsjo tatort nordostra,0642R002,3
 642,Mullsjo,0642C1010,Mullsjo tatort sodra,0642R003,4
 642,Mullsjo,0642A0010,Sandhem-Bjurback-Utvangstorp,0642R004,3
 643,Habo,0643C1020,Branninge,0643R001,4
@@ -2005,7 +2005,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 662,Gislaved,0662A0040,Broaryd-Gislaved omland,0662R003,4
 662,Gislaved,0662B5010,Burseryd,0662R004,3
 662,Gislaved,0662C1080,Gislaved nordvast,0662R005,1
-662,Gislaved,0662C1090,Gislaved norra,0662R006,2
+662,Gislaved,0662C1090,Gislaved norra,0662R006,3
 662,Gislaved,0662C1040,Gislaved sodra,0662R007,4
 662,Gislaved,0662C1060,Gislaved sodra,0662R007,4
 662,Gislaved,0662C1050,Gislaved ostra,0662R008,3
@@ -2020,8 +2020,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 665,Vaggeryd,0665A0030,Bondstorp-Byarum omland,0665R001,4
 665,Vaggeryd,0665A0020,Hok-Svenarum omland,0665R002,4
 665,Vaggeryd,0665C2020,Skillingaryd vastra,0665R003,4
-665,Vaggeryd,0665C2010,Skillingaryd ostra,0665R004,2
-665,Vaggeryd,0665C1030,Vaggeryd norra,0665R005,4
+665,Vaggeryd,0665C2010,Skillingaryd ostra,0665R004,3
+665,Vaggeryd,0665C1030,Vaggeryd norra,0665R005,3
 665,Vaggeryd,0665C1010,Vaggeryd vastra,0665R006,4
 665,Vaggeryd,0665C1020,Vaggeryd ostra,0665R007,3
 665,Vaggeryd,0665A0010,Aker-Tofteryd omland,0665R008,4
@@ -2094,8 +2094,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 680,Jonkoping,0680A0080,Visingso-Orserum-Olmstad,0680R032,4
 680,Jonkoping,0680A0090,Visingso-Orserum-Olmstad,0680R032,4
 680,Jonkoping,0680A0100,Visingso-Orserum-Olmstad,0680R032,4
-680,Jonkoping,0680C1410,Osterangen,0680R033,1
-680,Jonkoping,0680C1430,Osterangen,0680R033,1
+680,Jonkoping,0680C1410,Osterangen,0680R033,2
+680,Jonkoping,0680C1430,Osterangen,0680R033,2
 680,Jonkoping,0680C1140,Oxnehaga,0680R034,3
 680,Jonkoping,0680C1290,Oxnehaga,0680R034,3
 680,Jonkoping,0680C1240,Oxnehaga centrum,0680R035,1
@@ -2105,8 +2105,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 682,Nassjo,0682B2020,Forserum,0682R002,4
 682,Nassjo,0682C1020,Handskeryd,0682R003,3
 682,Nassjo,0682C1030,Handskeryd,0682R003,3
-682,Nassjo,0682C1040,Ingsberg-Nyhem-Hultet,0682R004,3
-682,Nassjo,0682C1060,Ingsberg-Nyhem-Hultet,0682R004,3
+682,Nassjo,0682C1040,Ingsberg-Nyhem-Hultet,0682R004,4
+682,Nassjo,0682C1060,Ingsberg-Nyhem-Hultet,0682R004,4
 682,Nassjo,0682B4010,Malmback,0682R005,3
 682,Nassjo,0682C1090,Norrboda-Vastra Runneryd,0682R006,2
 682,Nassjo,0682C1050,Nassjo centrum,0682R007,3
@@ -2128,7 +2128,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 683,Varnamo,0683C1110,Grondal-Norregard,0683R005,4
 683,Varnamo,0683C1040,Grondal-Norregard,0683R005,4
 683,Varnamo,0683C1070,Grondal-Norregard,0683R005,4
-683,Varnamo,0683C1010,Mossle,0683R006,2
+683,Varnamo,0683C1010,Mossle,0683R006,3
 683,Varnamo,0683C1100,Nylund-Duvelund,0683R007,4
 683,Varnamo,0683C1120,Nylund-Duvelund,0683R007,4
 683,Varnamo,0683B2010,Rydaholm,0683R008,2
@@ -2159,7 +2159,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 685,Vetlanda,0685A0040,Landsbro-Myreso,0685R004,3
 685,Vetlanda,0685B3010,Landsbro-Myreso,0685R004,3
 685,Vetlanda,0685C1050,Vetlanda-Brunnsgard,0685R005,3
-685,Vetlanda,0685C1010,Vetlanda-Backseda,0685R006,4
+685,Vetlanda,0685C1010,Vetlanda-Backseda,0685R006,5
 685,Vetlanda,0685C1040,Vetlanda-Centrum,0685R007,3
 685,Vetlanda,0685C1060,Vetlanda-Karslund,0685R008,4
 685,Vetlanda,0685C1070,Vetlanda-Mellangarden,0685R009,3
@@ -2200,7 +2200,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 761,Lessebo,0761A0010,Lessebo omland,0761R004,3
 763,Tingsryd,0763A0010,Konga,0763R001,3
 763,Tingsryd,0763A0050,Linneryd-Almeboda,0763R002,3
-763,Tingsryd,0763A0020,Ryds glesbygd,0763R003,4
+763,Tingsryd,0763A0020,Ryds glesbygd,0763R003,3
 763,Tingsryd,0763B2010,Ryds tatort,0763R004,2
 763,Tingsryd,0763A0040,Tingryds glesbygd-Vackelsang,0763R005,4
 763,Tingsryd,0763C1010,Tingsryds tatort,0763R006,3
@@ -2210,7 +2210,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 764,Alvesta,0764C1050,Alvesta nordost,0764R002,4
 764,Alvesta,0764C1010,Alvesta sydost,0764R003,4
 764,Alvesta,0764C1020,Alvesta sodra,0764R004,1
-764,Alvesta,0764C1030,Alvesta vastra,0764R005,2
+764,Alvesta,0764C1030,Alvesta vastra,0764R005,1
 764,Alvesta,0764A0030,Bladinge,0764R006,4
 764,Alvesta,0764A0020,Grimslov,0764R007,4
 764,Alvesta,0764A0040,Hjortsberga,0764R008,4
@@ -2228,7 +2228,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 765,Almhult,0765A0010,Almhults omland,0765R006,4
 765,Almhult,0765A0020,Almhults omland,0765R006,4
 765,Almhult,0765A0030,Almhults omland,0765R006,4
-767,Markaryd,0767A0010,Markaryds kommuns landsbygd,0767R001,4
+767,Markaryd,0767A0010,Markaryds kommuns landsbygd,0767R001,3
 767,Markaryd,0767C1030,Markaryd-Timsfors,0767R002,3
 767,Markaryd,0767C1010,Markaryd-Timsfors,0767R002,3
 767,Markaryd,0767C1020,Markaryd-Timsfors,0767R002,3
@@ -2248,7 +2248,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 780,Vaxjo,0780C1340,Hovshaga,0780R006,4
 780,Vaxjo,0780C1130,Hogstorp-Hollstorp,0780R007,4
 780,Vaxjo,0780C1140,Hogstorp-Hollstorp,0780R007,4
-780,Vaxjo,0780B3010,Ingelstad,0780R008,4
+780,Vaxjo,0780B3010,Ingelstad,0780R008,3
 780,Vaxjo,0780C1210,Kungsmad-Pilbacken,0780R009,3
 780,Vaxjo,0780C1250,Kungsmad-Pilbacken,0780R009,3
 780,Vaxjo,0780B4010,Lammhult,0780R010,2
@@ -2266,8 +2266,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 780,Vaxjo,0780C1010,Teleborg,0780R015,4
 780,Vaxjo,0780C1020,Teleborg,0780R015,4
 780,Vaxjo,0780C1060,Teleborg,0780R015,4
-780,Vaxjo,0780C1030,Teleborg centrum,0780R016,2
-780,Vaxjo,0780C1040,Teleborg centrum,0780R016,2
+780,Vaxjo,0780C1030,Teleborg centrum,0780R016,3
+780,Vaxjo,0780C1040,Teleborg centrum,0780R016,3
 780,Vaxjo,0780C1050,Universitetsomrade,0780R017,2
 780,Vaxjo,0780C1070,Universitetsomrade,0780R017,2
 780,Vaxjo,0780C1200,Vastra mark,0780R018,4
@@ -2318,7 +2318,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 840,Morbylanga,0840B2020,Skogsby-Torslunda,0840R007,4
 860,Hultsfred,0860C1030,Hultsfreds tatort norra,0860R001,3
 860,Hultsfred,0860C1010,Hultsfreds tatort sodra,0860R002,1
-860,Hultsfred,0860C1020,Hultsfreds tatort vastra,0860R003,3
+860,Hultsfred,0860C1020,Hultsfreds tatort vastra,0860R003,2
 860,Hultsfred,0860A0020,Jarnforsen-Malilla-Virserum landsbygd,0860R004,3
 860,Hultsfred,0860A0040,Lonneberga-Silverdalen tatort-landsbygd,0860R005,3
 860,Hultsfred,0860B3010,Malilla-Gardveda-Rosenfors-Ammenas tatort,0860R006,2
@@ -2334,7 +2334,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 861,Monsteras,0861C1040,Norra-vastra Monsteras samhalle,0861R007,3
 861,Monsteras,0861B3010,Timmernabben,0861R008,4
 861,Monsteras,0861A0010,Alem omland,0861R009,4
-861,Monsteras,0861B2010,Alem stationssamhalle,0861R010,4
+861,Monsteras,0861B2010,Alem stationssamhalle,0861R010,3
 862,Emmaboda,0862A0030,Algutsboda-Algutsboda omland,0862R001,3
 862,Emmaboda,0862C1010,Emmaboda norra,0862R002,3
 862,Emmaboda,0862C1020,Emmaboda sodra,0862R003,1
@@ -2344,9 +2344,9 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 880,Kalmar,0880C1180,Berga,0880R001,5
 880,Kalmar,0880C1230,Bergavik-Bjorkenas,0880R002,4
 880,Kalmar,0880C1240,Bergavik-Bjorkenas,0880R002,4
-880,Kalmar,0880A0030,Boholmarna-Duno-Rinkabyholm,0880R003,5
-880,Kalmar,0880B2010,Boholmarna-Duno-Rinkabyholm,0880R003,5
-880,Kalmar,0880B2020,Boholmarna-Duno-Rinkabyholm,0880R003,5
+880,Kalmar,0880A0030,Boholmarna-Duno-Rinkabyholm,0880R003,4
+880,Kalmar,0880B2010,Boholmarna-Duno-Rinkabyholm,0880R003,4
+880,Kalmar,0880B2020,Boholmarna-Duno-Rinkabyholm,0880R003,4
 880,Kalmar,0880C1170,Djurangen-Funkabo-Oxhagen,0880R004,3
 880,Kalmar,0880C1190,Djurangen-Funkabo-Oxhagen,0880R004,3
 880,Kalmar,0880C1120,Djurangen-Funkabo-Oxhagen,0880R004,3
@@ -2382,12 +2382,12 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 880,Kalmar,0880B2030,Vastra Smedby,0880R015,2
 880,Kalmar,0880C1090,Ostra Norrgard-Ostra Malmen,0880R016,4
 880,Kalmar,0880C1060,Ostra Norrgard-Ostra Malmen,0880R016,4
-880,Kalmar,0880B2040,Ostra Smedby,0880R017,4
+880,Kalmar,0880B2040,Ostra Smedby,0880R017,3
 881,Nybro,0881A0010,Alsjoholm-Orsjo,0881R001,3
 881,Nybro,0881A0030,Halleberga-Kristvalla,0881R002,3
 881,Nybro,0881A0040,Kraksmala,0881R003,3
 881,Nybro,0881C1070,Kungshall,0881R004,1
-881,Nybro,0881C1080,Myrdalen-Idehult-Rismala,0881R005,3
+881,Nybro,0881C1080,Myrdalen-Idehult-Rismala,0881R005,2
 881,Nybro,0881C1050,Nybro centrum-Paradiset-Akrahall,0881R006,3
 881,Nybro,0881C1060,Nybro centrum-Paradiset-Akrahall,0881R006,3
 881,Nybro,0881C1040,Nybro sodra-Madesjo,0881R007,4
@@ -2423,7 +2423,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 883,Vastervik,0883A0050,Norra Tjust,0883R005,3
 883,Vastervik,0883A0060,Norra Tjust,0883R005,3
 883,Vastervik,0883C1090,Peru-Arabien,0883R006,3
-883,Vastervik,0883C1120,Piperskarr-Grantorpet,0883R007,5
+883,Vastervik,0883C1120,Piperskarr-Grantorpet,0883R007,4
 883,Vastervik,0883C1060,Reginelund-Stenhagen,0883R008,4
 883,Vastervik,0883C1100,Reginelund-Stenhagen,0883R008,4
 883,Vastervik,0883C1130,Skogshaga,0883R009,3
@@ -2441,15 +2441,15 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 884,Vimmerby,0884B3010,Storebro,0884R001,3
 884,Vimmerby,0884B2010,Sodra Vi,0884R002,3
 884,Vimmerby,0884C1050,Vimmerby norra,0884R003,5
-884,Vimmerby,0884A0030,Vimmerby norra landsbygd,0884R004,3
+884,Vimmerby,0884A0030,Vimmerby norra landsbygd,0884R004,4
 884,Vimmerby,0884C1010,Vimmerby sydost,0884R005,3
 884,Vimmerby,0884C1020,Vimmerby sydvast,0884R006,3
 884,Vimmerby,0884A0020,Vimmerby vastra landsbygd,0884R007,4
 884,Vimmerby,0884C1040,Vimmerby ostra,0884R008,4
 884,Vimmerby,0884A0010,Vimmerby ostra landsbygd,0884R009,4
 884,Vimmerby,0884C1030,Vimmerby-Bullerbyn,0884R010,2
-885,Borgholm,0885A0030,Borgholm norra kommundelen,0885R001,4
-885,Borgholm,0885A0040,Borgholm norra kommundelen,0885R001,4
+885,Borgholm,0885A0030,Borgholm norra kommundelen,0885R001,3
+885,Borgholm,0885A0040,Borgholm norra kommundelen,0885R001,3
 885,Borgholm,0885A0010,Borgholm sodra kommundelen,0885R002,4
 885,Borgholm,0885A0020,Borgholm sodra kommundelen,0885R002,4
 885,Borgholm,0885C1010,Borgholm-Kopingsvik,0885R003,3
@@ -2483,7 +2483,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 980,Gotland,0980C1130,Innerstaden-Visby norra,0980R007,4
 980,Gotland,0980C1140,Innerstaden-Visby norra,0980R007,4
 980,Gotland,0980B3010,Klintehamn,0980R008,3
-980,Gotland,0980B5010,Roma,0980R009,4
+980,Gotland,0980B5010,Roma,0980R009,3
 980,Gotland,0980B4010,Slite,0980R010,3
 980,Gotland,0980A0110,Visby omland,0980R011,4
 980,Gotland,0980A0140,Visby omland,0980R011,4
@@ -2525,7 +2525,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1080,Karlskrona,1080C1220,Nattraby tatort,1080R016,5
 1080,Karlskrona,1080C1130,Nattraby tatort,1080R016,5
 1080,Karlskrona,1080C1190,Nattraby tatort,1080R016,5
-1080,Karlskrona,1080C1080,Pantarholmen,1080R017,4
+1080,Karlskrona,1080C1080,Pantarholmen,1080R017,3
 1080,Karlskrona,1080A0030,Ramdala-Senoren,1080R018,5
 1080,Karlskrona,1080B2010,Rodeby tatort,1080R019,4
 1080,Karlskrona,1080B2020,Rodeby tatort,1080R019,4
@@ -2547,11 +2547,11 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1081,Ronneby,1081C1010,Ekenas-Sorby-Patorp,1081R003,4
 1081,Ronneby,1081C1020,Ekenas-Sorby-Patorp,1081R003,4
 1081,Ronneby,1081C1080,Ekenas-Sorby-Patorp,1081R003,4
-1081,Ronneby,1081A0040,Hasselstad-Eringsboda,1081R004,4
+1081,Ronneby,1081A0040,Hasselstad-Eringsboda,1081R004,3
 1081,Ronneby,1081C1060,Hulta,1081R005,5
-1081,Ronneby,1081C1110,Kallinge,1081R006,3
-1081,Ronneby,1081C1090,Kallinge,1081R006,3
-1081,Ronneby,1081C1100,Kallinge,1081R006,3
+1081,Ronneby,1081C1110,Kallinge,1081R006,2
+1081,Ronneby,1081C1090,Kallinge,1081R006,2
+1081,Ronneby,1081C1100,Kallinge,1081R006,2
 1081,Ronneby,1081C1050,Ronneby centrum,1081R007,2
 1081,Ronneby,1081C1070,Ronneby centrum,1081R007,2
 1081,Ronneby,1081A0020,Saxemara-Listerby-Johannishus,1081R008,4
@@ -2563,14 +2563,14 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1082,Karlshamn,1082C1090,Duveryd,1082R002,4
 1082,Karlshamn,1082C1140,Froarp,1082R003,4
 1082,Karlshamn,1082A0020,Hallaryd-Aryd,1082R004,4
-1082,Karlshamn,1082C1080,Hogadal,1082R005,2
+1082,Karlshamn,1082C1080,Hogadal,1082R005,3
 1082,Karlshamn,1082C1030,Karlshamn centrala,1082R006,3
 1082,Karlshamn,1082C1040,Karlshamn centrala,1082R006,3
 1082,Karlshamn,1082C1060,Karlshamn centrala,1082R006,3
 1082,Karlshamn,1082C1020,Karlshamn vastra,1082R007,3
 1082,Karlshamn,1082C1010,Karlshamn ostra,1082R008,4
 1082,Karlshamn,1082C1050,Karlshamn ostra,1082R008,4
-1082,Karlshamn,1082C1110,Korpadalen-Stromma,1082R009,5
+1082,Karlshamn,1082C1110,Korpadalen-Stromma,1082R009,4
 1082,Karlshamn,1082C1130,Morrum vastra,1082R010,3
 1082,Karlshamn,1082C1100,Morrum ostra,1082R011,4
 1082,Karlshamn,1082A0010,Morrum-Svangsta omland,1082R012,4
@@ -2579,7 +2579,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1082,Karlshamn,1082B2010,Svangsta,1082R014,2
 1083,Solvesborg,1083C1010,Falkvik,1083R001,3
 1083,Solvesborg,1083B3010,Hallevik,1083R002,4
-1083,Solvesborg,1083A0020,Kylinge-Gammalstorp-Ysane,1083R003,4
+1083,Solvesborg,1083A0020,Kylinge-Gammalstorp-Ysane,1083R003,3
 1083,Solvesborg,1083A0010,Listerlandet-Hano,1083R004,4
 1083,Solvesborg,1083B2010,Mjallby,1083R005,3
 1083,Solvesborg,1083B4010,Norje-Pukavik,1083R006,4
@@ -2596,7 +2596,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1214,Svalov,1214C1020,Svalov,1214R003,3
 1214,Svalov,1214B2010,Teckomatorp,1214R004,4
 1230,Staffanstorp,1230B2010,Hjarup-Hjarup omnejd,1230R001,5
-1230,Staffanstorp,1230A0020,Jakriborg-Jakriborg omnejd,1230R002,3
+1230,Staffanstorp,1230A0020,Jakriborg-Jakriborg omnejd,1230R002,4
 1230,Staffanstorp,1230C1080,Nordvastra Staffanstorp-omnejd,1230R003,3
 1230,Staffanstorp,1230C1070,Nordostra Staffanstorp-omnejd,1230R004,4
 1230,Staffanstorp,1230B2020,Norra Hjarup-omnejd-Bergstromshusen,1230R005,5
@@ -2605,22 +2605,22 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1230,Staffanstorp,1230C1060,Staffanstorp vastra,1230R008,4
 1230,Staffanstorp,1230C1050,Staffanstorp ostra,1230R009,4
 1230,Staffanstorp,1230A0010,Staffanstorps omnejd,1230R010,4
-1230,Staffanstorp,1230C1020,Sydvastra Staffanstorp-omnejd,1230R011,5
+1230,Staffanstorp,1230C1020,Sydvastra Staffanstorp-omnejd,1230R011,4
 1230,Staffanstorp,1230C1010,Sydostra Staffanstorp-omnejd,1230R012,4
 1231,Burlov,1231C1040,Burlov sodra,1231R001,3
-1231,Burlov,1231C1100,Norra Akarp,1231R002,5
+1231,Burlov,1231C1100,Norra Akarp,1231R002,4
 1231,Burlov,1231C1010,Svenshog-Elisetorp,1231R003,2
 1231,Burlov,1231C1030,Svenshog-Elisetorp,1231R003,2
 1231,Burlov,1231C1050,Svenshog-Elisetorp,1231R003,2
-1231,Burlov,1231C1020,Sodra Arlov,1231R004,2
+1231,Burlov,1231C1020,Sodra Arlov,1231R004,3
 1231,Burlov,1231C1080,Sodra Akarp,1231R005,4
 1231,Burlov,1231C1090,Sodra Akarp,1231R005,4
 1231,Burlov,1231C1060,Tagarp,1231R006,3
 1231,Burlov,1231C1070,Tagarp,1231R006,3
 1233,Vellinge,1233B4020,Arrie-Vastra Ingelstad-Ostra Grevie,1233R001,4
 1233,Vellinge,1233B4010,Arrie-Vastra Ingelstad-Ostra Grevie,1233R001,4
-1233,Vellinge,1233B3010,Falsterbo,1233R002,5
-1233,Vellinge,1233B3020,Falsterbo,1233R002,5
+1233,Vellinge,1233B3010,Falsterbo,1233R002,4
+1233,Vellinge,1233B3020,Falsterbo,1233R002,4
 1233,Vellinge,1233C1050,Hokopinge,1233R003,4
 1233,Vellinge,1233B2060,Hollviken centrum-Collins vag-Klockarevagen,1233R004,5
 1233,Vellinge,1233B2070,Hollviken centrum-Collins vag-Klockarevagen,1233R004,5
@@ -2634,12 +2634,12 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1233,Vellinge,1233A0010,Vellinge kommuns jordbrukslandskap,1233R009,4
 1233,Vellinge,1233A0020,Vellinge kommuns jordbrukslandskap,1233R009,4
 1233,Vellinge,1233C1040,Vellinge norra-Asklunda-Eskilstorp,1233R010,5
-1233,Vellinge,1233C1010,Vellinge sodra-Sodervang-Tofta,1233R011,4
+1233,Vellinge,1233C1010,Vellinge sodra-Sodervang-Tofta,1233R011,5
 1233,Vellinge,1233C1020,Vellinge vastra-Norrevang-Torsgarden,1233R012,4
 1233,Vellinge,1233B2040,Ostra Hollviken-Kronodal-Granvik,1233R013,5
-1233,Vellinge,1233B2080,Ostra Hollviken-Sandeplan-Rangs sand,1233R014,5
+1233,Vellinge,1233B2080,Ostra Hollviken-Sandeplan-Rangs sand,1233R014,4
 1256,Ostra Goinge,1256C1010,Broby vast,1256R001,3
-1256,Ostra Goinge,1256C1020,Broby ost,1256R002,1
+1256,Ostra Goinge,1256C1020,Broby ost,1256R002,2
 1256,Ostra Goinge,1256B3010,Glimakra,1256R003,2
 1256,Ostra Goinge,1256B5010,Hanaskog,1256R004,2
 1256,Ostra Goinge,1256B2010,Knislinge vast,1256R005,4
@@ -2659,12 +2659,12 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1260,Bjuv,1260A0020,Billesholm sodra,1260R002,2
 1260,Bjuv,1260C1040,Bjuv norra-Gunnarstorp,1260R003,2
 1260,Bjuv,1260C1010,Bjuv sodra,1260R004,3
-1260,Bjuv,1260C1030,Bjuv vastra,1260R005,4
-1260,Bjuv,1260C1020,Bjuv ostra-Selleberga,1260R006,1
+1260,Bjuv,1260C1030,Bjuv vastra,1260R005,3
+1260,Bjuv,1260C1020,Bjuv ostra-Selleberga,1260R006,2
 1260,Bjuv,1260B2010,Ekeby vastra,1260R007,4
 1260,Bjuv,1260A0010,Ekeby ostra,1260R008,3
 1261,Kavlinge,1261C1070,Arvidsborg-Korsbacka,1261R001,2
-1261,Kavlinge,1261B2070,Dosjebro,1261R002,4
+1261,Kavlinge,1261B2070,Dosjebro,1261R002,5
 1261,Kavlinge,1261C1010,Furulund-Lackalanga,1261R003,5
 1261,Kavlinge,1261C1020,Furulund-Lackalanga,1261R003,5
 1261,Kavlinge,1261B2050,Hofterup-Alstorp,1261R004,5
@@ -2699,8 +2699,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1263,Svedala,1263A0010,Bjarshog-Skabersjo-Karrstorp,1263R002,4
 1263,Svedala,1263A0020,Hyby-Holmeja-Borringe,1263R003,4
 1263,Svedala,1263B3010,Klagerup,1263R004,4
-1263,Svedala,1263C1040,Marback-Naverlonn-Kyrkan,1263R005,3
-1263,Svedala,1263C1050,Marback-Naverlonn-Kyrkan,1263R005,3
+1263,Svedala,1263C1040,Marback-Naverlonn-Kyrkan,1263R005,4
+1263,Svedala,1263C1050,Marback-Naverlonn-Kyrkan,1263R005,4
 1263,Svedala,1263C1010,Svedala centrum-Svedala sodra,1263R006,4
 1263,Svedala,1263C1020,Svedala centrum-Svedala sodra,1263R006,4
 1263,Svedala,1263C1030,Svedala centrum-Svedala sodra,1263R006,4
@@ -2724,7 +2724,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1265,Sjobo,1265A0040,Lovestad-Heinge,1265R006,3
 1265,Sjobo,1265C1020,Sjobo centrum-Sjobo ostra,1265R007,3
 1265,Sjobo,1265C1040,Sommarbyarna Norra-Omma,1265R008,3
-1265,Sjobo,1265C1010,Sommarbyarna Sodra-Ryggorna-Spjalla,1265R009,4
+1265,Sjobo,1265C1010,Sommarbyarna Sodra-Ryggorna-Spjalla,1265R009,3
 1265,Sjobo,1265A0010,Sovde-Knickarp,1265R010,4
 1265,Sjobo,1265A0050,Vollsjo-Brandstad,1265R011,3
 1265,Sjobo,1265A0030,Asperod-Vanstad-Roddinge,1265R012,4
@@ -2750,18 +2750,18 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1270,Tomelilla,1270A0030,Tomelilla norra omland,1270R001,4
 1270,Tomelilla,1270C1040,Tomelilla omnejd,1270R002,4
 1270,Tomelilla,1270C1010,Tomelilla sodra,1270R003,3
-1270,Tomelilla,1270A0010,Tomelilla sodra omland,1270R004,4
-1270,Tomelilla,1270A0020,Tomelilla sodra omland,1270R004,4
+1270,Tomelilla,1270A0010,Tomelilla sodra omland,1270R004,3
+1270,Tomelilla,1270A0020,Tomelilla sodra omland,1270R004,3
 1270,Tomelilla,1270C1020,Tomelilla vastra,1270R005,1
 1270,Tomelilla,1270C1030,Tomelilla ostra,1270R006,3
 1272,Bromolla,1272A0010,Bromolla omland,1272R001,4
 1272,Bromolla,1272C1030,Bromolla oster-Dalafuret,1272R002,3
 1272,Bromolla,1272C1020,Bromolla ostra centrum-Abylyckorna,1272R003,3
-1272,Bromolla,1272C1010,Gualov-Bromolla skogen-vastra centrum Bromolla,1272R004,3
+1272,Bromolla,1272C1010,Gualov-Bromolla skogen-vastra centrum Bromolla,1272R004,2
 1272,Bromolla,1272C1040,Ivetofta-Rokebacken,1272R005,4
 1272,Bromolla,1272B3010,Nymolla-Edenryd-Valje,1272R006,4
 1272,Bromolla,1272B2010,Nasum-Vastana,1272R007,3
-1273,Osby,1273A0030,Killeberg-Loshult-Hokon,1273R001,3
+1273,Osby,1273A0030,Killeberg-Loshult-Hokon,1273R001,4
 1273,Osby,1273B2010,Lonsboda,1273R002,3
 1273,Osby,1273A0010,Lonsboda omland,1273R003,4
 1273,Osby,1273C1040,Osby norra,1273R004,2
@@ -2777,20 +2777,20 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1275,Perstorp,1275C1030,Perstorp sydostra tatorten,1275R005,3
 1276,Klippan,1276A0020,Krika omland,1276R001,4
 1276,Klippan,1276B2010,Ljungbyhed,1276R002,3
-1276,Klippan,1276A0010,Ljungbyhed omland,1276R003,4
+1276,Klippan,1276A0010,Ljungbyhed omland,1276R003,3
 1276,Klippan,1276C1010,Solslatt-Pappersbruket,1276R004,3
 1276,Klippan,1276C1030,Solslatt-Pappersbruket,1276R004,3
 1276,Klippan,1276A0030,Stidsvig-Ostra Ljungby,1276R005,3
 1276,Klippan,1276B3010,Stidsvig-Ostra Ljungby,1276R005,3
 1276,Klippan,1276C1040,Storang-Sondraby,1276R006,4
-1276,Klippan,1276C1020,Tegelbruket-Klippan vaster,1276R007,2
-1276,Klippan,1276C1050,Tegelbruket-Klippan vaster,1276R007,2
+1276,Klippan,1276C1020,Tegelbruket-Klippan vaster,1276R007,3
+1276,Klippan,1276C1050,Tegelbruket-Klippan vaster,1276R007,3
 1277,Astorp,1277C1060,Bjornekulla,1277R001,3
 1277,Astorp,1277C1030,Bjornas-Tingdal,1277R002,4
 1277,Astorp,1277C1070,Centrum norr-Grytevad,1277R003,3
 1277,Astorp,1277C1020,Dala-Bjarshog,1277R004,3
 1277,Astorp,1277C1040,Haganas,1277R005,1
-1277,Astorp,1277B2010,Hyllinge,1277R006,4
+1277,Astorp,1277B2010,Hyllinge,1277R006,3
 1277,Astorp,1277B3010,Kvidinge,1277R007,3
 1277,Astorp,1277A0010,Kvidinge omland,1277R008,4
 1277,Astorp,1277C1010,Nyvang-Vastra Broby,1277R009,3
@@ -2823,9 +2823,9 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1280,Malmo,1280C1190,RegSO-Bunkeflostrand vast,1280R010,4
 1280,Malmo,1280C1160,RegSO-Bunkeflostrand ost,1280R011,3
 1280,Malmo,1280C1200,RegSO-Bunkeflostrand ost,1280R011,3
-1280,Malmo,1280C2170,RegSO-Dammfri,1280R012,3
-1280,Malmo,1280C2250,RegSO-Dammfri,1280R012,3
-1280,Malmo,1280C2270,RegSO-Dammfri,1280R012,3
+1280,Malmo,1280C2170,RegSO-Dammfri,1280R012,4
+1280,Malmo,1280C2250,RegSO-Dammfri,1280R012,4
+1280,Malmo,1280C2270,RegSO-Dammfri,1280R012,4
 1280,Malmo,1280C2580,RegSO-Davidshall-Lugnet,1280R013,4
 1280,Malmo,1280C2510,RegSO-Davidshall-Lugnet,1280R013,4
 1280,Malmo,1280C2520,RegSO-Davidshall-Lugnet,1280R013,4
@@ -2908,9 +2908,9 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1280,Malmo,1280C2230,RegSO-Mollevangen ost,1280R052,3
 1280,Malmo,1280C1470,RegSO-Nydala norr,1280R053,1
 1280,Malmo,1280C1460,RegSO-Nydala norr,1280R053,1
-1280,Malmo,1280C1100,RegSO-Oxie norr,1280R054,4
-1280,Malmo,1280C1110,RegSO-Oxie norr,1280R054,4
-1280,Malmo,1280C1130,RegSO-Oxie norr,1280R054,4
+1280,Malmo,1280C1100,RegSO-Oxie norr,1280R054,3
+1280,Malmo,1280C1110,RegSO-Oxie norr,1280R054,3
+1280,Malmo,1280C1130,RegSO-Oxie norr,1280R054,3
 1280,Malmo,1280C1050,RegSO-Oxie syd,1280R055,3
 1280,Malmo,1280C1060,RegSO-Oxie syd,1280R055,3
 1280,Malmo,1280C1070,RegSO-Oxie syd,1280R055,3
@@ -2925,10 +2925,10 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1280,Malmo,1280C2710,RegSO-Ribersborg,1280R057,4
 1280,Malmo,1280C2530,RegSO-Riseberga,1280R058,4
 1280,Malmo,1280C2600,RegSO-Riseberga,1280R058,4
-1280,Malmo,1280C2200,RegSO-Radmansvangen,1280R059,3
-1280,Malmo,1280C2240,RegSO-Radmansvangen,1280R059,3
-1280,Malmo,1280C2370,RegSO-Radmansvangen,1280R059,3
-1280,Malmo,1280C2400,RegSO-Radmansvangen,1280R059,3
+1280,Malmo,1280C2200,RegSO-Radmansvangen,1280R059,4
+1280,Malmo,1280C2240,RegSO-Radmansvangen,1280R059,4
+1280,Malmo,1280C2370,RegSO-Radmansvangen,1280R059,4
+1280,Malmo,1280C2400,RegSO-Radmansvangen,1280R059,4
 1280,Malmo,1280C2360,RegSO-Ronneholm,1280R060,4
 1280,Malmo,1280C2410,RegSO-Ronneholm,1280R060,4
 1280,Malmo,1280C2430,RegSO-Ronneholm,1280R060,4
@@ -2939,7 +2939,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1280,Malmo,1280C2720,RegSO-Rorsjostaden,1280R061,4
 1280,Malmo,1280C2860,RegSO-Sege vast,1280R062,2
 1280,Malmo,1280C2890,RegSO-Sege vast,1280R062,2
-1280,Malmo,1280C2910,RegSO-Sege ost,1280R063,2
+1280,Malmo,1280C2910,RegSO-Sege ost,1280R063,1
 1280,Malmo,1280C1540,RegSO-Sibbarp,1280R064,4
 1280,Malmo,1280C1640,RegSO-Sibbarp,1280R064,4
 1280,Malmo,1280C1790,RegSO-Sibbarp,1280R064,4
@@ -2962,9 +2962,9 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1280,Malmo,1280C1970,RegSO-Sodervarn-Allmanna sjukhuset-Flensburg,1280R071,2
 1280,Malmo,1280C1710,RegSO-Sodra Sofielund,1280R072,1
 1280,Malmo,1280C1800,RegSO-Sodra Sofielund,1280R072,1
-1280,Malmo,1280C1010,RegSO-Tygelsjo by omland,1280R073,4
-1280,Malmo,1280C1020,RegSO-Tygelsjo by omland,1280R073,4
-1280,Malmo,1280C1040,RegSO-Tygelsjo by omland,1280R073,4
+1280,Malmo,1280C1010,RegSO-Tygelsjo by omland,1280R073,5
+1280,Malmo,1280C1020,RegSO-Tygelsjo by omland,1280R073,5
+1280,Malmo,1280C1040,RegSO-Tygelsjo by omland,1280R073,5
 1280,Malmo,1280C2070,RegSO-Videdal,1280R074,4
 1280,Malmo,1280C2120,RegSO-Videdal,1280R074,4
 1280,Malmo,1280C1120,RegSO-Vintrie-Skumparp,1280R075,5
@@ -3010,8 +3010,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1281,Lund,1281B3030,Dalby centrum,1281R004,4
 1281,Lund,1281B3040,Dalby centrum,1281R004,4
 1281,Lund,1281A0020,Dalby-Veberod omnejd,1281R005,4
-1281,Lund,1281C1440,Delphinen-Kamnarsvagen,1281R006,2
-1281,Lund,1281C1450,Delphinen-Kamnarsvagen,1281R006,2
+1281,Lund,1281C1440,Delphinen-Kamnarsvagen,1281R006,1
+1281,Lund,1281C1450,Delphinen-Kamnarsvagen,1281R006,1
 1281,Lund,1281B5010,Genarp centrum,1281R007,4
 1281,Lund,1281B5020,Genarp centrum,1281R007,4
 1281,Lund,1281A0010,Genarps omnejd,1281R008,4
@@ -3049,11 +3049,11 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1281,Lund,1281C1510,Nobbelov-Oscarshem,1281R021,4
 1281,Lund,1281C1530,Nobbelovs torg,1281R022,3
 1281,Lund,1281C1120,Parentesen-Ulrikedal,1281R023,2
-1281,Lund,1281C1010,Rabyholm,1281R024,3
-1281,Lund,1281C1500,Sankt Hans,1281R025,2
+1281,Lund,1281C1010,Rabyholm,1281R024,4
+1281,Lund,1281C1500,Sankt Hans,1281R025,3
 1281,Lund,1281C1480,Skarpskyttevagen-Sankt Hans Backar,1281R026,4
 1281,Lund,1281C1370,Sparta-Ideon,1281R027,2
-1281,Lund,1281C1030,Stora Raby-Norranga,1281R028,3
+1281,Lund,1281C1030,Stora Raby-Norranga,1281R028,4
 1281,Lund,1281C1490,Svenshogskolan-Utsattaregranden,1281R029,4
 1281,Lund,1281A0030,Sodra Sanby omnejd,1281R030,4
 1281,Lund,1281B2010,Sodra Sandby centrum,1281R031,4
@@ -3062,8 +3062,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1281,Lund,1281B2040,Sodra Sandby centrum,1281R031,4
 1281,Lund,1281C1200,Tuna-Galjevangen,1281R032,4
 1281,Lund,1281C1280,Tuna-Galjevangen,1281R032,4
-1281,Lund,1281C1560,Vallkarra-Stangby,1281R033,4
-1281,Lund,1281C1570,Vallkarra-Stangby,1281R033,4
+1281,Lund,1281C1560,Vallkarra-Stangby,1281R033,5
+1281,Lund,1281C1570,Vallkarra-Stangby,1281R033,5
 1281,Lund,1281B4010,Veberod centrum,1281R034,4
 1281,Lund,1281B4020,Veberod centrum,1281R034,4
 1281,Lund,1281B4030,Veberod centrum,1281R034,4
@@ -3084,7 +3084,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1282,Landskrona,1282C1060,Landskrona centrum-Oster,1282R010,1
 1282,Landskrona,1282C1070,Landskrona centrum-Oster,1282R010,1
 1282,Landskrona,1282C1080,Landskrona centrum-Oster,1282R010,1
-1282,Landskrona,1282C1040,Nyhamn-Sodra Industriomradet,1282R011,3
+1282,Landskrona,1282C1040,Nyhamn-Sodra Industriomradet,1282R011,4
 1282,Landskrona,1282C1200,Pilakern-Silvergarden-Karlslund-Sabyholm,1282R012,2
 1282,Landskrona,1282C1150,Pilangen,1282R013,1
 1282,Landskrona,1282C1140,Sandvangen,1282R014,3
@@ -3096,17 +3096,17 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1283,Helsingborg,1283C1270,Adolfsberg-Vastergard,1283R001,2
 1283,Helsingborg,1283C1340,Adolfsberg-Vastergard,1283R001,2
 1283,Helsingborg,1283C1370,Adolfsberg-Vastergard,1283R001,2
-1283,Helsingborg,1283A0030,Allerum-Domsten,1283R002,4
+1283,Helsingborg,1283A0030,Allerum-Domsten,1283R002,5
 1283,Helsingborg,1283C1610,Berga-Kullavagen sodra,1283R003,3
 1283,Helsingborg,1283C1560,Dalhem-Vala sodra,1283R004,2
 1283,Helsingborg,1283C1570,Dalhem-Vala sodra,1283R004,2
 1283,Helsingborg,1283C1600,Dalhem-Vala sodra,1283R004,2
 1283,Helsingborg,1283C1540,Drottninghog,1283R005,1
 1283,Helsingborg,1283C1550,Drottninghog,1283R005,1
-1283,Helsingborg,1283C1310,Eneborg-Hogaborg,1283R006,1
-1283,Helsingborg,1283C1230,Eneborg-Hogaborg,1283R006,1
-1283,Helsingborg,1283C1250,Eneborg-Hogaborg,1283R006,1
-1283,Helsingborg,1283C1280,Eneborg-Hogaborg,1283R006,1
+1283,Helsingborg,1283C1310,Eneborg-Hogaborg,1283R006,2
+1283,Helsingborg,1283C1230,Eneborg-Hogaborg,1283R006,2
+1283,Helsingborg,1283C1250,Eneborg-Hogaborg,1283R006,2
+1283,Helsingborg,1283C1280,Eneborg-Hogaborg,1283R006,2
 1283,Helsingborg,1283C1180,Eskilsminne-Gustavslund norra,1283R007,4
 1283,Helsingborg,1283C1190,Eskilsminne-Gustavslund norra,1283R007,4
 1283,Helsingborg,1283C1220,Eskilsminne-Gustavslund norra,1283R007,4
@@ -3116,8 +3116,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1283,Helsingborg,1283C1330,Helsingborg centrum-Slottshojden vastra,1283R009,4
 1283,Helsingborg,1283C1350,Helsingborg centrum-Slottshojden vastra,1283R009,4
 1283,Helsingborg,1283C1390,Helsingborg centrum-Slottshojden vastra,1283R009,4
-1283,Helsingborg,1283C1300,Husensjo-Sofieberg,1283R010,5
-1283,Helsingborg,1283C1320,Husensjo-Sofieberg,1283R010,5
+1283,Helsingborg,1283C1300,Husensjo-Sofieberg,1283R010,4
+1283,Helsingborg,1283C1320,Husensjo-Sofieberg,1283R010,4
 1283,Helsingborg,1283C1070,Hogasten-Miatorp ostra,1283R011,2
 1283,Helsingborg,1283C1090,Hogasten-Miatorp ostra,1283R011,2
 1283,Helsingborg,1283A0040,Kattarp-Hasslarp-Utvalinge,1283R012,3
@@ -3183,8 +3183,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1284,Hoganas,1284C1100,Hoganas ostra-Vasby-Ingelstrade,1284R005,3
 1284,Hoganas,1284C1070,Hoganas ostra-Vasby-Ingelstrade,1284R005,3
 1284,Hoganas,1284C1080,Hoganas ovre,1284R006,3
-1284,Hoganas,1284B2010,Jonstorp-Rekekroken-Svanshall,1284R007,5
-1284,Hoganas,1284B2020,Jonstorp-Rekekroken-Svanshall,1284R007,5
+1284,Hoganas,1284B2010,Jonstorp-Rekekroken-Svanshall,1284R007,4
+1284,Hoganas,1284B2020,Jonstorp-Rekekroken-Svanshall,1284R007,4
 1284,Hoganas,1284C1040,Lerberget,1284R008,5
 1284,Hoganas,1284C1050,Lerberget,1284R008,5
 1284,Hoganas,1284C1010,Viken,1284R009,5
@@ -3198,7 +3198,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1285,Eslov,1285A0070,Billinge-Stockamollan-Stehag,1285R003,4
 1285,Eslov,1285B4010,Billinge-Stockamollan-Stehag,1285R003,4
 1285,Eslov,1285C1030,Eslov centrum,1285R004,3
-1285,Eslov,1285C1080,Eslov norr,1285R005,2
+1285,Eslov,1285C1080,Eslov norr,1285R005,3
 1285,Eslov,1285A0020,Flyinge-Ortofta-Hurva,1285R006,4
 1285,Eslov,1285A0030,Flyinge-Ortofta-Hurva,1285R006,4
 1285,Eslov,1285A0040,Flyinge-Ortofta-Hurva,1285R006,4
@@ -3206,8 +3206,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1285,Eslov,1285C1060,Karlsro-Solkullen,1285R007,4
 1285,Eslov,1285A0010,Loberod-Harlosa,1285R008,4
 1285,Eslov,1285B3010,Loberod-Harlosa,1285R008,4
-1285,Eslov,1285A0050,Marieholm,1285R009,4
-1285,Eslov,1285B2010,Marieholm,1285R009,4
+1285,Eslov,1285A0050,Marieholm,1285R009,3
+1285,Eslov,1285B2010,Marieholm,1285R009,3
 1285,Eslov,1285C1090,Ronneberga-Norrevang,1285R010,2
 1285,Eslov,1285C1020,Sallerup-Hallan-Backdala,1285R011,3
 1286,Ystad,1286C1030,Bellevue,1286R001,4
@@ -3227,8 +3227,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1286,Ystad,1286A0050,Vallosa-Skarby-Svarte,1286R008,4
 1286,Ystad,1286C1100,Ystad norra-Hedeskoga-Stora Herrestad,1286R009,4
 1286,Ystad,1286C1110,Ystad norra-Hedeskoga-Stora Herrestad,1286R009,4
-1286,Ystad,1286C1060,Ystad ostra,1286R010,3
-1286,Ystad,1286C1080,Ystad ostra,1286R010,3
+1286,Ystad,1286C1060,Ystad ostra,1286R010,4
+1286,Ystad,1286C1080,Ystad ostra,1286R010,4
 1287,Trelleborg,1287A0010,Alstad-Gislov-Sodra Aby-Sodra Aby omland,1287R001,4
 1287,Trelleborg,1287A0040,Alstad-Gislov-Sodra Aby-Sodra Aby omland,1287R001,4
 1287,Trelleborg,1287B3010,Anderslov,1287R002,4
@@ -3242,7 +3242,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1287,Trelleborg,1287C1060,Kyrkokopinge-Malorten-Akka-Pilevall,1287R006,3
 1287,Trelleborg,1287C1110,Kyrkokopinge-Malorten-Akka-Pilevall,1287R006,3
 1287,Trelleborg,1287C1140,Kyrkokopinge-Malorten-Akka-Pilevall,1287R006,3
-1287,Trelleborg,1287C1190,Skegrie,1287R007,4
+1287,Trelleborg,1287C1190,Skegrie,1287R007,5
 1287,Trelleborg,1287A0030,Skegrie-Vastra Tommarp omland,1287R008,4
 1287,Trelleborg,1287B2010,Smygehamn-Beddingestrand,1287R009,4
 1287,Trelleborg,1287B2020,Smygehamn-Beddingestrand,1287R009,4
@@ -3275,11 +3275,11 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1290,Kristianstad,1290C1120,Kristianstad centrum,1290R008,2
 1290,Kristianstad,1290C1150,Kulltorp-Sommarlust-Egna Hem,1290R009,4
 1290,Kristianstad,1290C1180,Kulltorp-Sommarlust-Egna Hem,1290R009,4
-1290,Kristianstad,1290A0050,Linderod-Trane-Asphult,1290R010,3
-1290,Kristianstad,1290A0070,Linderod-Trane-Asphult,1290R010,3
+1290,Kristianstad,1290A0050,Linderod-Trane-Asphult,1290R010,4
+1290,Kristianstad,1290A0070,Linderod-Trane-Asphult,1290R010,4
 1290,Kristianstad,1290C1210,Nosaby-Mollebacken,1290R011,4
-1290,Kristianstad,1290C1200,Nasby,1290R012,3
-1290,Kristianstad,1290C1190,Nasby,1290R012,3
+1290,Kristianstad,1290C1200,Nasby,1290R012,2
+1290,Kristianstad,1290C1190,Nasby,1290R012,2
 1290,Kristianstad,1290C1070,Soder,1290R013,3
 1290,Kristianstad,1290B3010,Tollarp,1290R014,3
 1290,Kristianstad,1290B3020,Tollarp,1290R014,3
@@ -3303,7 +3303,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1290,Kristianstad,1290C1160,Osterang,1290R023,1
 1290,Kristianstad,1290C1140,Ostra Kasern-Faladen,1290R024,2
 1290,Kristianstad,1290C1170,Ostra Kasern-Faladen,1290R024,2
-1291,Simrishamn,1291B5010,Borrby,1291R001,3
+1291,Simrishamn,1291B5010,Borrby,1291R001,2
 1291,Simrishamn,1291B2010,Garsnas,1291R002,3
 1291,Simrishamn,1291B3010,Hammenhog,1291R003,3
 1291,Simrishamn,1291A0060,Kivik,1291R004,4
@@ -3327,8 +3327,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1292,Angelholm,1292C1020,Kulltorp-Sodra Utmarken-Epadalen,1292R006,4
 1292,Angelholm,1292B2010,Munka Ljungby-Tastarp-Toarp,1292R007,4
 1292,Angelholm,1292B2020,Munka Ljungby-Tastarp-Toarp,1292R007,4
-1292,Angelholm,1292C1120,Skalderviken-Pomona-Arrarps angar,1292R008,5
-1292,Angelholm,1292C1130,Skalderviken-Pomona-Arrarps angar,1292R008,5
+1292,Angelholm,1292C1120,Skalderviken-Pomona-Arrarps angar,1292R008,4
+1292,Angelholm,1292C1130,Skalderviken-Pomona-Arrarps angar,1292R008,4
 1292,Angelholm,1292C1080,Stationsomradet-Sockerbruket,1292R009,4
 1292,Angelholm,1292B4010,Strovelstorp,1292R010,4
 1292,Angelholm,1292C1140,Vejbystrand-Magnarp-Skepparkroken,1292R011,5
@@ -3357,7 +3357,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1293,Hassleholm,1293C1030,Hassleholm-Fredentorp,1293R013,3
 1293,Hassleholm,1293C1080,Hassleholm-Gulastorp-Roinge-Stoby,1293R014,4
 1293,Hassleholm,1293C1110,Hassleholm-Kristinehem,1293R015,4
-1293,Hassleholm,1293C1120,Hassleholm-Karrakra-Gaddastorp,1293R016,2
+1293,Hassleholm,1293C1120,Hassleholm-Karrakra-Gaddastorp,1293R016,3
 1293,Hassleholm,1293C1130,Hassleholm-Ljungdala,1293R017,4
 1293,Hassleholm,1293C1100,Hassleholm-Lareda,1293R018,1
 1293,Hassleholm,1293C1070,Hassleholm-Sjorrod-Finja,1293R019,4
@@ -3374,11 +3374,11 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1293,Hassleholm,1293B3020,Vinslov centrala,1293R030,4
 1293,Hassleholm,1293B3030,Vinslov norra,1293R031,3
 1293,Hassleholm,1293B3010,Vinslov sodra,1293R032,4
-1293,Hassleholm,1293B6010,Vittsjo,1293R033,2
+1293,Hassleholm,1293B6010,Vittsjo,1293R033,3
 1315,Hylte,1315A0020,Drangsered-Kinnared-Brannogard,1315R001,4
 1315,Hylte,1315C1020,Hyltebruk norra,1315R002,2
 1315,Hylte,1315C1010,Hyltebruk sodra,1315R003,2
-1315,Hylte,1315A0040,Langaryd-Landeryd,1315R004,4
+1315,Hylte,1315A0040,Langaryd-Landeryd,1315R004,3
 1315,Hylte,1315A0010,Rydobruk-Femsjo,1315R005,3
 1315,Hylte,1315B2010,Torup,1315R006,3
 1315,Hylte,1315A0030,Unnaryd-Jalluntofta,1315R007,3
@@ -3426,9 +3426,9 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1380,Halmstad,1380C1070,Linehed sodra-Ostra Stranden,1380R020,1
 1380,Halmstad,1380C1010,Tronninge-Gullbranna-Laxvik,1380R021,4
 1380,Halmstad,1380C1020,Tronninge-Gullbranna-Laxvik,1380R021,4
-1380,Halmstad,1380C1200,Nyhem sodra,1380R022,2
-1380,Halmstad,1380C1220,Nyhem norra-Nyatorp ostra,1380R023,2
-1380,Halmstad,1380C1240,Nyhem norra-Nyatorp ostra,1380R023,2
+1380,Halmstad,1380C1200,Nyhem sodra,1380R022,3
+1380,Halmstad,1380C1220,Nyhem norra-Nyatorp ostra,1380R023,3
+1380,Halmstad,1380C1240,Nyhem norra-Nyatorp ostra,1380R023,3
 1380,Halmstad,1380B2020,Oskarstrom tatort,1380R024,3
 1380,Halmstad,1380B2030,Oskarstrom tatort,1380R024,3
 1380,Halmstad,1380A0070,Aled-Sennan-Oskarstrom glesbygd,1380R025,4
@@ -3445,7 +3445,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1381,Laholm,1381A0030,Hasslov-Ranneslov-Vaxtorp,1381R002,3
 1381,Laholm,1381B5010,Hasslov-Ranneslov-Vaxtorp,1381R002,3
 1381,Laholm,1381A0040,Hishult-Knareds omland,1381R003,3
-1381,Laholm,1381B4010,Knared,1381R004,3
+1381,Laholm,1381B4010,Knared,1381R004,2
 1381,Laholm,1381C1020,Laholm vastra,1381R005,4
 1381,Laholm,1381C1010,Laholm ostra,1381R006,3
 1381,Laholm,1381C1030,Laholm ostra,1381R006,3
@@ -3507,8 +3507,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1383,Varberg,1383B2020,Tvaaker,1383R011,4
 1383,Varberg,1383A0010,Tvaakers omland,1383R012,4
 1383,Varberg,1383A0020,Tvaakers omland,1383R012,4
-1383,Varberg,1383B6010,Tangaberg-Arnas,1383R013,5
-1383,Varberg,1383B6020,Tangaberg-Arnas,1383R013,5
+1383,Varberg,1383B6010,Tangaberg-Arnas,1383R013,4
+1383,Varberg,1383B6020,Tangaberg-Arnas,1383R013,4
 1383,Varberg,1383C1110,Varberg centrum,1383R014,4
 1383,Varberg,1383C1150,Varberg centrum,1383R014,4
 1383,Varberg,1383C1080,Varberg soder,1383R015,4
@@ -3600,8 +3600,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1402,Partille,1402C1070,Sodra Savedalen,1402R012,4
 1402,Partille,1402C1050,Vallhamra,1402R013,3
 1402,Partille,1402C1010,Vastra Ojersjo,1402R014,5
-1402,Partille,1402C1020,Ostra Ojersjo,1402R015,4
-1407,Ockero,1407C1050,Bjorko-Kalvsund,1407R001,5
+1402,Partille,1402C1020,Ostra Ojersjo,1402R015,5
+1407,Ockero,1407C1050,Bjorko-Kalvsund,1407R001,4
 1407,Ockero,1407A0030,Halso-Nordoarna,1407R002,4
 1407,Ockero,1407C1010,Hono vastra,1407R003,4
 1407,Ockero,1407C1020,Hono vastra,1407R003,4
@@ -3686,8 +3686,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1440,Ale,1440B2010,Surte,1440R010,4
 1440,Ale,1440B2020,Surte,1440R010,4
 1440,Ale,1440C1010,Sodra Nodinge,1440R011,4
-1440,Ale,1440C1070,Sodra Alvangen,1440R012,5
-1440,Ale,1440C1020,Ostra Nodinge,1440R013,4
+1440,Ale,1440C1070,Sodra Alvangen,1440R012,4
+1440,Ale,1440C1020,Ostra Nodinge,1440R013,5
 1441,Lerum,1441B2040,Aggetorp-Bjorboholm,1441R001,4
 1441,Lerum,1441C1070,Aspenas,1441R002,5
 1441,Lerum,1441C1090,Aspenas,1441R002,5
@@ -3710,8 +3710,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1441,Lerum,1441B2020,Stannum-Olstorp-Sodra Grabo,1441R011,4
 1441,Lerum,1441C1120,Stenkullen,1441R012,4
 1441,Lerum,1441B3010,Tollered,1441R013,4
-1441,Lerum,1441C1160,Uddared-Drangsered,1441R014,4
-1441,Lerum,1441C1170,Uddared-Drangsered,1441R014,4
+1441,Lerum,1441C1160,Uddared-Drangsered,1441R014,5
+1441,Lerum,1441C1170,Uddared-Drangsered,1441R014,5
 1442,Vargarda,1442A0030,Vargarda landsbygd nordvast-Fly-Sodra Harene,1442R001,4
 1442,Vargarda,1442A0010,Vargarda landsbygd sydost-Skogsbygden-Asklanda,1442R002,4
 1442,Vargarda,1442A0020,Vargarda landsbygd vast-Hol-Horla,1442R003,4
@@ -3723,7 +3723,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1443,Bollebygd,1443C1020,Bollebygd tatort,1443R001,4
 1443,Bollebygd,1443A0020,Bollebygd vastra,1443R002,4
 1443,Bollebygd,1443A0010,Bollebygd ostra,1443R003,4
-1443,Bollebygd,1443B2010,Olsfors-Hultafors,1443R004,4
+1443,Bollebygd,1443B2010,Olsfors-Hultafors,1443R004,3
 1443,Bollebygd,1443A0030,Tollsjo,1443R005,4
 1444,Grastorp,1444A0020,Grastorps omnejd,1444R001,4
 1444,Grastorp,1444A0010,Grastorps omnejd,1444R001,4
@@ -3748,13 +3748,13 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1452,Tranemo,1452A0010,Tranemo sodra omland,1452R005,3
 1452,Tranemo,1452C1030,Tranemo vastra,1452R006,4
 1452,Tranemo,1452A0030,Tranemo vastra omland,1452R007,3
-1452,Tranemo,1452C1020,Tranemo ostra,1452R008,3
-1452,Tranemo,1452A0020,Tranemo ostra omland,1452R009,3
+1452,Tranemo,1452C1020,Tranemo ostra,1452R008,4
+1452,Tranemo,1452A0020,Tranemo ostra omland,1452R009,4
 1460,Bengtsfors,1460C1010,Bengtsfors centrum,1460R001,2
 1460,Bengtsfors,1460A0020,Bengtsfors norra kommundel,1460R002,3
 1460,Bengtsfors,1460A0010,Bengtsfors sodra kommundel,1460R003,3
 1460,Bengtsfors,1460C1020,Bengtsfors-Sidan sodra,1460R004,4
-1460,Bengtsfors,1460B3010,Billingsfors,1460R005,2
+1460,Bengtsfors,1460B3010,Billingsfors,1460R005,1
 1460,Bengtsfors,1460B2010,Dals Langed,1460R006,3
 1461,Mellerud,1461A0010,Dalboslatten omland,1461R001,4
 1461,Mellerud,1461A0020,Kroppefjall omland,1461R002,3
@@ -3776,15 +3776,15 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1463,Mark,1463C1020,Haby-Skene centrum,1463R004,2
 1463,Mark,1463C1030,Haby-Skene centrum,1463R004,2
 1463,Mark,1463B4010,Horred,1463R005,4
-1463,Mark,1463A0010,Horred omland,1463R006,4
+1463,Mark,1463A0010,Horred omland,1463R006,3
 1463,Mark,1463A0070,Hyssna,1463R007,4
 1463,Mark,1463C1100,Kammarberg-Kinnahult,1463R008,4
-1463,Mark,1463C1080,Kinna centrum-Nas,1463R009,4
-1463,Mark,1463C1050,Kinna centrum-Nas,1463R009,4
+1463,Mark,1463C1080,Kinna centrum-Nas,1463R009,3
+1463,Mark,1463C1050,Kinna centrum-Nas,1463R009,3
 1463,Mark,1463C1040,Sandvallsang-Backa-Kinnasten,1463R010,4
 1463,Mark,1463C1070,Sandvallsang-Backa-Kinnasten,1463R010,4
 1463,Mark,1463C1090,Snickare-Muraren-Aspang,1463R011,2
-1463,Mark,1463A0020,Svansjo,1463R012,4
+1463,Mark,1463A0020,Svansjo,1463R012,3
 1463,Mark,1463B3010,Satila,1463R013,4
 1463,Mark,1463A0060,Satila omland,1463R014,4
 1463,Mark,1463A0080,Satila omland,1463R014,4
@@ -3805,14 +3805,14 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1466,Herrljunga,1466C1010,Herrljunga tatort sodra,1466R004,4
 1466,Herrljunga,1466B2010,Ljung-Annelund,1466R005,3
 1470,Vara,1470A0030,Helas-Arentorp-Tumleberg,1470R001,4
-1470,Vara,1470A0050,Jung-Travad,1470R002,3
+1470,Vara,1470A0050,Jung-Travad,1470R002,4
 1470,Vara,1470B2010,Kvanum,1470R003,2
 1470,Vara,1470A0020,Larv-Langjum-Edsvara,1470R004,4
 1470,Vara,1470A0060,Stora Levene-Hakantorp,1470R005,4
-1470,Vara,1470C1020,Vara vastra,1470R006,4
-1470,Vara,1470C1010,Vara ostra-Emtunga,1470R007,2
+1470,Vara,1470C1020,Vara vastra,1470R006,3
+1470,Vara,1470C1010,Vara ostra-Emtunga,1470R007,3
 1470,Vara,1470B3010,Vedum,1470R008,3
-1470,Vara,1470A0010,Vedumsbygden,1470R009,4
+1470,Vara,1470A0010,Vedumsbygden,1470R009,3
 1470,Vara,1470A0040,Ottum-Norra Vanga,1470R010,4
 1471,Gotene,1471A0020,Gotene kommun nordvastra,1471R001,4
 1471,Gotene,1471A0040,Gotene kommun nordvastra,1471R001,4
@@ -3824,10 +3824,10 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1471,Gotene,1471C1030,Gotene tatort nordostra,1471R005,2
 1471,Gotene,1471B2010,Kallby,1471R006,4
 1471,Gotene,1471B3010,Lundsbrunn,1471R007,4
-1472,Tibro,1472C1030,Tibro centrala,1472R001,4
+1472,Tibro,1472C1030,Tibro centrala,1472R001,3
 1472,Tibro,1472A0010,Tibro landsbygd,1472R002,4
 1472,Tibro,1472C1040,Tibro nordvastra,1472R003,3
-1472,Tibro,1472C1050,Tibro nordostra,1472R004,2
+1472,Tibro,1472C1050,Tibro nordostra,1472R004,1
 1472,Tibro,1472C1010,Tibro sydvastra,1472R005,4
 1472,Tibro,1472C1020,Tibro sydostra,1472R006,3
 1473,Toreboda,1473A0020,Toreboda centrala omland,1473R001,4
@@ -3861,7 +3861,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1480,Goteborg,1480C3600,Bergsjon nordvastra,1480R010,1
 1480,Goteborg,1480C3530,Bergsjon Rymdtorget,1480R011,1
 1480,Goteborg,1480C3560,Bergsjon Rymdtorget,1480R011,1
-1480,Goteborg,1480C3390,Bergsjon sydostra,1480R012,2
+1480,Goteborg,1480C3390,Bergsjon sydostra,1480R012,1
 1480,Goteborg,1480C3400,Bergsjon sodra,1480R013,1
 1480,Goteborg,1480A0040,Bergum,1480R014,4
 1480,Goteborg,1480C3800,Bergum,1480R014,4
@@ -3920,8 +3920,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1480,Goteborg,1480C3870,Gardsten nordostra,1480R040,2
 1480,Goteborg,1480C3890,Gardsten nordostra,1480R040,2
 1480,Goteborg,1480C3940,Gardsten nordostra,1480R040,2
-1480,Goteborg,1480C3900,Gardsten sydvastra,1480R041,1
-1480,Goteborg,1480C3930,Gardsten sydvastra,1480R041,1
+1480,Goteborg,1480C3900,Gardsten sydvastra,1480R041,2
+1480,Goteborg,1480C3930,Gardsten sydvastra,1480R041,2
 1480,Goteborg,1480C2240,Haga,1480R042,4
 1480,Goteborg,1480C2250,Haga,1480R042,4
 1480,Goteborg,1480C1560,Hagen,1480R043,5
@@ -3929,9 +3929,9 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1480,Goteborg,1480C1710,Hagen,1480R043,5
 1480,Goteborg,1480C3730,Hammarkullen centrala,1480R044,1
 1480,Goteborg,1480C3770,Hammarkullen centrala,1480R044,1
-1480,Goteborg,1480C3710,Hammarkullen yttre,1480R045,2
-1480,Goteborg,1480C3750,Hammarkullen yttre,1480R045,2
-1480,Goteborg,1480C3760,Hammarkullen yttre,1480R045,2
+1480,Goteborg,1480C3710,Hammarkullen yttre,1480R045,1
+1480,Goteborg,1480C3750,Hammarkullen yttre,1480R045,1
+1480,Goteborg,1480C3760,Hammarkullen yttre,1480R045,1
 1480,Goteborg,1480C2190,Heden vastra,1480R046,4
 1480,Goteborg,1480C2350,Heden vastra,1480R046,4
 1480,Goteborg,1480C2380,Heden vastra,1480R046,4
@@ -3942,7 +3942,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1480,Goteborg,1480C3640,Hjallbo vastra,1480R049,1
 1480,Goteborg,1480C3670,Hjallbo vastra,1480R049,1
 1480,Goteborg,1480C3690,Hjallbo vastra,1480R049,1
-1480,Goteborg,1480C3680,Hjallbo ostra,1480R050,1
+1480,Goteborg,1480C3680,Hjallbo ostra,1480R050,2
 1480,Goteborg,1480C1070,Hovas,1480R051,5
 1480,Goteborg,1480C1080,Hovas,1480R051,5
 1480,Goteborg,1480C1360,Hogsbo-Flatas ostra,1480R052,3
@@ -3954,8 +3954,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1480,Goteborg,1480C1490,Hogsbotorp ostra,1480R056,4
 1480,Goteborg,1480C2370,Inom Vallgraven,1480R057,4
 1480,Goteborg,1480C2460,Inom Vallgraven,1480R057,4
-1480,Goteborg,1480C1860,Johanneberg Chalmers,1480R058,3
-1480,Goteborg,1480C1850,Johanneberg Chalmers,1480R058,3
+1480,Goteborg,1480C1860,Johanneberg Chalmers,1480R058,4
+1480,Goteborg,1480C1850,Johanneberg Chalmers,1480R058,4
 1480,Goteborg,1480C1760,Johanneberg vastra,1480R059,4
 1480,Goteborg,1480C1830,Johanneberg vastra,1480R059,4
 1480,Goteborg,1480C1320,Jarnbrott,1480R060,4
@@ -3984,12 +3984,12 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1480,Goteborg,1480C1620,Krokslatt sodra,1480R072,4
 1480,Goteborg,1480C1670,Krokslatt sodra,1480R072,4
 1480,Goteborg,1480C1680,Krokslatt sodra,1480R072,4
-1480,Goteborg,1480C1750,Kungsladugard Kungsladugardsgatan,1480R073,3
-1480,Goteborg,1480C1590,Kungsladugard Kungsladugardsgatan,1480R073,3
-1480,Goteborg,1480C1700,Kungsladugard Kungsladugardsgatan,1480R073,3
-1480,Goteborg,1480C1780,Kungsladugard Alvsborgsgatan,1480R074,3
-1480,Goteborg,1480C1790,Kungsladugard Alvsborgsgatan,1480R074,3
-1480,Goteborg,1480C1880,Kungsladugard Alvsborgsgatan,1480R074,3
+1480,Goteborg,1480C1750,Kungsladugard Kungsladugardsgatan,1480R073,4
+1480,Goteborg,1480C1590,Kungsladugard Kungsladugardsgatan,1480R073,4
+1480,Goteborg,1480C1700,Kungsladugard Kungsladugardsgatan,1480R073,4
+1480,Goteborg,1480C1780,Kungsladugard Alvsborgsgatan,1480R074,4
+1480,Goteborg,1480C1790,Kungsladugard Alvsborgsgatan,1480R074,4
+1480,Goteborg,1480C1880,Kungsladugard Alvsborgsgatan,1480R074,4
 1480,Goteborg,1480C2950,Kvillebacken Backaplan,1480R075,4
 1480,Goteborg,1480C3040,Kvillebacken Bjorlandavagen,1480R076,4
 1480,Goteborg,1480C3000,Kvillebacken Bjorlandavagen,1480R076,4
@@ -4099,7 +4099,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1480,Goteborg,1480C3450,Skalltorp Backebol,1480R126,4
 1480,Goteborg,1480C3480,Skalltorp Backebol,1480R126,4
 1480,Goteborg,1480C3650,Skalltorp Backebol,1480R126,4
-1480,Goteborg,1480C3410,Skalltorp Selma Lagerlofs torg,1480R127,2
+1480,Goteborg,1480C3410,Skalltorp Selma Lagerlofs torg,1480R127,1
 1480,Goteborg,1480C3620,Skalltorp Aketorp,1480R128,5
 1480,Goteborg,1480C3100,Slattadamm,1480R129,4
 1480,Goteborg,1480C3150,Slattadamm,1480R129,4
@@ -4136,22 +4136,22 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1480,Goteborg,1480C2330,Vasastaden vastra,1480R144,4
 1480,Goteborg,1480C2120,Vasastaden vastra,1480R144,4
 1480,Goteborg,1480C2280,Vasastaden vastra,1480R144,4
-1480,Goteborg,1480C1220,Angas,1480R145,2
-1480,Goteborg,1480C1240,Angas,1480R145,2
-1480,Goteborg,1480C1200,Onnered,1480R146,4
-1480,Goteborg,1480C1180,Onnered,1480R146,4
+1480,Goteborg,1480C1220,Angas,1480R145,3
+1480,Goteborg,1480C1240,Angas,1480R145,3
+1480,Goteborg,1480C1200,Onnered,1480R146,5
+1480,Goteborg,1480C1180,Onnered,1480R146,5
 1480,Goteborg,1480C2310,Overas,1480R147,5
 1480,Goteborg,1480C2340,Overas,1480R147,5
 1481,Molndal,1481C1140,Balltorp,1481R001,4
 1481,Molndal,1481C1150,Balltorp,1481R001,4
 1481,Molndal,1481C1330,Bifrost,1481R002,4
 1481,Molndal,1481C1320,Bifrost,1481R002,4
-1481,Molndal,1481C1240,Bifrost-Pedagogen,1481R003,4
+1481,Molndal,1481C1240,Bifrost-Pedagogen,1481R003,5
 1481,Molndal,1481C1310,Bosgarden,1481R004,4
 1481,Molndal,1481C1300,Bosgarden,1481R004,4
 1481,Molndal,1481C1230,Eklanda,1481R005,5
 1481,Molndal,1481C1280,Eklanda,1481R005,5
-1481,Molndal,1481C1210,Forsaker,1481R006,5
+1481,Molndal,1481C1210,Forsaker,1481R006,4
 1481,Molndal,1481A0010,Hallesaker,1481R007,4
 1481,Molndal,1481C1250,Jungfruplatsen-Solangen,1481R008,4
 1481,Molndal,1481C1270,Jungfruplatsen-Solangen,1481R008,4
@@ -4228,10 +4228,10 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1485,Uddevalla,1485A0030,Bokenaset-Berg-Sund,1485R002,4
 1485,Uddevalla,1485C1120,Hedegarde-Asperod-Graskarr,1485R003,3
 1485,Uddevalla,1485C1180,Hedegarde-Asperod-Graskarr,1485R003,3
-1485,Uddevalla,1485C1200,Helenedal-Sodra Dalaberg-Bleket,1485R004,4
-1485,Uddevalla,1485C1230,Helenedal-Sodra Dalaberg-Bleket,1485R004,4
-1485,Uddevalla,1485C1080,Herrestad-Sunningen-Utby,1485R005,5
-1485,Uddevalla,1485C1040,Herrestad-Sunningen-Utby,1485R005,5
+1485,Uddevalla,1485C1200,Helenedal-Sodra Dalaberg-Bleket,1485R004,3
+1485,Uddevalla,1485C1230,Helenedal-Sodra Dalaberg-Bleket,1485R004,3
+1485,Uddevalla,1485C1080,Herrestad-Sunningen-Utby,1485R005,4
+1485,Uddevalla,1485C1040,Herrestad-Sunningen-Utby,1485R005,4
 1485,Uddevalla,1485A0050,Hogstorp-Lanesund-Kissleberg,1485R006,4
 1485,Uddevalla,1485A0070,Hogstorp-Lanesund-Kissleberg,1485R006,4
 1485,Uddevalla,1485C1140,Hogstorp-Lanesund-Kissleberg,1485R006,4
@@ -4282,8 +4282,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1487,Vanersborg,1487C1120,Nordkroken-Vanersnas,1487R011,4
 1487,Vanersborg,1487C1010,Onsjo,1487R012,4
 1487,Vanersborg,1487C1050,Onsjo,1487R012,4
-1487,Vanersborg,1487C1040,Vargon centrum,1487R013,4
-1487,Vanersborg,1487C1030,Vargon centrum,1487R013,4
+1487,Vanersborg,1487C1040,Vargon centrum,1487R013,3
+1487,Vanersborg,1487C1030,Vargon centrum,1487R013,3
 1487,Vanersborg,1487C1160,Vanersborg centrum,1487R014,3
 1487,Vanersborg,1487C1170,Vanersborg centrum,1487R014,3
 1487,Vanersborg,1487C1190,Vanersborg centrum,1487R014,3
@@ -4312,7 +4312,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1488,Trollhattan,1488C1230,Stromslund-Torsred-Kallstorp,1488R011,5
 1488,Trollhattan,1488C1020,Sylte-Horlycke-Eriksro,1488R012,2
 1488,Trollhattan,1488C1030,Sylte-Horlycke-Eriksro,1488R012,2
-1488,Trollhattan,1488C1010,Sodra Lextorp-Alingsaker,1488R013,3
+1488,Trollhattan,1488C1010,Sodra Lextorp-Alingsaker,1488R013,2
 1488,Trollhattan,1488C1040,Sodra Skoftebyn,1488R014,5
 1488,Trollhattan,1488C1220,Trollhattan centrum-Tingvalla-Vastergardet,1488R015,4
 1488,Trollhattan,1488C1130,Trollhattan centrum-Tingvalla-Vastergardet,1488R015,4
@@ -4328,21 +4328,21 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1489,Alingsas,1489C1140,Bolltorp,1489R006,4
 1489,Alingsas,1489C1090,Brogarden-Ostlyckan,1489R007,2
 1489,Alingsas,1489C1080,Brunnsparken-Landskyrkan,1489R008,4
-1489,Alingsas,1489C1010,Grabo-Angabo,1489R009,5
+1489,Alingsas,1489C1010,Grabo-Angabo,1489R009,4
 1489,Alingsas,1489A0010,Hemsjo-Odenas,1489R010,4
 1489,Alingsas,1489B2010,Ingared,1489R011,4
 1489,Alingsas,1489C1020,Kullingsberg-Rothoffskar,1489R012,4
 1489,Alingsas,1489C1150,Kvarnbacken-Enehagen,1489R013,5
 1489,Alingsas,1489C1040,Lovekulle-Stadsskogen,1489R014,4
 1489,Alingsas,1489C1120,Nolby-Savelund,1489R015,4
-1489,Alingsas,1489C1100,Nolhaga-Hagagarden,1489R016,2
+1489,Alingsas,1489C1100,Nolhaga-Hagagarden,1489R016,3
 1489,Alingsas,1489C1110,Noltorp,1489R017,2
 1489,Alingsas,1489C1070,Nygard-Stockslycke,1489R018,3
 1489,Alingsas,1489C1030,Prasteryd-Gerdsken,1489R019,5
 1489,Alingsas,1489C1130,Saxebacken-Tegelbruket,1489R020,4
-1489,Alingsas,1489B3010,Sollebrunn,1489R021,4
+1489,Alingsas,1489B3010,Sollebrunn,1489R021,3
 1489,Alingsas,1489C1060,Sorhaga-Gustav Adolf,1489R022,4
-1489,Alingsas,1489B2020,Vastra bodarna-Hasteryd,1489R023,5
+1489,Alingsas,1489B2020,Vastra bodarna-Hasteryd,1489R023,4
 1490,Boras,1490C1390,Bergdalen-Norrmalm vast,1490R001,4
 1490,Boras,1490C1360,Bergdalen-Norrmalm vast,1490R001,4
 1490,Boras,1490C1380,Bergdalen-Norrmalm vast,1490R001,4
@@ -4362,8 +4362,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1490,Boras,1490C1010,Dammsvedjan,1490R008,4
 1490,Boras,1490C1430,Ekas-Hestra,1490R009,4
 1490,Boras,1490C1450,Ekas-Hestra,1490R009,4
-1490,Boras,1490C1560,Fristad centrum,1490R010,4
-1490,Boras,1490C1580,Fristad centrum,1490R010,4
+1490,Boras,1490C1560,Fristad centrum,1490R010,3
+1490,Boras,1490C1580,Fristad centrum,1490R010,3
 1490,Boras,1490A0090,Fristad omland,1490R011,4
 1490,Boras,1490C1570,Fristad-Asklanda,1490R012,4
 1490,Boras,1490C1540,Frufallan-Sparsor vast,1490R013,4
@@ -4389,9 +4389,9 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1490,Boras,1490B4010,Malsryd-Aplared-Dannike,1490R024,4
 1490,Boras,1490C1300,Norrby,1490R025,1
 1490,Boras,1490C1340,Norrby,1490R025,1
-1490,Boras,1490C1410,Norrmalm norr,1490R026,3
-1490,Boras,1490C1460,Norrmalm norr,1490R026,3
-1490,Boras,1490C1070,Regementet,1490R027,3
+1490,Boras,1490C1410,Norrmalm norr,1490R026,4
+1490,Boras,1490C1460,Norrmalm norr,1490R026,4
+1490,Boras,1490C1070,Regementet,1490R027,4
 1490,Boras,1490C1520,Ryda-Alideberg-Knalleland,1490R028,3
 1490,Boras,1490B2030,Rydboholm-Viskafors centrum,1490R029,4
 1490,Boras,1490B2040,Rydboholm-Viskafors centrum,1490R029,4
@@ -4407,8 +4407,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1490,Boras,1490C1150,Sjomarken-Lundaskog,1490R036,4
 1490,Boras,1490C1310,Sjomarken-Lundaskog,1490R036,4
 1490,Boras,1490C1550,Sparsor ost,1490R037,5
-1490,Boras,1490C1220,Stadskarnan-Druvefors,1490R038,3
-1490,Boras,1490C1120,Stadskarnan-Druvefors,1490R038,3
+1490,Boras,1490C1220,Stadskarnan-Druvefors,1490R038,4
+1490,Boras,1490C1120,Stadskarnan-Druvefors,1490R038,4
 1490,Boras,1490B2020,Svaneholm,1490R039,3
 1490,Boras,1490C1230,Svensgarde,1490R040,4
 1490,Boras,1490C1530,Sodra Oresjo,1490R041,3
@@ -4461,7 +4461,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1494,Lidkoping,1494C1110,Gamla Staden,1494R001,3
 1494,Lidkoping,1494C1040,Gamla Staden,1494R001,3
 1494,Lidkoping,1494A0020,Hovby-Norra Harene-Saleby,1494R002,4
-1494,Lidkoping,1494A0010,Jarpas-Lovene,1494R003,4
+1494,Lidkoping,1494A0010,Jarpas-Lovene,1494R003,3
 1494,Lidkoping,1494A0060,Kalland-Kallandso,1494R004,4
 1494,Lidkoping,1494A0070,Kalland-Kallandso,1494R004,4
 1494,Lidkoping,1494C1010,Majaker-Ljunghed-Lidaker,1494R005,4
@@ -4499,8 +4499,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1496,Skovde,1496A0060,Frosve Sater-Tidan-Varing,1496R004,4
 1496,Skovde,1496B2010,Frosve Sater-Tidan-Varing,1496R004,4
 1496,Skovde,1496A0040,Frosve Sater-Tidan-Varing,1496R004,4
-1496,Skovde,1496C1030,Hentorp-Vamb,1496R005,5
-1496,Skovde,1496C1060,Hentorp-Vamb,1496R005,5
+1496,Skovde,1496C1030,Hentorp-Vamb,1496R005,4
+1496,Skovde,1496C1060,Hentorp-Vamb,1496R005,4
 1496,Skovde,1496C1120,Hogskolan-Trangen,1496R006,3
 1496,Skovde,1496A0010,Igelstorp-Varsas,1496R007,4
 1496,Skovde,1496A0030,Igelstorp-Varsas,1496R007,4
@@ -4571,7 +4571,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1737,Torsby,1737C1020,Torsby centrala,1737R003,3
 1737,Torsby,1737C1030,Torsby norra,1737R004,3
 1737,Torsby,1737A0010,Torsby omland,1737R005,4
-1737,Torsby,1737C1010,Torsby sodra,1737R006,4
+1737,Torsby,1737C1010,Torsby sodra,1737R006,3
 1737,Torsby,1737A0030,Vitsand,1737R007,4
 1737,Torsby,1737A0020,Ostmark-Lekvattnet,1737R008,3
 1760,Storfors,1760C1010,Storfors centralort,1760R001,3
@@ -4583,7 +4583,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1761,Hammaro,1761C1070,Nolgard-Lovnas,1761R003,5
 1761,Hammaro,1761C1010,Skoghall-Gunnarskar,1761R004,4
 1761,Hammaro,1761C1050,Skoghall-Mormon,1761R005,3
-1761,Hammaro,1761C1040,Skoghall-Vidoasen,1761R006,2
+1761,Hammaro,1761C1040,Skoghall-Vidoasen,1761R006,3
 1761,Hammaro,1761C1060,Tynas-Barstad-Hallersrud,1761R007,5
 1762,Munkfors,1762C1020,Munkerud-Munkebol,1762R001,3
 1762,Munkfors,1762C1010,Munkfors centrala omraden,1762R002,3
@@ -4600,7 +4600,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1764,Grums,1764C1030,Orrby-Gronberg,1764R004,3
 1764,Grums,1764C1040,Orrby-Gronberg,1764R004,3
 1764,Grums,1764A0010,Segmon-Liljedal,1764R005,3
-1764,Grums,1764C1010,Slottsbron,1764R006,3
+1764,Grums,1764C1010,Slottsbron,1764R006,2
 1765,Arjang,1765A0010,Trankil-Blomskog-Silbodal-Sillerud,1765R001,4
 1765,Arjang,1765A0020,Trankil-Blomskog-Silbodal-Sillerud,1765R001,4
 1765,Arjang,1765B2010,Tocksfors,1765R002,3
@@ -4649,7 +4649,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1780,Karlstad,1780C1200,Norrstrand,1780R016,4
 1780,Karlstad,1780C1220,Norrstrand,1780R016,4
 1780,Karlstad,1780C1020,Orrholmen,1780R017,3
-1780,Karlstad,1780C1070,Romstad-Strand,1780R018,5
+1780,Karlstad,1780C1070,Romstad-Strand,1780R018,4
 1780,Karlstad,1780C1270,Rud nordostra,1780R019,2
 1780,Karlstad,1780C1340,Rud nordostra,1780R019,2
 1780,Karlstad,1780C1260,Ratorp,1780R020,5
@@ -4681,7 +4681,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1781,Kristinehamn,1781A0020,Kristinehamn norra omland,1781R005,4
 1781,Kristinehamn,1781A0030,Kristinehamn norra omland,1781R005,4
 1781,Kristinehamn,1781A0010,Kristinehamn sodra omland,1781R006,3
-1781,Kristinehamn,1781C1020,Kurlanda,1781R007,3
+1781,Kristinehamn,1781C1020,Kurlanda,1781R007,2
 1781,Kristinehamn,1781C1090,Marielund-Jakobsberg-Ostermalm,1781R008,4
 1781,Kristinehamn,1781C1110,Marielund-Jakobsberg-Ostermalm,1781R008,4
 1781,Kristinehamn,1781C1040,Smedby-Liljeback-Sodermalm,1781R009,2
@@ -4721,13 +4721,13 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1784,Arvika,1784A0040,Speke-Rackstad-Motterud-Humlekil,1784R009,4
 1784,Arvika,1784A0020,Stavnas-Hogerud,1784R010,4
 1784,Arvika,1784A0050,Alga-Ny,1784R011,4
-1785,Saffle,1785C1050,Annelund-Billerud-Lugnadal,1785R001,4
+1785,Saffle,1785C1050,Annelund-Billerud-Lugnadal,1785R001,3
 1785,Saffle,1785C1030,Hoglunda-Hermes-Norelund,1785R002,2
 1785,Saffle,1785A0050,Langserud-Gillberga-Nysater,1785R003,3
 1785,Saffle,1785C1010,Olof Tratalja-Villan-Fla,1785R004,1
 1785,Saffle,1785C1040,Rolfserud-Tingvalla-Treabackarna,1785R005,3
 1785,Saffle,1785A0040,Rudsbyn-Svanskog,1785R006,3
-1785,Saffle,1785C1020,Sundstorp-Sund-Tuvan,1785R007,4
+1785,Saffle,1785C1020,Sundstorp-Sund-Tuvan,1785R007,3
 1785,Saffle,1785A0010,Varmlandsnas,1785R008,4
 1785,Saffle,1785A0020,Vastra Kila-Tveta,1785R009,4
 1785,Saffle,1785A0030,Ostra Kila-Varmlandsbro-Sodra Ny,1785R010,4
@@ -4737,8 +4737,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1814,Lekeberg,1814A0010,Lekeberg sodra landsbygd,1814R004,4
 1814,Lekeberg,1814B2010,Lekeberg-Lanna,1814R005,5
 1814,Lekeberg,1814A0020,Mullhyttan-Mullhyttan omnejd,1814R006,3
-1860,Laxa,1860A0010,Finnerodja-Tived,1860R001,4
-1860,Laxa,1860A0020,Hasselfors-Rofors,1860R002,4
+1860,Laxa,1860A0010,Finnerodja-Tived,1860R001,3
+1860,Laxa,1860A0020,Hasselfors-Rofors,1860R002,3
 1860,Laxa,1860C1020,Laxa norra,1860R003,3
 1860,Laxa,1860C1010,Laxa sodra,1860R004,3
 1861,Hallsberg,1861C1010,Hallsberg vastra-Stortorget-Vibytorp,1861R001,3
@@ -4749,7 +4749,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1861,Hallsberg,1861B3010,Skollersta-Kalsta-Sorby,1861R006,4
 1861,Hallsberg,1861C1030,Stocksatter-Karstahult-Stora Alberg,1861R007,4
 1861,Hallsberg,1861A0010,Svennevad-Kansta-Hjortkvarn,1861R008,4
-1861,Hallsberg,1861A0030,Vretstorp-Viby-omland,1861R009,4
+1861,Hallsberg,1861A0030,Vretstorp-Viby-omland,1861R009,3
 1861,Hallsberg,1861A0020,Ostansjo-Tisaren-Alsta,1861R010,4
 1862,Degerfors,1862C1030,Degerfors centrum-Bruket,1862R001,2
 1862,Degerfors,1862C1010,Degerfors centrum-Bruket,1862R001,2
@@ -4762,7 +4762,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1863,Hallefors,1863A0020,Hallefors omland,1863R002,4
 1863,Hallefors,1863A0010,Hallefors omland,1863R002,4
 1863,Hallefors,1863C1010,Hallefors-Gillershojden,1863R003,3
-1863,Hallefors,1863C1030,Hallefors-Kronhagen,1863R004,3
+1863,Hallefors,1863C1030,Hallefors-Kronhagen,1863R004,2
 1864,Ljusnarsberg,1864C1020,Kopparberg City,1864R001,2
 1864,Ljusnarsberg,1864C1010,Kopparberg Yttre-Bangbro,1864R002,3
 1864,Ljusnarsberg,1864A0010,Ljusnarsberg Yttre,1864R003,3
@@ -4862,10 +4862,10 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1881,Kumla,1881A0020,Kumla omland,1881R003,4
 1881,Kumla,1881C1010,Kumlaby-Korsta-Sannahed,1881R004,3
 1881,Kumla,1881C1040,Kumlaby-Korsta-Sannahed,1881R004,3
-1881,Kumla,1881C1080,Oppegard-Skogstorp-Smedstorp,1881R005,4
-1881,Kumla,1881C1090,Oppegard-Skogstorp-Smedstorp,1881R005,4
+1881,Kumla,1881C1080,Oppegard-Skogstorp-Smedstorp,1881R005,5
+1881,Kumla,1881C1090,Oppegard-Skogstorp-Smedstorp,1881R005,5
 1882,Askersund,1882A0040,Askersund omland norr,1882R001,4
-1882,Askersund,1882A0010,Askersund omland soder,1882R002,3
+1882,Askersund,1882A0010,Askersund omland soder,1882R002,4
 1882,Askersund,1882A0030,Askersund omland vaster,1882R003,4
 1882,Askersund,1882A0020,Askersund omland oster,1882R004,4
 1882,Askersund,1882C1010,Askersund stad,1882R005,3
@@ -4888,7 +4888,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1883,Karlskoga,1883C1080,Karlskoga ostra tatort,1883R004,4
 1883,Karlskoga,1883C1110,Karlskoga ostra tatort,1883R004,4
 1883,Karlskoga,1883C1150,Karlskoga ostra tatort,1883R004,4
-1884,Nora,1884C1040,Esstorp-Fibbetorp,1884R001,4
+1884,Nora,1884C1040,Esstorp-Fibbetorp,1884R001,3
 1884,Nora,1884A0020,Nora landsbygd norr,1884R002,4
 1884,Nora,1884A0010,Nora landsbygd soder,1884R003,4
 1884,Nora,1884C1050,Nora norra centrum,1884R004,4
@@ -4896,7 +4896,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1884,Nora,1884C1010,Pershyttan-Hitorp,1884R006,4
 1884,Nora,1884C1020,As-Gyttorp,1884R007,3
 1885,Lindesberg,1885A0010,Fellingsbro landsbygd,1885R001,3
-1885,Lindesberg,1885B4010,Fellingsbro tatort,1885R002,3
+1885,Lindesberg,1885B4010,Fellingsbro tatort,1885R002,2
 1885,Lindesberg,1885A0020,Frovi landsbygd,1885R003,3
 1885,Lindesberg,1885A0030,Frovi landsbygd,1885R003,3
 1885,Lindesberg,1885B2010,Frovi tatort,1885R004,3
@@ -4909,8 +4909,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1885,Lindesberg,1885C1030,Lindesberg vastra,1885R010,4
 1885,Lindesberg,1885A0060,Stora landsbygd,1885R011,4
 1885,Lindesberg,1885A0050,Stora landsbygd,1885R011,4
-1885,Lindesberg,1885B3010,Stora tatort,1885R012,3
-1885,Lindesberg,1885B3020,Stora tatort,1885R012,3
+1885,Lindesberg,1885B3010,Stora tatort,1885R012,2
+1885,Lindesberg,1885B3020,Stora tatort,1885R012,2
 1904,Skinnskatteberg,1904C1010,Skinnskatteberg centralort,1904R001,3
 1904,Skinnskatteberg,1904A0010,Skinnskatteberg ytteromraden,1904R002,4
 1907,Surahammar,1907C1020,Bruket,1907R001,4
@@ -4918,10 +4918,10 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1907,Surahammar,1907B2010,Ramnas,1907R003,3
 1907,Surahammar,1907C1030,Skogslund,1907R004,4
 1907,Surahammar,1907C1010,Stavtorpet,1907R005,4
-1907,Surahammar,1907A0010,Surahammars landsbygd,1907R006,3
+1907,Surahammar,1907A0010,Surahammars landsbygd,1907R006,4
 1907,Surahammar,1907B3010,Virsbo,1907R007,3
 1960,Kungsor,1960A0010,Granhammar-Torpa,1960R001,4
-1960,Kungsor,1960C1020,Kungsor centrala,1960R002,2
+1960,Kungsor,1960C1020,Kungsor centrala,1960R002,1
 1960,Kungsor,1960C1030,Kungsor norra,1960R003,4
 1960,Kungsor,1960C1010,Kungsor sodra,1960R004,3
 1960,Kungsor,1960A0020,Valskog-Kungs Barkaro,1960R005,4
@@ -4934,7 +4934,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1961,Hallstahammar,1961C1040,Nas-Lustigkulla,1961R006,4
 1961,Hallstahammar,1961A0010,Stromsholm-Saby,1961R007,4
 1961,Hallstahammar,1961C1030,Surbrunnsvagen-Tuna,1961R008,2
-1962,Norberg,1962C1030,Norberg norra,1962R001,4
+1962,Norberg,1962C1030,Norberg norra,1962R001,3
 1962,Norberg,1962A0010,Norberg omland,1962R002,4
 1962,Norberg,1962C1020,Norberg vastra,1962R003,2
 1962,Norberg,1962C1010,Norberg ostra,1962R004,3
@@ -4982,20 +4982,20 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1980,Vasteras,1980C1300,Skiljebo-Sodra Brandthovda-Halla,1980R026,5
 1980,Vasteras,1980B2010,Skultuna,1980R027,3
 1980,Vasteras,1980B2020,Skultuna,1980R027,3
-1980,Vasteras,1980C1520,Sydvastra Bjurhovda,1980R028,3
+1980,Vasteras,1980C1520,Sydvastra Bjurhovda,1980R028,2
 1980,Vasteras,1980C1630,Sodra Gryta,1980R029,3
 1980,Vasteras,1980C1640,Sodra Gryta,1980R029,3
 1980,Vasteras,1980C1250,Sodra Jakobsberg,1980R030,4
 1980,Vasteras,1980C1530,Sodra Skallberget,1980R031,2
 1980,Vasteras,1980C1720,Tillberga,1980R032,4
-1980,Vasteras,1980C1580,Vega-Tunby-Sydvastra Nordanby,1980R033,3
+1980,Vasteras,1980C1580,Vega-Tunby-Sydvastra Nordanby,1980R033,4
 1980,Vasteras,1980C1280,Vetterslund-Nordostra Raby,1980R034,3
 1980,Vasteras,1980A0050,Vasteras norra landsbygd,1980R035,4
 1980,Vasteras,1980A0060,Vasteras norra landsbygd,1980R035,4
-1980,Vasteras,1980A0010,Vasteras vastra landsbygd,1980R036,4
-1980,Vasteras,1980A0030,Vasteras vastra landsbygd,1980R036,4
-1980,Vasteras,1980A0020,Vasteras ostra landsbygd,1980R037,4
-1980,Vasteras,1980A0040,Vasteras ostra landsbygd,1980R037,4
+1980,Vasteras,1980A0010,Vasteras vastra landsbygd,1980R036,5
+1980,Vasteras,1980A0030,Vasteras vastra landsbygd,1980R036,5
+1980,Vasteras,1980A0020,Vasteras ostra landsbygd,1980R037,5
+1980,Vasteras,1980A0040,Vasteras ostra landsbygd,1980R037,5
 1980,Vasteras,1980C1050,Vastra Backby-Nordostra Skalby,1980R038,3
 1980,Vasteras,1980C1080,Vastra Backby-Nordostra Skalby,1980R038,3
 1980,Vasteras,1980C1110,Vastra Backby-Nordostra Skalby,1980R038,3
@@ -5017,7 +5017,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1980,Vasteras,1980C1160,Ostra hamnen-Oster Malarstrand,1980R047,4
 1980,Vasteras,1980C1220,Ostra hamnen-Oster Malarstrand,1980R047,4
 1980,Vasteras,1980C1090,Ostra hamnen-Oster Malarstrand,1980R047,4
-1980,Vasteras,1980C1380,Ostra Pettersberg-Trumslagarbacken-Lustigkulla,1980R048,3
+1980,Vasteras,1980C1380,Ostra Pettersberg-Trumslagarbacken-Lustigkulla,1980R048,2
 1980,Vasteras,1980C1190,Ostra Raby-Norra Vetterstorp,1980R049,2
 1980,Vasteras,1980C1270,Ostra Raby-Norra Vetterstorp,1980R049,2
 1980,Vasteras,1980C1240,Ostra Viksang,1980R050,4
@@ -5054,7 +5054,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1983,Koping,1983A0030,Koping ostra omland,1983R006,4
 1983,Koping,1983A0010,Koping ostra omland,1983R006,4
 1983,Koping,1983C1040,Nibblesbacke,1983R007,1
-1983,Koping,1983C1080,Skogsborg,1983R008,4
+1983,Koping,1983C1080,Skogsborg,1983R008,5
 1983,Koping,1983C1060,Ostanas-Johannisdal,1983R009,3
 1983,Koping,1983C1110,Ostanas-Johannisdal,1983R009,3
 1984,Arboga,1984A0010,Arboga landsbyggd norr,1984R001,4
@@ -5064,17 +5064,17 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 1984,Arboga,1984C1040,Nastkvarn-Studrestaden,1984R005,3
 1984,Arboga,1984C1030,Sjukhusgardet-Ekbacken,1984R006,3
 1984,Arboga,1984C1010,Stromsnas-Brattberget,1984R007,3
-1984,Arboga,1984C1070,Vasastaden-Marieborg-Nasby,1984R008,1
+1984,Arboga,1984C1070,Vasastaden-Marieborg-Nasby,1984R008,2
 1984,Arboga,1984C1020,Vinbacken-Abrinken-Soder,1984R009,2
 2021,Vansbro,2021A0010,Vansbro vastra landsbygd,2021R001,4
 2021,Vansbro,2021C1010,Vansbro,2021R002,3
 2021,Vansbro,2021B2010,Dala-Jarna,2021R003,4
 2021,Vansbro,2021A0020,Vansbro ostra landsbygd,2021R004,3
 2023,Malung-Salen,2023A0020,Limedsforsen-Lima-Rorbacksnas,2023R001,4
-2023,Malung-Salen,2023C1030,Malungs nordostra tatort,2023R002,2
+2023,Malung-Salen,2023C1030,Malungs nordostra tatort,2023R002,3
 2023,Malung-Salen,2023A0010,Malungs omland,2023R003,3
 2023,Malung-Salen,2023C1010,Malungs sydostra tatort,2023R004,4
-2023,Malung-Salen,2023C1020,Malungs vastra tatort,2023R005,4
+2023,Malung-Salen,2023C1020,Malungs vastra tatort,2023R005,3
 2023,Malung-Salen,2023A0030,Transtrand-Salen-Sorsjon,2023R006,4
 2026,Gagnef,2026A0010,Bjorbo,2026R001,3
 2026,Gagnef,2026A0020,Brotjarna omland,2026R002,4
@@ -5131,7 +5131,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2080,Falun,2080A0020,Aspeboda,2080R001,4
 2080,Falun,2080B2010,Bjursas,2080R002,4
 2080,Falun,2080B2020,Bjursas,2080R002,4
-2080,Falun,2080A0050,Bjursas omland-Sagmyra,2080R003,3
+2080,Falun,2080A0050,Bjursas omland-Sagmyra,2080R003,4
 2080,Falun,2080C1240,Bojsenburg,2080R004,1
 2080,Falun,2080A0060,Enviken-Linghed-Svardsjo omland,2080R005,4
 2080,Falun,2080B4010,Enviken-Linghed-Svardsjo omland,2080R005,4
@@ -5141,15 +5141,15 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2080,Falun,2080C1110,Falu centrum sodra,2080R007,3
 2080,Falun,2080C1130,Falu centrum sodra,2080R007,3
 2080,Falun,2080C1140,Falu centrum sodra,2080R007,3
-2080,Falun,2080B5010,Grycksbo,2080R008,4
-2080,Falun,2080C1210,Herrhagen,2080R009,1
+2080,Falun,2080B5010,Grycksbo,2080R008,3
+2080,Falun,2080C1210,Herrhagen,2080R009,2
 2080,Falun,2080C1100,Hosjo,2080R010,4
 2080,Falun,2080C1020,Hosjo,2080R010,4
-2080,Falun,2080C1010,Kvarnberget-Framby-Kallviken,2080R011,3
-2080,Falun,2080C1060,Kvarnberget-Framby-Kallviken,2080R011,3
+2080,Falun,2080C1010,Kvarnberget-Framby-Kallviken,2080R011,4
+2080,Falun,2080C1060,Kvarnberget-Framby-Kallviken,2080R011,4
 2080,Falun,2080C1090,Nedre Norslund,2080R012,2
-2080,Falun,2080C1030,Pilbo-Samuelsdal-Gruvriset,2080R013,4
-2080,Falun,2080C1050,Pilbo-Samuelsdal-Gruvriset,2080R013,4
+2080,Falun,2080C1030,Pilbo-Samuelsdal-Gruvriset,2080R013,5
+2080,Falun,2080C1050,Pilbo-Samuelsdal-Gruvriset,2080R013,5
 2080,Falun,2080C1120,Slatta-Gamla Berget,2080R014,5
 2080,Falun,2080C1200,Slatta-Gamla Berget,2080R014,5
 2080,Falun,2080C1230,Slatta-Gamla Berget,2080R014,5
@@ -5178,7 +5178,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2081,Borlange,2081C1230,Lergardet-Bergslagsbyn,2081R006,4
 2081,Borlange,2081C1110,Medvaga-Honsarvet-Domnarvet-Barkagardet-Islingby-Nyckelby,2081R007,4
 2081,Borlange,2081C1210,Medvaga-Honsarvet-Domnarvet-Barkagardet-Islingby-Nyckelby,2081R007,4
-2081,Borlange,2081C1090,Mjalga-Centrum,2081R008,3
+2081,Borlange,2081C1090,Mjalga-Centrum,2081R008,4
 2081,Borlange,2081C1200,Repbacken-Amsberg-Kvarnsveden,2081R009,4
 2081,Borlange,2081C1220,Repbacken-Amsberg-Kvarnsveden,2081R009,4
 2081,Borlange,2081C1010,Romme,2081R010,4
@@ -5195,7 +5195,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2082,Sater,2082A0020,Gustafs omland,2082R001,4
 2082,Sater,2082B2010,Mora-Enbacka-Naglarby,2082R002,4
 2082,Sater,2082B2020,Mora-Enbacka-Naglarby,2082R002,4
-2082,Sater,2082C1010,Sater centrala,2082R003,2
+2082,Sater,2082C1010,Sater centrala,2082R003,3
 2082,Sater,2082C1030,Sater vastra,2082R004,3
 2082,Sater,2082C1020,Sater ostra,2082R005,4
 2082,Sater,2082A0010,Saters omland,2082R006,4
@@ -5220,7 +5220,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2084,Avesta,2084C1070,Avesta sodra-Avesta ostra-Bengtsbo,2084R003,2
 2084,Avesta,2084C1040,Avesta sodra-Avesta ostra-Bengtsbo,2084R003,2
 2084,Avesta,2084C1050,Avesta sodra-Avesta ostra-Bengtsbo,2084R003,2
-2084,Avesta,2084B2010,Horndal,2084R004,3
+2084,Avesta,2084B2010,Horndal,2084R004,2
 2084,Avesta,2084C1010,Krylbo-Isaksbo-Masterbo,2084R005,1
 2084,Avesta,2084C1020,Krylbo-Isaksbo-Masterbo,2084R005,1
 2085,Ludvika,2085A0020,Fredriksberg,2085R001,3
@@ -5231,7 +5231,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2085,Ludvika,2085B2030,Grangesberg,2085R003,3
 2085,Ludvika,2085C1040,Hogberget,2085R004,3
 2085,Ludvika,2085C1050,Hogberget,2085R004,3
-2085,Ludvika,2085C1030,Ludvika gard,2085R005,2
+2085,Ludvika,2085C1030,Ludvika gard,2085R005,1
 2085,Ludvika,2085C1060,Ludvika norra,2085R006,3
 2085,Ludvika,2085C1070,Ludvika norra,2085R006,3
 2085,Ludvika,2085C1090,Ludvika norra,2085R006,3
@@ -5257,7 +5257,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2121,Ovanaker,2121C1010,Edsbyn,2121R002,3
 2121,Ovanaker,2121A0010,Ovanakers landsbygd,2121R003,4
 2121,Ovanaker,2121A0020,Ovanakers landsbygd,2121R003,4
-2132,Nordanstig,2132C1010,Bergsjo,2132R001,3
+2132,Nordanstig,2132C1010,Bergsjo,2132R001,2
 2132,Nordanstig,2132B2010,Gnarp,2132R002,3
 2132,Nordanstig,2132A0050,Nordanstig nordvastra omland,2132R003,3
 2132,Nordanstig,2132A0030,Nordanstig nordostra omland,2132R004,4
@@ -5265,13 +5265,13 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2132,Nordanstig,2132A0020,Nordanstig sodra omland,2132R005,3
 2132,Nordanstig,2132A0010,Nordanstig sodra omland,2132R005,3
 2161,Ljusdal,2161B3010,Farila,2161R001,3
-2161,Ljusdal,2161B2010,Jarvso,2161R002,4
+2161,Ljusdal,2161B2010,Jarvso,2161R002,3
 2161,Ljusdal,2161A0010,Jarvso omland,2161R003,4
 2161,Ljusdal,2161A0020,Jarvso omland,2161R003,4
-2161,Ljusdal,2161C1010,Ljusdal,2161R004,4
-2161,Ljusdal,2161C1020,Ljusdal,2161R004,4
-2161,Ljusdal,2161C1040,Ljusdal,2161R004,4
-2161,Ljusdal,2161C1050,Ljusdal,2161R004,4
+2161,Ljusdal,2161C1010,Ljusdal,2161R004,3
+2161,Ljusdal,2161C1020,Ljusdal,2161R004,3
+2161,Ljusdal,2161C1040,Ljusdal,2161R004,3
+2161,Ljusdal,2161C1050,Ljusdal,2161R004,3
 2161,Ljusdal,2161C1030,Ljusdal norra,2161R005,1
 2161,Ljusdal,2161A0040,Ljusdal omland,2161R006,3
 2161,Ljusdal,2161A0050,Ljusdal omland,2161R006,3
@@ -5337,7 +5337,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2181,Sandviken,2181C1110,Sandviken centrum,2181R003,1
 2181,Sandviken,2181C1120,Sandviken centrum,2181R003,1
 2181,Sandviken,2181C1130,Sandviken centrum,2181R003,1
-2181,Sandviken,2181C1150,Sandviken nordostra tatorten,2181R004,4
+2181,Sandviken,2181C1150,Sandviken nordostra tatorten,2181R004,5
 2181,Sandviken,2181C1010,Sandviken sodra tatorten,2181R005,4
 2181,Sandviken,2181C1020,Sandviken sodra tatorten,2181R005,4
 2181,Sandviken,2181C1030,Sandviken sodra tatorten,2181R005,4
@@ -5387,7 +5387,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2183,Bollnas,2183C1040,Ren,2183R010,4
 2183,Bollnas,2183C1070,Ren,2183R010,4
 2183,Bollnas,2183A0050,Rengsjo kommundel,2183R011,4
-2183,Bollnas,2183C1010,Saversta-Granberg-Hertsjo,2183R012,4
+2183,Bollnas,2183C1010,Saversta-Granberg-Hertsjo,2183R012,3
 2183,Bollnas,2183C1020,Savsberg-Heden,2183R013,2
 2184,Hudiksvall,2184A0070,Bjurakersbygden,2184R001,3
 2184,Hudiksvall,2184C1070,Bjorkberg-Maln,2184R002,3
@@ -5412,12 +5412,12 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2184,Hudiksvall,2184C1090,Jakobsberg-Kristineberg,2184R015,4
 2184,Hudiksvall,2184B5010,Nasviken,2184R016,4
 2184,Hudiksvall,2184C1100,Sanna-Sandvalla,2184R017,4
-2184,Hudiksvall,2184B4010,Sorforsa,2184R018,3
+2184,Hudiksvall,2184B4010,Sorforsa,2184R018,4
 2260,Ange,2260B2020,Fransta,2260R001,3
 2260,Ange,2260B2010,Ljungaverk,2260R002,3
-2260,Ange,2260A0020,Ange omland,2260R003,3
-2260,Ange,2260A0030,Ange omland,2260R003,3
-2260,Ange,2260A0010,Ange omland,2260R003,3
+2260,Ange,2260A0020,Ange omland,2260R003,4
+2260,Ange,2260A0030,Ange omland,2260R003,4
+2260,Ange,2260A0010,Ange omland,2260R003,4
 2260,Ange,2260C1010,Ange tatort,2260R004,3
 2260,Ange,2260C1020,Ange tatort,2260R004,3
 2262,Timra,2262C1060,Bergeforsen-Stavreviken,2262R001,4
@@ -5436,13 +5436,13 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2280,Harnosand,2280C1090,Harnosand centrum,2280R003,2
 2280,Harnosand,2280C1050,Harnosand centrum,2280R003,2
 2280,Harnosand,2280C1010,Harnosand sodra,2280R004,3
-2280,Harnosand,2280C1060,Murberget-Gadeastaden,2280R005,1
-2280,Harnosand,2280C1110,Murberget-Gadeastaden,2280R005,1
+2280,Harnosand,2280C1060,Murberget-Gadeastaden,2280R005,2
+2280,Harnosand,2280C1110,Murberget-Gadeastaden,2280R005,2
 2280,Harnosand,2280C1100,Norra Brannan-Eriksdal-Gansvik,2280R006,3
 2280,Harnosand,2280C1040,Norra Brannan-Eriksdal-Gansvik,2280R006,3
 2280,Harnosand,2280C1030,Rotudden-Halletorp-Bondsjostaden,2280R007,3
 2280,Harnosand,2280C1080,Rotudden-Halletorp-Bondsjostaden,2280R007,3
-2280,Harnosand,2280A0030,Stigsjo-Viksjo,2280R008,3
+2280,Harnosand,2280A0030,Stigsjo-Viksjo,2280R008,4
 2280,Harnosand,2280C1070,Sodra Brannan-Stenhammar-Nickebo,2280R009,4
 2280,Harnosand,2280C1020,Sodra Brannan-Stenhammar-Nickebo,2280R009,4
 2280,Harnosand,2280A0040,Utansjo-Ramvik,2280R010,3
@@ -5453,7 +5453,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2281,Sundsvall,2281A0060,Alno,2281R002,4
 2281,Sundsvall,2281C1060,Alno,2281R002,4
 2281,Sundsvall,2281C1250,Bergsaker vastra,2281R003,4
-2281,Sundsvall,2281C1290,Bergsaker ostra,2281R004,3
+2281,Sundsvall,2281C1290,Bergsaker ostra,2281R004,4
 2281,Sundsvall,2281C1310,Bosvedjan,2281R005,4
 2281,Sundsvall,2281B2080,Bredsand,2281R006,2
 2281,Sundsvall,2281C1300,Bydalen,2281R007,5
@@ -5469,7 +5469,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2281,Sundsvall,2281C1220,Haga,2281R011,4
 2281,Sundsvall,2281A0080,Indal-Liden,2281R012,4
 2281,Sundsvall,2281A0090,Indal-Liden,2281R012,4
-2281,Sundsvall,2281B2030,Juniskar-Skottsund,2281R013,5
+2281,Sundsvall,2281B2030,Juniskar-Skottsund,2281R013,4
 2281,Sundsvall,2281C1240,Korsta-Tunadal,2281R014,4
 2281,Sundsvall,2281A0070,Kovland,2281R015,4
 2281,Sundsvall,2281B2050,Kvissleby,2281R016,3
@@ -5517,11 +5517,11 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2282,Kramfors,2282B2010,Vaja-Dynas,2282R011,2
 2282,Kramfors,2282A0030,Alven vastra,2282R012,3
 2282,Kramfors,2282A0040,Alven ostra,2282R013,3
-2283,Solleftea,2283A0010,Graninge-Helgum,2283R001,3
-2283,Solleftea,2283A0040,Graninge-Helgum,2283R001,3
+2283,Solleftea,2283A0010,Graninge-Helgum,2283R001,4
+2283,Solleftea,2283A0040,Graninge-Helgum,2283R001,4
 2283,Solleftea,2283A0070,Junsele-Ramsele,2283R002,3
 2283,Solleftea,2283A0080,Junsele-Ramsele,2283R002,3
-2283,Solleftea,2283B2010,Langsele,2283R003,2
+2283,Solleftea,2283B2010,Langsele,2283R003,3
 2283,Solleftea,2283A0050,Nasaker-Resele,2283R004,3
 2283,Solleftea,2283A0060,Nasaker-Resele,2283R004,3
 2283,Solleftea,2283C1060,Skedom-Skarvsta-Prastbordet,2283R005,4
@@ -5545,7 +5545,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2284,Ornskoldsvik,2284A0050,Grundsunda,2284R007,4
 2284,Ornskoldsvik,2284C1180,Gullanget-Kroksta,2284R008,4
 2284,Ornskoldsvik,2284C1220,Gullanget-Kroksta,2284R008,4
-2284,Ornskoldsvik,2284B3010,Husum,2284R009,4
+2284,Ornskoldsvik,2284B3010,Husum,2284R009,3
 2284,Ornskoldsvik,2284C1050,Hornett-Sund,2284R010,4
 2284,Ornskoldsvik,2284C1060,Hornett-Sund,2284R010,4
 2284,Ornskoldsvik,2284C1040,Jarved-Bonaset-Dekarson,2284R011,5
@@ -5608,7 +5608,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2326,Berg,2326A0050,Oviken,2326R003,4
 2326,Berg,2326A0010,Ratan,2326R004,3
 2326,Berg,2326C1010,Svenstavik,2326R005,1
-2326,Berg,2326A0030,Asarna,2326R006,3
+2326,Berg,2326A0030,Asarna,2326R006,4
 2361,Harjedalen,2361B3010,Funasdalen,2361R001,4
 2361,Harjedalen,2361B2010,Hede,2361R002,3
 2361,Harjedalen,2361A0040,Harjedalen vastra,2361R003,4
@@ -5629,12 +5629,12 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2380,Ostersund,2380C1260,Karlslund-Remonthagen-Blomangen,2380R005,4
 2380,Ostersund,2380C1190,Korfaltet,2380R006,3
 2380,Ostersund,2380B2010,Lit,2380R007,3
-2380,Ostersund,2380C1300,Lugnviks centrum,2380R008,4
-2380,Ostersund,2380A0020,Malsta-Sandviken-Marieby,2380R009,4
+2380,Ostersund,2380C1300,Lugnviks centrum,2380R008,3
+2380,Ostersund,2380A0020,Malsta-Sandviken-Marieby,2380R009,5
 2380,Ostersund,2380C1180,Norra Froson-Froso Berge-Frosodal,2380R010,4
 2380,Ostersund,2380C1140,Norra Odenslund-Odenskog,2380R011,4
 2380,Ostersund,2380C1160,Norra Odenslund-Odenskog,2380R011,4
-2380,Ostersund,2380C1240,Norra Valla-Harke-Vastra Froson,2380R012,4
+2380,Ostersund,2380C1240,Norra Valla-Harke-Vastra Froson,2380R012,5
 2380,Ostersund,2380C1050,Odensala,2380R013,4
 2380,Ostersund,2380C1080,Odensala,2380R013,4
 2380,Ostersund,2380C1110,Odensala,2380R013,4
@@ -5656,7 +5656,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2380,Ostersund,2380A0030,Ostersund sodra landsbygd,2380R022,4
 2401,Nordmaling,2401C1010,Levarakern,2401R001,4
 2401,Nordmaling,2401C1020,Nordmaling centrum,2401R002,3
-2401,Nordmaling,2401A0020,Nordmalings norra omland,2401R003,4
+2401,Nordmaling,2401A0020,Nordmalings norra omland,2401R003,3
 2401,Nordmaling,2401A0010,Nordmalings sodra omland,2401R004,4
 2401,Nordmaling,2401B2010,Rundvik-Logdea,2401R005,3
 2403,Bjurholm,2403C1010,Bjurholms centralort,2403R001,3
@@ -5666,11 +5666,11 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2404,Vindeln,2404C1010,Vindelns tatort,2404R003,3
 2409,Robertsfors,2409C1010,Robertsfors,2409R001,3
 2409,Robertsfors,2409A0020,Robertsfors centrala omland,2409R002,4
-2409,Robertsfors,2409A0030,Robertsfors norra omland,2409R003,3
+2409,Robertsfors,2409A0030,Robertsfors norra omland,2409R003,4
 2409,Robertsfors,2409A0010,Robertsfors sodra omland,2409R004,4
 2417,Norsjo,2417A0010,Norsjo omland,2417R001,4
 2417,Norsjo,2417C1010,Norsjo tatort,2417R002,3
-2418,Mala,2418A0010,Mala,2418R001,3
+2418,Mala,2418A0010,Mala,2418R001,4
 2418,Mala,2418C1020,Mala vastra,2418R002,3
 2418,Mala,2418C1010,Mala ostra,2418R003,4
 2421,Storuman,2421C1010,Luspen,2421R001,3
@@ -5679,7 +5679,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2421,Storuman,2421C1020,Vallnas,2421R004,4
 2422,Sorsele,2422C1010,Sorsele centralort,2422R001,3
 2422,Sorsele,2422A0010,Sorsele omland,2422R002,3
-2425,Dorotea,2425A0010,Dorotea omland,2425R001,4
+2425,Dorotea,2425A0010,Dorotea omland,2425R001,3
 2425,Dorotea,2425C1010,Dorotea tatort,2425R002,3
 2460,Vannas,2460C1010,Vannas,2460R001,3
 2460,Vannas,2460C1020,Vannas,2460R001,3
@@ -5689,7 +5689,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2462,Vilhelmina,2462C1010,Vilhelmina tatort Sodra,2462R001,3
 2462,Vilhelmina,2462C1020,Vilhelmina tatort-Baksjon,2462R002,3
 2462,Vilhelmina,2462C1030,Vilhelmina tatort-Bergbacka-Trissen,2462R003,2
-2462,Vilhelmina,2462A0020,Vilhelmina vastra,2462R004,3
+2462,Vilhelmina,2462A0020,Vilhelmina vastra,2462R004,4
 2462,Vilhelmina,2462A0010,Vilhelmina ostra,2462R005,4
 2463,Asele,2463A0010,Asele omland,2463R001,3
 2463,Asele,2463C1010,Asele tatort,2463R002,3
@@ -5709,13 +5709,13 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2480,Umea,2480C1300,Haga,2480R009,4
 2480,Umea,2480C1390,Haga,2480R009,4
 2480,Umea,2480B2040,Holmsund vastra,2480R010,3
-2480,Umea,2480B2020,Holmsund ostra,2480R011,5
-2480,Umea,2480B2030,Holmsund ostra,2480R011,5
+2480,Umea,2480B2020,Holmsund ostra,2480R011,4
+2480,Umea,2480B2030,Holmsund ostra,2480R011,4
 2480,Umea,2480A0030,Holmsund-Obbola omland,2480R012,5
-2480,Umea,2480A0010,Hornefors omland,2480R013,5
+2480,Umea,2480A0010,Hornefors omland,2480R013,4
 2480,Umea,2480B4010,Hornefors tatort,2480R014,4
 2480,Umea,2480B4020,Hornefors tatort,2480R014,4
-2480,Umea,2480C1470,Marieberg,2480R015,3
+2480,Umea,2480C1470,Marieberg,2480R015,4
 2480,Umea,2480C1460,Mariehem vastra,2480R016,5
 2480,Umea,2480C1420,Mariehem vastra,2480R016,5
 2480,Umea,2480C1410,Mariehem ostra-Olofsdal,2480R017,3
@@ -5736,7 +5736,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2480,Umea,2480C1130,Teg vastra,2480R025,4
 2480,Umea,2480C1150,Teg vastra,2480R025,4
 2480,Umea,2480C1030,Teg ostra-On,2480R026,4
-2480,Umea,2480C1180,Tomtebo norra,2480R027,3
+2480,Umea,2480C1180,Tomtebo norra,2480R027,4
 2480,Umea,2480C1090,Tomtebo vastra,2480R028,4
 2480,Umea,2480C1100,Tomtebo ostra-Innertavle,2480R029,5
 2480,Umea,2480B5010,Taftea tatort,2480R030,5
@@ -5744,8 +5744,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2480,Umea,2480C1380,Umedalen vastra-Backen,2480R031,4
 2480,Umea,2480C1370,Umedalen ostra,2480R032,3
 2480,Umea,2480C1220,Umea centrum,2480R033,4
-2480,Umea,2480A0070,Umea norra landsbygd,2480R034,5
-2480,Umea,2480A0080,Umea norra landsbygd,2480R034,5
+2480,Umea,2480A0070,Umea norra landsbygd,2480R034,4
+2480,Umea,2480A0080,Umea norra landsbygd,2480R034,4
 2480,Umea,2480A0020,Umea sodra landsbygd,2480R035,5
 2480,Umea,2480C1010,Umea sodra landsbygd,2480R035,5
 2480,Umea,2480A0040,Umea vastra landsbygd,2480R036,5
@@ -5785,7 +5785,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2482,Skelleftea,2482A0070,Burtrask omland,2482R006,4
 2482,Skelleftea,2482B6010,Burtrask tatort,2482R007,3
 2482,Skelleftea,2482A0110,Byske omland,2482R008,4
-2482,Skelleftea,2482B4010,Byske tatort,2482R009,3
+2482,Skelleftea,2482B4010,Byske tatort,2482R009,4
 2482,Skelleftea,2482C1180,Degerbyn-Prastbordet,2482R010,4
 2482,Skelleftea,2482C1200,Degerbyn-Prastbordet,2482R010,4
 2482,Skelleftea,2482B2010,Ersmark-Kage tatort,2482R011,4
@@ -5797,14 +5797,14 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2482,Skelleftea,2482C1300,Klutmark-Medle-Myckle-Stamningsgarden,2482R013,4
 2482,Skelleftea,2482A0080,Kage omland,2482R014,4
 2482,Skelleftea,2482A0100,Kage omland,2482R014,4
-2482,Skelleftea,2482C1120,Lund-Sunnana,2482R015,5
-2482,Skelleftea,2482C1100,Lund-Sunnana,2482R015,5
+2482,Skelleftea,2482C1120,Lund-Sunnana,2482R015,4
+2482,Skelleftea,2482C1100,Lund-Sunnana,2482R015,4
 2482,Skelleftea,2482A0010,Lovanger,2482R016,3
 2482,Skelleftea,2482A0020,Lovanger,2482R016,3
 2482,Skelleftea,2482C1220,Morohojden-Moro backe centrum,2482R017,3
 2482,Skelleftea,2482C1230,Morohojden-Moro backe centrum,2482R017,3
-2482,Skelleftea,2482C1140,Moron,2482R018,4
-2482,Skelleftea,2482C1170,Moron,2482R018,4
+2482,Skelleftea,2482C1140,Moron,2482R018,5
+2482,Skelleftea,2482C1170,Moron,2482R018,5
 2482,Skelleftea,2482C1260,Norra Moro backe,2482R019,5
 2482,Skelleftea,2482C1280,Norra Moro backe,2482R019,5
 2482,Skelleftea,2482C1290,Sjungande dalen-Vastra Norrbole,2482R020,4
@@ -5829,7 +5829,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2506,Arjeplog,2506C1010,Arjeplog tatort,2506R002,4
 2510,Jokkmokk,2510C1010,Jokkmokk centralort vastra,2510R001,3
 2510,Jokkmokk,2510C1020,Jokkmokk centralort ostra,2510R002,4
-2510,Jokkmokk,2510A0010,Jokkmokk vastra omland,2510R003,4
+2510,Jokkmokk,2510A0010,Jokkmokk vastra omland,2510R003,3
 2510,Jokkmokk,2510A0020,Jokkmokk ostra omland,2510R004,4
 2513,Overkalix,2513A0010,Overkalix omland,2513R001,4
 2513,Overkalix,2513C1010,Overkalix tatort,2513R002,3
@@ -5847,7 +5847,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2518,Overtornea,2518C1010,Overtornea centralort,2518R001,3
 2518,Overtornea,2518A0020,Overtornea-Centrala,2518R002,4
 2518,Overtornea,2518A0030,Overtornea-Norra,2518R003,4
-2518,Overtornea,2518A0010,Overtornea-Sodra,2518R004,3
+2518,Overtornea,2518A0010,Overtornea-Sodra,2518R004,4
 2521,Pajala,2521C1010,Pajala centralort,2521R001,4
 2521,Pajala,2521A0010,Pajala omland,2521R002,4
 2521,Pajala,2521A0020,Pajala omland,2521R002,4
@@ -5856,7 +5856,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2523,Gallivare,2523C1020,Andra sidan,2523R001,4
 2523,Gallivare,2523C1030,Gallivare centrum,2523R002,3
 2523,Gallivare,2523A0030,Gallivare norra,2523R003,4
-2523,Gallivare,2523A0010,Gallivare sodra,2523R004,4
+2523,Gallivare,2523A0010,Gallivare sodra,2523R004,3
 2523,Gallivare,2523C1050,Gallivare vast,2523R005,4
 2523,Gallivare,2523C1040,Gallivare ost,2523R006,4
 2523,Gallivare,2523A0020,Gallivare ostra omland,2523R007,4
@@ -5936,8 +5936,8 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2581,Pitea,2581C1080,Pitea centrum,2581R009,4
 2581,Pitea,2581C1090,Pitea centrum,2581R009,4
 2581,Pitea,2581C1100,Pitea centrum,2581R009,4
-2581,Pitea,2581A0010,Pitea kustnara omraden,2581R010,4
-2581,Pitea,2581A0040,Pitea kustnara omraden,2581R010,4
+2581,Pitea,2581A0010,Pitea kustnara omraden,2581R010,5
+2581,Pitea,2581A0040,Pitea kustnara omraden,2581R010,5
 2581,Pitea,2581B3010,Rosvik,2581R011,4
 2581,Pitea,2581C1060,Svartudden-Stromnas-Pitholm norra,2581R012,4
 2581,Pitea,2581C1120,Svartudden-Stromnas-Pitholm norra,2581R012,4
@@ -5961,7 +5961,7 @@ Kommun,Kommunnamn,DeSO_2018,RegSO_2020,RegSOkod_2020,socioekonomiskt_index
 2582,Boden,2582B2010,Savast-Savaston-Gamla Savast,2582R011,4
 2582,Boden,2582B2020,Savast-Savaston-Gamla Savast,2582R011,4
 2582,Boden,2582C1010,Sodra Svartbyn-Gruvberget,2582R012,5
-2582,Boden,2582C1080,Trangfors-Heden-Vittjarv-Hamptjarnmoran,2582R013,5
+2582,Boden,2582C1080,Trangfors-Heden-Vittjarv-Hamptjarnmoran,2582R013,4
 2583,Haparanda,2583A0020,Haparanda norra landsbygden,2583R001,3
 2583,Haparanda,2583C1020,Haparanda stad centrala,2583R002,3
 2583,Haparanda,2583C1030,Haparanda stad centrala,2583R002,3

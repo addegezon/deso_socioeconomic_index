@@ -1,4 +1,4 @@
-﻿Område,2023
+﻿,2022
 Upplands Väsby (Bollstanäs),4
 Upplands Väsby (Hammarby-Vaxmyra),4
 Upplands Väsby (Odenslunda norra-Frestaby-Ekeby),4
@@ -7,7 +7,7 @@ Upplands Väsby (Runby norra),4
 Upplands Väsby (Runby södra-Ed),4
 Upplands Väsby (Skälby-Brunnby Vik),3
 Upplands Väsby (Smedby södra-Älvsunda),3
-Upplands Väsby (Upplands Väsby centrum-Smedby norra),2
+Upplands Väsby (Upplands Väsby centrum-Smedby norra),3
 Upplands Väsby (Upplands Väsby omland),4
 Upplands Väsby (Vilunda västra),4
 Upplands Väsby (Vilunda östra),3
@@ -16,22 +16,22 @@ Vallentuna (Lindholmen),4
 Vallentuna (Vallentuna centrala tätort),4
 Vallentuna (Vallentuna landsbygd),4
 Vallentuna (Vallentuna södra tätort),5
-Vallentuna (Vallentuna västra tätort),4
+Vallentuna (Vallentuna västra tätort),5
 Vallentuna (Vallentuna östra tätort),4
 Österåker (Berga),4
 Österåker (Brevik-Lervik-Flaxenvik),5
 Österåker (Hacksta-Centrumområdet),4
-Österåker (Ljusterö-omkringliggande skärgård),4
+Österåker (Ljusterö-omkringliggande skärgård),3
 Österåker (Margeretelunds centrum),4
 Österåker (Norrgårdshöjden),3
 Österåker (Roslagskulla-Furusundsleden),4
-Österåker (Rydbo),4
+Österåker (Rydbo),5
 Österåker (Skånsta-Singö),4
 Österåker (Stava-Smedby-Sjökarby),4
 Österåker (Svinninge),5
 Österåker (Söra),4
 Österåker (Tuna),5
-Österåker (Täljö-Runö),5
+Österåker (Täljö-Runö),4
 Österåker (Österskär),5
 Värmdö (Björnkärret-Nyhem),4
 Värmdö (Djurö-Vindö),4
@@ -43,7 +43,7 @@ Värmdö (Ingarö norr),4
 Värmdö (Ingarö söder),4
 Värmdö (Kvarnberget-Hästhagen),4
 Värmdö (Munkmora-Ösby grind),3
-Värmdö (Mörtnäs),5
+Värmdö (Mörtnäs),4
 Värmdö (Norra Värdölandet-Skärgården),4
 Värmdö (Ormingelandet),4
 Värmdö (Skeppsdalsström),4
@@ -67,7 +67,7 @@ Järfälla (Jakobsberg norra),4
 Järfälla (Jakobsberg västra),4
 Järfälla (Kolarängen-Villastaden),4
 Järfälla (Lädersättra),4
-Järfälla (Nibble),3
+Järfälla (Nibble),2
 Järfälla (Nyberg-Hammaren östra),2
 Järfälla (Skogstorp),4
 Järfälla (Skälby västra),4
@@ -89,7 +89,7 @@ Ekerö (Södra Färingsö),4
 Ekerö (Västra Sandudden-Lundhagen-Skärvik),5
 Ekerö (Älvnäs-Brunna-Närlunda),4
 Huddinge (Flemingsberg västra),2
-Huddinge (Flemingsberg östra),2
+Huddinge (Flemingsberg östra),3
 Huddinge (Flemingsberg-Kästa),4
 Huddinge (Fullersta norra),5
 Huddinge (Fullersta södra),4
@@ -99,17 +99,17 @@ Huddinge (Högmora-Vidja-Ågesta),4
 Huddinge (Kungens Kurva-Kråkvik),4
 Huddinge (Länna),4
 Huddinge (Segeltorp),4
-Huddinge (Sjödalen centrala-norra),4
+Huddinge (Sjödalen centrala-norra),3
 Huddinge (Sjödalen södra),4
 Huddinge (Skogås västra),2
 Huddinge (Skogås östra),4
 Huddinge (Snättringe),5
-Huddinge (Stuvsta),5
+Huddinge (Stuvsta),4
 Huddinge (Trångsund),5
 Huddinge (Trångsund centrala),3
 Huddinge (Vårby gård),2
 Huddinge (Vårby Haga-Masmo),2
-Huddinge (Vårby Udde-Duvberget),3
+Huddinge (Vårby Udde-Duvberget),2
 Botkyrka (Albyberget),2
 Botkyrka (Albydalen),2
 Botkyrka (Brantbrink-Tullingeskog-Rörmossen),4
@@ -146,7 +146,7 @@ Haninge (Haninge skärgård-glesbygd),4
 Haninge (Jordbro centrala),1
 Haninge (Jordbro norra),4
 Haninge (Jordbro Södra),2
-Haninge (Muskö),3
+Haninge (Muskö),4
 Haninge (Norrby-Vendelsö Gård),4
 Haninge (Söderby),4
 Haninge (Tungelsta centrala),4
@@ -170,7 +170,7 @@ Tyresö (Krusboda),4
 Tyresö (Lindalen),4
 Tyresö (Raksta-Brevik),4
 Tyresö (Sikvägen),4
-Tyresö (Tyresö centrum),3
+Tyresö (Tyresö centrum),4
 Tyresö (Tyresö Strand),5
 Tyresö (Västra Farmarstigen),4
 Tyresö (Västra Trollbäcken),4
@@ -204,14 +204,14 @@ Täby (Nytorp),4
 Täby (Näsby Park),5
 Täby (Näsby Slott),5
 Täby (Näsbydal),4
-Täby (Roslags-Näsby),5
+Täby (Roslags-Näsby),4
 Täby (Runborg),5
 Täby (Skarpäng),5
 Täby (Tibble),4
 Täby (Täby Centrum),4
 Täby (Täby Park),4
 Täby (Vallabrink),5
-Täby (Vallatorp),5
+Täby (Vallatorp),4
 Täby (Viggbyholm),5
 Täby (Visinge),5
 Täby (Västra Hägernäs),5
@@ -244,10 +244,10 @@ Sollentuna (Töjnan),5
 Sollentuna (Vaxmora-Väsjön),4
 Sollentuna (Viby-Järvafältet),5
 Stockholm (Abrahamsberg),4
-Stockholm (Akalla),2
+Stockholm (Akalla),3
 Stockholm (Alvik),4
 Stockholm (Aspudden),4
-Stockholm (Bagarmossen),3
+Stockholm (Bagarmossen),4
 Stockholm (Bandhagen),3
 Stockholm (Beckomberga),4
 Stockholm (Björkhagen),4
@@ -296,12 +296,12 @@ Stockholm (Kälvesta),4
 Stockholm (Kärrtorp),4
 Stockholm (Larsboda),4
 Stockholm (Liljeholmen),4
-Stockholm (Lilla Essingen),4
+Stockholm (Lilla Essingen),5
 Stockholm (Liseberg),4
 Stockholm (Långbro),5
 Stockholm (Långsjö),5
 Stockholm (Mariatorget),4
-Stockholm (Marieberg),4
+Stockholm (Marieberg),5
 Stockholm (Mariehäll),4
 Stockholm (Mellersta Högalid),4
 Stockholm (Midsommarkransen),4
@@ -313,13 +313,13 @@ Stockholm (Norra Högalid),4
 Stockholm (Norra Johannes),4
 Stockholm (Norra Skarpnäcks Gård),3
 Stockholm (Norra Sofia),4
-Stockholm (Norra Ängby),4
+Stockholm (Norra Ängby),5
 Stockholm (Nälsta),4
 Stockholm (Oscars kyrka),4
 Stockholm (Reimersholme-Långholmen),5
 Stockholm (Riksby-Åkeshov),4
 Stockholm (Rinkeby),1
-Stockholm (Råcksta),4
+Stockholm (Råcksta),3
 Stockholm (Rågsved),2
 Stockholm (Skärholmen),2
 Stockholm (Sköndal),4
@@ -343,7 +343,7 @@ Stockholm (Södra Sofia),4
 Stockholm (Södra Station),5
 Stockholm (Södra Ängby),5
 Stockholm (Tallkrogen),4
-Stockholm (Tekniska Högskolan),3
+Stockholm (Tekniska Högskolan),4
 Stockholm (Tensta),1
 Stockholm (Traneberg),4
 Stockholm (Ulvsunda),4
@@ -360,15 +360,15 @@ Stockholm (Västra Matteus),4
 Stockholm (Åkeslund),4
 Stockholm (Ålsten),5
 Stockholm (Årsta),4
-Stockholm (Älvsjö),3
+Stockholm (Älvsjö),2
 Stockholm (Äppelviken),5
 Stockholm (Örby),4
 Stockholm (Örby Slott),4
 Stockholm (Östberga),3
-Stockholm (Östra Farsta Strand),2
+Stockholm (Östra Farsta Strand),3
 Stockholm (Östra Katarina),4
 Stockholm (Östra Matteus),4
-Stockholm (Östra Sankt Göran),5
+Stockholm (Östra Sankt Göran),4
 Stockholm (Östra Skarpnäcks gård-Flaten-Skrubba),3
 Södertälje (Blombacka),2
 Södertälje (Brunnsäng),2
@@ -428,11 +428,11 @@ Sundbyberg (Stora Ursvik Nordvästra),4
 Sundbyberg (Stora Ursvik Sydvästra),4
 Sundbyberg (Stora Ursvik-Kymlinge-Brotorp),5
 Sundbyberg (Storskogen-Ör),4
-Solna (Arenastaden),4
+Solna (Arenastaden),5
 Solna (Bagartorp-Agnesberg),4
 Solna (Centrala Huvudsta),4
 Solna (Filmstaden),5
-Solna (Frösunda),4
+Solna (Frösunda),5
 Solna (Ingenting),4
 Solna (Järvastaden),5
 Solna (Kungshamra),2
@@ -464,7 +464,7 @@ Lidingö (Sticklinge-Storholmen-Islinge norra),5
 Lidingö (Stockby västra-Mosstorp-Bergsätra),4
 Lidingö (Stockby östra-Mölna-Ekholmsnäs),5
 Vaxholm (Edholma-Kullö),5
-Vaxholm (Resarö västra-Engarn-Storäng),5
+Vaxholm (Resarö västra-Engarn-Storäng),4
 Vaxholm (Resarö östra),5
 Vaxholm (Rindö-Skarpö),4
 Vaxholm (Vaxön mitt),4
@@ -485,7 +485,7 @@ Norrtälje (Riala-Länna-Rö-Rimbo),4
 Norrtälje (Rimbo tätort),3
 Norrtälje (Roslagsbro-Väddö),4
 Norrtälje (Rådmansö),4
-Norrtälje (Solbacka-Fågelsången),5
+Norrtälje (Solbacka-Fågelsången),4
 Norrtälje (Vigelsjö),2
 Norrtälje (Vätö-Väddö-Björkö-Arholma),4
 Norrtälje (Yxlan-Blidö),3
@@ -508,9 +508,9 @@ Sigtuna (Sjudargården-Prästängarna),4
 Sigtuna (Skånela-Steningevik omland),4
 Sigtuna (Steningehöjden-Ölsta by),4
 Sigtuna (Sätuna),3
-Sigtuna (Södra Valsta),1
+Sigtuna (Södra Valsta),2
 Sigtuna (Til-Munkholmen),5
-Sigtuna (Tingvalla),1
+Sigtuna (Tingvalla),2
 Sigtuna (Västra Valsta),2
 Sigtuna (Östra Norrbacka),2
 Sigtuna (Östra Steninge),4
@@ -519,11 +519,11 @@ Nynäshamn (Nynäshamns nordöstra kommundel),4
 Nynäshamn (Nynäshamns stad-norra),3
 Nynäshamn (Nynäshamns stad-södra),4
 Nynäshamn (Nynäshamns stad-västra),2
-Nynäshamn (Nynäshamns stad-östra),3
+Nynäshamn (Nynäshamns stad-östra),4
 Nynäshamn (Nynäshamns södra kommundel),4
 Nynäshamn (Nynäshamns västra kommundel),4
 Nynäshamn (Ösmo centrala),3
-Håbo (Centrala Bålsta-Mansängen),2
+Håbo (Centrala Bålsta-Mansängen),3
 Håbo (Dyarne-Fånäs-Kalmarsand),4
 Håbo (Håbo landsbygd),4
 Håbo (Norra Ullevi-Södra Ullevi-Åsen),4
@@ -543,13 +543,13 @@ Knivsta (Alsike östra),5
 Knivsta (Knivsta centrala),4
 Knivsta (Knivsta södra),3
 Knivsta (Knivsta västra),4
-Knivsta (Knivsta östra),4
+Knivsta (Knivsta östra),5
 Knivsta (Lagga-Långhundra),4
 Knivsta (Vassunda),4
 Heby (Heby omland),4
 Heby (Heby västra),3
 Heby (Heby östra),3
-Heby (Morgongåva tätort),2
+Heby (Morgongåva tätort),3
 Heby (Nora-Harbo omland),3
 Heby (Tärnsjö tätort),2
 Heby (Vittinge omland),4
@@ -560,7 +560,7 @@ Tierp (Mehedeby-Tobo),3
 Tierp (Månkarbo-Vendel),4
 Tierp (Skärplinge-Hållnäs),4
 Tierp (Söderfors),2
-Tierp (Tierp Centrum-Tierp Norra),4
+Tierp (Tierp Centrum-Tierp Norra),3
 Tierp (Tierp Södra),2
 Tierp (Västland),4
 Tierp (Örbyhus),3
@@ -570,7 +570,7 @@ Uppsala (Bäcklösa-Ultuna-Södra Ulleråker),2
 Uppsala (Bälinge-Lövstalöt),4
 Uppsala (Främre Luthagen-Fjärdingen-Glunten),4
 Uppsala (Gamla Gottsunda-Vårdsätra-Vreta),5
-Uppsala (Gamla Uppsala),4
+Uppsala (Gamla Uppsala),5
 Uppsala (Gunsta-Marielund-Länna),4
 Uppsala (Kungsängen),4
 Uppsala (Kvarngärdet),3
@@ -578,7 +578,7 @@ Uppsala (Kåbo-Norra Rosendal),4
 Uppsala (Lindbacken-Jälla),4
 Uppsala (Löten),3
 Uppsala (Mellersta Luthagen-Rickomberga),4
-Uppsala (Mellersta Sala backe),2
+Uppsala (Mellersta Sala backe),3
 Uppsala (Mellersta Valsätra-Gottsunda centrum-Östra Gottsunda),2
 Uppsala (Norby-Norra Valsätra),5
 Uppsala (Nordvästra Luthagen-Hällby),4
@@ -587,7 +587,7 @@ Uppsala (Norra Sala backe),4
 Uppsala (Norra Sävja),3
 Uppsala (Norra Ulleråker-Polacksbacken),4
 Uppsala (Nyby),3
-Uppsala (Nåntuna-Vilan),5
+Uppsala (Nåntuna-Vilan),4
 Uppsala (Slavsta-Fyrislund-Danmarksby),4
 Uppsala (Sommarro-Kungsgärdet),4
 Uppsala (Studentstaden),2
@@ -606,18 +606,18 @@ Uppsala (Uppsala sydöstra Centrum-Västra Fålhagen),4
 Uppsala (Uppsala västra omland),4
 Uppsala (Uppsala yttre norra omland),4
 Uppsala (Uppsala yttre östra omland),4
-Uppsala (Vattholma),5
+Uppsala (Vattholma),4
 Uppsala (Vänge),4
 Uppsala (Västra Eriksberg-Håga),4
 Uppsala (Västra Flogsta),2
 Uppsala (Västra Gottsunda),1
-Uppsala (Västra Gränby),2
-Uppsala (Västra Kapellgärdet),5
+Uppsala (Västra Gränby),1
+Uppsala (Västra Kapellgärdet),4
 Uppsala (Västra Stenhagen),3
 Uppsala (Västra Storvreta),4
 Uppsala (Västra Svartbäcken-Tuna backar),4
 Uppsala (Årsta),4
-Uppsala (Östra Eriksberg),2
+Uppsala (Östra Eriksberg),3
 Uppsala (Östra Flogsta-Ekeby-Berthåga),4
 Uppsala (Östra Fålhagen-Boländerna),4
 Uppsala (Östra Gränby-Brillinge),3
@@ -696,11 +696,11 @@ Katrineholm (Forssjö-Björkvik),4
 Katrineholm (Gersnäs-Lövåsen),2
 Katrineholm (Julita-Bie),4
 Katrineholm (Katrineholm centrum-Kerstinboda),2
-Katrineholm (Katrineholm norra),1
+Katrineholm (Katrineholm norra),2
 Katrineholm (Katrineholm östra),2
 Katrineholm (Nyhem-Nävertorp),1
 Katrineholm (Oppunda-Laggarhult),4
-Katrineholm (Strandsvägsområdet-Skogsborg),3
+Katrineholm (Strandsvägsområdet-Skogsborg),2
 Katrineholm (Valla-Sköldinge-Floda),3
 Katrineholm (Värmbol-Duveholm),4
 Eskilstuna (Alberga-Lista),4
@@ -712,7 +712,7 @@ Eskilstuna (Gredby-Lundby-Brottsta-Flacksta),4
 Eskilstuna (Göksten-Krusgården-Edvardslund-Glömsta),3
 Eskilstuna (Hållsta-Bälgviken),4
 Eskilstuna (Hällbybrunn-Folkesta),4
-Eskilstuna (Kvicksund-Tumbo),5
+Eskilstuna (Kvicksund-Tumbo),4
 Eskilstuna (Lagersberg-Råbergstorp),1
 Eskilstuna (Mesta-Borsökna),4
 Eskilstuna (Munktellstaden-Norr-Gamla staden),3
@@ -727,15 +727,15 @@ Eskilstuna (Snopptorp),3
 Eskilstuna (Solvik-Mälarbaden-Torshälla centrum),4
 Eskilstuna (Stenby),4
 Eskilstuna (Sundbyholm-Kjula-Barva),4
-Eskilstuna (Trumtorp-Odlaren-Hagnestahill),4
+Eskilstuna (Trumtorp-Odlaren-Hagnestahill),5
 Eskilstuna (Valhalla-Slagsta),4
-Eskilstuna (Västra Nyfors),2
+Eskilstuna (Västra Nyfors),3
 Eskilstuna (Årby-Vallby),1
 Eskilstuna (Ärla-Hällberga),4
-Eskilstuna (Östra Nyfors),3
+Eskilstuna (Östra Nyfors),2
 Strängnäs (Mariefred),4
 Strängnäs (Mariefred norra),4
-Strängnäs (Mariefreds södraomland),4
+Strängnäs (Mariefreds södraomland),5
 Strängnäs (Stallarholmen),4
 Strängnäs (Strängnäs centrala),4
 Strängnäs (Strängnäs mälaröar),4
@@ -755,10 +755,10 @@ Trosa (Västerljung),4
 Ödeshög (Ödeshög),3
 Ydre (Sund-Norra Vi-Svinhult-Västra Ryd),4
 Ydre (Torpa-Asby),4
-Ydre (Österbymo),3
+Ydre (Österbymo),2
 Kinda (Kinda norra),4
 Kinda (Kinda västra),4
-Kinda (Kinda östra),4
+Kinda (Kinda östra),3
 Kinda (Kisa västra),3
 Kinda (Kisa östra),1
 Kinda (Rimforsa),4
@@ -778,7 +778,7 @@ Finspång (Norrmalm-Östermalm),3
 Finspång (Nyhem),3
 Finspång (Storängen),1
 Finspång (Viggestorp-Falla),4
-Valdemarsvik (Gryt-Skärgården),4
+Valdemarsvik (Gryt-Skärgården),3
 Valdemarsvik (Ringarum-Gusum),3
 Valdemarsvik (Valdemarsviks tätort),3
 Linköping (Berga),2
@@ -792,7 +792,7 @@ Linköping (Hejdegården),4
 Linköping (Hjulsbro),5
 Linköping (Johannelund),3
 Linköping (Lambohov-Slaka),3
-Linköping (Lilla Torget-Sankt Lars),4
+Linköping (Lilla Torget-Sankt Lars),3
 Linköping (Linghem),5
 Linköping (Ljungsbro-Berg),4
 Linköping (Malmslätt),4
@@ -801,7 +801,7 @@ Linköping (Ryd),2
 Linköping (Skäggetorp-Tornby),1
 Linköping (Sturefors),5
 Linköping (Tallboda),4
-Linköping (Tannefors-Stångebro-Kallerstad),4
+Linköping (Tannefors-Stångebro-Kallerstad),3
 Linköping (Trädgårdsföreningen-Folkungavallen),4
 Linköping (Ullstämma-Haninge),4
 Linköping (Valkebo omland),4
@@ -826,7 +826,7 @@ Norrköping (Herstadberg-Händelö-Lagerlunda),4
 Norrköping (Kimstad-Norsholm-Skärkind),4
 Norrköping (Kolmården),4
 Norrköping (Kärrhagen-Kättsätter),4
-Norrköping (Lindö-Berga-Marby),4
+Norrköping (Lindö-Berga-Marby),5
 Norrköping (Navestad-Åselstad),1
 Norrköping (Nordvästra Marielund),3
 Norrköping (Nordvästra Nordantill),3
@@ -843,7 +843,7 @@ Norrköping (Skärblacka-Vånga-Landsbygd),4
 Norrköping (Smedby-Brånnestad),4
 Norrköping (Strömbacken-Berget-Södertull),3
 Norrköping (Svärtinge-Loddby-Landsbygd),5
-Norrköping (Sydvästra Hageby),1
+Norrköping (Sydvästra Hageby),2
 Norrköping (Sydöstra Marielund),1
 Norrköping (Sydöstra Nordantill),4
 Norrköping (Sydöstra Vilbergen-Björkalund),3
@@ -884,7 +884,7 @@ Mjölby (Skänninge tätort),3
 Mjölby (Slomarp-Egeby),2
 Mjölby (Svartå strand-Centrum-Albacken),3
 Mjölby (Sya-Spångsholm-Veta),4
-Mjölby (Sörby-Östra Lundby-Centrum),2
+Mjölby (Sörby-Östra Lundby-Centrum),3
 Mjölby (Tunet-Hagaparken),3
 Mjölby (Vasa),3
 Mjölby (Väderstad-Väderstad omnejd),4
@@ -892,13 +892,13 @@ Mjölby (Västra Harg-Östra Tollstad),4
 Mjölby (Västra Lundby),3
 Aneby (Aneby nordvästra),4
 Aneby (Aneby västra omland),4
-Aneby (Aneby östra),3
+Aneby (Aneby östra),2
 Aneby (Aneby östra omland),4
 Gnosjö (Gnosjö landsbygd),4
 Gnosjö (Gnosjö tätort),3
 Gnosjö (Hillerstorp tätort),3
 Mullsjö (Mullsjö tätort nordvästra),4
-Mullsjö (Mullsjö tätort nordöstra),4
+Mullsjö (Mullsjö tätort nordöstra),3
 Mullsjö (Mullsjö tätort södra),4
 Mullsjö (Sandhem-Bjurbäck-Utvängstorp),3
 Habo (Bränninge),4
@@ -913,7 +913,7 @@ Gislaved (Anderstorp östra),4
 Gislaved (Broaryd-Gislaved omland),4
 Gislaved (Burseryd),3
 Gislaved (Gislaved nordväst),1
-Gislaved (Gislaved norra),2
+Gislaved (Gislaved norra),3
 Gislaved (Gislaved södra),4
 Gislaved (Gislaved östra),3
 Gislaved (Hestra),4
@@ -924,8 +924,8 @@ Gislaved (Smålandsstenar-Reftele omland),4
 Vaggeryd (Bondstorp-Byarum omland),4
 Vaggeryd (Hok-Svenarum omland),4
 Vaggeryd (Skillingaryd västra),4
-Vaggeryd (Skillingaryd östra),2
-Vaggeryd (Vaggeryd norra),4
+Vaggeryd (Skillingaryd östra),3
+Vaggeryd (Vaggeryd norra),3
 Vaggeryd (Vaggeryd västra),4
 Vaggeryd (Vaggeryd östra),3
 Vaggeryd (Åker-Tofteryd omland),4
@@ -961,13 +961,13 @@ Jönköping (Taberg-Månsarp),4
 Jönköping (Tenhult),4
 Jönköping (Trånghalla-Kortebo),4
 Jönköping (Visingsö-Örserum-Ölmstad),4
-Jönköping (Österängen),1
+Jönköping (Österängen),2
 Jönköping (Öxnehaga),3
 Jönköping (Öxnehaga centrum),1
 Nässjö (Bodafors),2
 Nässjö (Forserum),4
 Nässjö (Handskeryd),3
-Nässjö (Ingsberg-Nyhem-Hultet),3
+Nässjö (Ingsberg-Nyhem-Hultet),4
 Nässjö (Malmbäck),3
 Nässjö (Norrboda-Västra Runneryd),2
 Nässjö (Nässjö centrum),3
@@ -982,7 +982,7 @@ Värnamo (Bredaryd),3
 Värnamo (Centrum-Apladalen),4
 Värnamo (Forsheda),3
 Värnamo (Gröndal-Norregård),4
-Värnamo (Mossle),2
+Värnamo (Mossle),3
 Värnamo (Nylund-Duvelund),4
 Värnamo (Rydaholm),2
 Värnamo (Trälleborg),3
@@ -1002,7 +1002,7 @@ Vetlanda (Holsby-Kvillsfors),3
 Vetlanda (Korsberga-Nye),4
 Vetlanda (Landsbro-Myresö),3
 Vetlanda (Vetlanda-Brunnsgård),3
-Vetlanda (Vetlanda-Bäckseda),4
+Vetlanda (Vetlanda-Bäckseda),5
 Vetlanda (Vetlanda-Centrum),3
 Vetlanda (Vetlanda-Karslund),4
 Vetlanda (Vetlanda-Mellangården),3
@@ -1030,7 +1030,7 @@ Lessebo (Lessebo centralort),2
 Lessebo (Lessebo omland),3
 Tingsryd (Konga),3
 Tingsryd (Linneryd-Älmeboda),3
-Tingsryd (Ryds glesbygd),4
+Tingsryd (Ryds glesbygd),3
 Tingsryd (Ryds tätort),2
 Tingsryd (Tingryds glesbygd-Väckelsång),4
 Tingsryd (Tingsryds tätort),3
@@ -1039,7 +1039,7 @@ Alvesta (Alvesta centrum),1
 Alvesta (Alvesta nordost),4
 Alvesta (Alvesta sydost),4
 Alvesta (Alvesta södra),1
-Alvesta (Alvesta västra),2
+Alvesta (Alvesta västra),1
 Alvesta (Blädinge),4
 Alvesta (Grimslöv),4
 Alvesta (Hjortsberga),4
@@ -1053,7 +1053,7 @@ Alvesta (Västra Torsås),4
 Älmhult (Älmhult västra),4
 Älmhult (Älmhult östra),1
 Älmhult (Älmhults omland),4
-Markaryd (Markaryds kommuns landsbygd),4
+Markaryd (Markaryds kommuns landsbygd),3
 Markaryd (Markaryd-Timsfors),3
 Markaryd (Traryd-Strömsnäsbruk),2
 Växjö (Araby-Dalbo-Nydala),1
@@ -1063,7 +1063,7 @@ Växjö (Gemla),4
 Växjö (Hov-Norr),5
 Växjö (Hovshaga),4
 Växjö (Högstorp-Hollstorp),4
-Växjö (Ingelstad),4
+Växjö (Ingelstad),3
 Växjö (Kungsmad-Pilbäcken),3
 Växjö (Lammhult),2
 Växjö (Rottne),3
@@ -1071,7 +1071,7 @@ Växjö (Sandsbro),4
 Växjö (Stadsnära landsbygd),4
 Växjö (Söder-Bäckaslöv),4
 Växjö (Teleborg),4
-Växjö (Teleborg centrum),2
+Växjö (Teleborg centrum),3
 Växjö (Universitetsområde),2
 Växjö (Västra mark),4
 Växjö (Växjö centrum-Väster-Spetsamossen),4
@@ -1111,7 +1111,7 @@ Mörbylånga (Mörbylånga omland),4
 Mörbylånga (Skogsby-Torslunda),4
 Hultsfred (Hultsfreds tätort norra),3
 Hultsfred (Hultsfreds tätort södra),1
-Hultsfred (Hultsfreds tätort västra),3
+Hultsfred (Hultsfreds tätort västra),2
 Hultsfred (Järnforsen-Målilla-Virserum landsbygd),3
 Hultsfred (Lönneberga-Silverdalen tätort-landsbygd),3
 Hultsfred (Målilla-Gårdveda-Rosenfors-Ämmenäs tätort),2
@@ -1127,7 +1127,7 @@ Mönsterås (Mönsterås södra samhälle-Oknö),4
 Mönsterås (Norra-västra Mönsterås samhälle),3
 Mönsterås (Timmernabben),4
 Mönsterås (Ålem omland),4
-Mönsterås (Ålem stationssamhälle),4
+Mönsterås (Ålem stationssamhälle),3
 Emmaboda (Algutsboda-Algutsboda omland),3
 Emmaboda (Emmaboda norra),3
 Emmaboda (Emmaboda södra),1
@@ -1136,7 +1136,7 @@ Emmaboda (Långasjö-Långasjö omland),4
 Emmaboda (Vissefjärda-Vissefjärda omland),3
 Kalmar (Berga),5
 Kalmar (Bergavik-Björkenäs),4
-Kalmar (Boholmarna-Dunö-Rinkabyholm),5
+Kalmar (Boholmarna-Dunö-Rinkabyholm),4
 Kalmar (Djurängen-Funkabo-Oxhagen),3
 Kalmar (Getingen-Tallhagen-Västra Norrgård),4
 Kalmar (Kalmar centrala-Stensö),4
@@ -1150,12 +1150,12 @@ Kalmar (Påryd),3
 Kalmar (Tegelviken-Västra Malmen),4
 Kalmar (Västra Smedby),2
 Kalmar (Östra Norrgård-Östra Malmen),4
-Kalmar (Östra Smedby),4
+Kalmar (Östra Smedby),3
 Nybro (Alsjöholm-Örsjö),3
 Nybro (Hälleberga-Kristvalla),3
 Nybro (Kråksmåla),3
 Nybro (Kungshall),1
-Nybro (Myrdalen-Idehult-Rismåla),3
+Nybro (Myrdalen-Idehult-Rismåla),2
 Nybro (Nybro centrum-Paradiset-Åkrahäll),3
 Nybro (Nybro södra-Madesjö),4
 Nybro (Nybros södra omland),4
@@ -1174,7 +1174,7 @@ Västervik (Gamleby),3
 Västervik (Gunnebo),2
 Västervik (Norra Tjust),3
 Västervik (Peru-Arabien),3
-Västervik (Piperskärr-Grantorpet),5
+Västervik (Piperskärr-Grantorpet),4
 Västervik (Reginelund-Stenhagen),4
 Västervik (Skogshaga),3
 Västervik (Södermalm-Karstorp),2
@@ -1187,14 +1187,14 @@ Västervik (Överum),3
 Vimmerby (Storebro),3
 Vimmerby (Södra Vi),3
 Vimmerby (Vimmerby norra),5
-Vimmerby (Vimmerby norra landsbygd),3
+Vimmerby (Vimmerby norra landsbygd),4
 Vimmerby (Vimmerby sydost),3
 Vimmerby (Vimmerby sydväst),3
 Vimmerby (Vimmerby västra landsbygd),4
 Vimmerby (Vimmerby östra),4
 Vimmerby (Vimmerby östra landsbygd),4
 Vimmerby (Vimmerby-Bullerbyn),2
-Borgholm (Borgholm norra kommundelen),4
+Borgholm (Borgholm norra kommundelen),3
 Borgholm (Borgholm södra kommundelen),4
 Borgholm (Borgholm-Köpingsvik),3
 Gotland (Bingeby),2
@@ -1205,7 +1205,7 @@ Gotland (Gråbo),3
 Gotland (Hemse),2
 Gotland (Innerstaden-Visby norra),4
 Gotland (Klintehamn),3
-Gotland (Roma),4
+Gotland (Roma),3
 Gotland (Slite),3
 Gotland (Visby omland),4
 Gotland (Visby södra),4
@@ -1233,7 +1233,7 @@ Karlskrona (Mariedal-Backabo),4
 Karlskrona (Nordvästra Trossö),4
 Karlskrona (Nordöstra Trossö),4
 Karlskrona (Nättraby tätort),5
-Karlskrona (Pantarholmen),4
+Karlskrona (Pantarholmen),3
 Karlskrona (Ramdala-Senoren),5
 Karlskrona (Rödeby tätort),4
 Karlskrona (Saltö-Björkholmen),4
@@ -1248,9 +1248,9 @@ Karlskrona (Västra Lyckeby),4
 Ronneby (Backaryd-Hallabro),3
 Ronneby (Bräkne-Hoby),4
 Ronneby (Ekenäs-Sörby-Påtorp),4
-Ronneby (Hasselstad-Eringsboda),4
+Ronneby (Hasselstad-Eringsboda),3
 Ronneby (Hulta),5
-Ronneby (Kallinge),3
+Ronneby (Kallinge),2
 Ronneby (Ronneby centrum),2
 Ronneby (Saxemara-Listerby-Johannishus),4
 Ronneby (Älgbacken-Hjorthöjden),1
@@ -1258,11 +1258,11 @@ Karlshamn (Asarum centrala),3
 Karlshamn (Duveryd),4
 Karlshamn (Froarp),4
 Karlshamn (Hällaryd-Åryd),4
-Karlshamn (Högadal),2
+Karlshamn (Högadal),3
 Karlshamn (Karlshamn centrala),3
 Karlshamn (Karlshamn västra),3
 Karlshamn (Karlshamn östra),4
-Karlshamn (Korpadalen-Strömma),5
+Karlshamn (Korpadalen-Strömma),4
 Karlshamn (Mörrum västra),3
 Karlshamn (Mörrum östra),4
 Karlshamn (Mörrum-Svängsta omland),4
@@ -1270,7 +1270,7 @@ Karlshamn (Prästslätten),4
 Karlshamn (Svängsta),2
 Sölvesborg (Falkvik),3
 Sölvesborg (Hällevik),4
-Sölvesborg (Kylinge-Gammalstorp-Ysane),4
+Sölvesborg (Kylinge-Gammalstorp-Ysane),3
 Sölvesborg (Listerlandet-Hanö),4
 Sölvesborg (Mjällby),3
 Sölvesborg (Norje-Pukavik),4
@@ -1281,7 +1281,7 @@ Svalöv (Röstånga),4
 Svalöv (Svalöv),3
 Svalöv (Teckomatorp),4
 Staffanstorp (Hjärup-Hjärup omnejd),5
-Staffanstorp (Jakriborg-Jakriborg omnejd),3
+Staffanstorp (Jakriborg-Jakriborg omnejd),4
 Staffanstorp (Nordvästra Staffanstorp-omnejd),3
 Staffanstorp (Nordöstra Staffanstorp-omnejd),4
 Staffanstorp (Norra Hjärup-omnejd-Bergströmshusen),5
@@ -1290,16 +1290,16 @@ Staffanstorp (Staffanstorp södra),4
 Staffanstorp (Staffanstorp västra),4
 Staffanstorp (Staffanstorp östra),4
 Staffanstorp (Staffanstorps omnejd),4
-Staffanstorp (Sydvästra Staffanstorp-omnejd),5
+Staffanstorp (Sydvästra Staffanstorp-omnejd),4
 Staffanstorp (Sydöstra Staffanstorp-omnejd),4
 Burlöv (Burlöv södra),3
-Burlöv (Norra Åkarp),5
+Burlöv (Norra Åkarp),4
 Burlöv (Svenshög-Elisetorp),2
-Burlöv (Södra Arlöv),2
+Burlöv (Södra Arlöv),3
 Burlöv (Södra Åkarp),4
 Burlöv (Tågarp),3
 Vellinge (Arrie-Västra Ingelstad-Östra Grevie),4
-Vellinge (Falsterbo),5
+Vellinge (Falsterbo),4
 Vellinge (Hököpinge),4
 Vellinge (Höllviken centrum-Collins väg-Klockarevägen),5
 Vellinge (Höllviken kanalvägarna-Gya-Kämpinge),5
@@ -1308,12 +1308,12 @@ Vellinge (Skanör),5
 Vellinge (Vellinge centrum-Tran-Vipgränd-Herrestorp),4
 Vellinge (Vellinge kommuns jordbrukslandskap),4
 Vellinge (Vellinge norra-Asklunda-Eskilstorp),5
-Vellinge (Vellinge södra-Södervång-Tofta),4
+Vellinge (Vellinge södra-Södervång-Tofta),5
 Vellinge (Vellinge västra-Norrevång-Torsgården),4
 Vellinge (Östra Höllviken-Kronodal-Granvik),5
-Vellinge (Östra Höllviken-Sandeplan-Rängs sand),5
+Vellinge (Östra Höllviken-Sandeplan-Rängs sand),4
 Östra Göinge (Broby väst),3
-Östra Göinge (Broby öst),1
+Östra Göinge (Broby öst),2
 Östra Göinge (Glimåkra),2
 Östra Göinge (Hanaskog),2
 Östra Göinge (Knislinge väst),4
@@ -1328,12 +1328,12 @@ Bjuv (Billesholm norra),4
 Bjuv (Billesholm södra),2
 Bjuv (Bjuv norra-Gunnarstorp),2
 Bjuv (Bjuv södra),3
-Bjuv (Bjuv västra),4
-Bjuv (Bjuv östra-Selleberga),1
+Bjuv (Bjuv västra),3
+Bjuv (Bjuv östra-Selleberga),2
 Bjuv (Ekeby västra),4
 Bjuv (Ekeby östra),3
 Kävlinge (Arvidsborg-Korsbacka),2
-Kävlinge (Dösjebro),4
+Kävlinge (Dösjebro),5
 Kävlinge (Furulund-Lackalänga),5
 Kävlinge (Hofterup-Ålstorp),5
 Kävlinge (Kävlinge centrum),3
@@ -1352,7 +1352,7 @@ Svedala (Bara),4
 Svedala (Bjärshög-Skabersjö-Kärrstorp),4
 Svedala (Hyby-Holmeja-Börringe),4
 Svedala (Klågerup),4
-Svedala (Marbäck-Naverlönn-Kyrkan),3
+Svedala (Marbäck-Naverlönn-Kyrkan),4
 Svedala (Svedala centrum-Svedala södra),4
 Svedala (Svedala norra-Bjäret-Sjödiken-Tittente),4
 Skurup (Bingsmarken-Abbekås-Mossby),4
@@ -1371,7 +1371,7 @@ Sjöbo (Hemmestorp-Everlöv-Ilstorp),4
 Sjöbo (Lövestad-Heinge),3
 Sjöbo (Sjöbo centrum-Sjöbo östra),3
 Sjöbo (Sommarbyarna Norra-Omma),3
-Sjöbo (Sommarbyarna Södra-Ryggorna-Spjälla),4
+Sjöbo (Sommarbyarna Södra-Ryggorna-Spjälla),3
 Sjöbo (Sövde-Knickarp),4
 Sjöbo (Vollsjö-Brandstad),3
 Sjöbo (Äsperöd-Vanstad-Röddinge),4
@@ -1389,17 +1389,17 @@ Höör (Tjörnarps stationssamhälle),3
 Tomelilla (Tomelilla norra omland),4
 Tomelilla (Tomelilla omnejd),4
 Tomelilla (Tomelilla södra),3
-Tomelilla (Tomelilla södra omland),4
+Tomelilla (Tomelilla södra omland),3
 Tomelilla (Tomelilla västra),1
 Tomelilla (Tomelilla östra),3
 Bromölla (Bromölla omland),4
 Bromölla (Bromölla öster-Dalafuret),3
 Bromölla (Bromölla östra centrum-Åbylyckorna),3
-Bromölla (Gualöv-Bromölla skogen-västra centrum Bromölla),3
+Bromölla (Gualöv-Bromölla skogen-västra centrum Bromölla),2
 Bromölla (Ivetofta-Rökebacken),4
 Bromölla (Nymölla-Edenryd-Valje),4
 Bromölla (Näsum-Västanå),3
-Osby (Killeberg-Loshult-Hökön),3
+Osby (Killeberg-Loshult-Hökön),4
 Osby (Lönsboda),3
 Osby (Lönsboda omland),4
 Osby (Osby norra),2
@@ -1412,17 +1412,17 @@ Perstorp (Perstorp sydvästra tätorten),2
 Perstorp (Perstorp sydöstra tätorten),3
 Klippan (Krika omland),4
 Klippan (Ljungbyhed),3
-Klippan (Ljungbyhed omland),4
+Klippan (Ljungbyhed omland),3
 Klippan (Solslätt-Pappersbruket),3
 Klippan (Stidsvig-Östra Ljungby),3
 Klippan (Storäng-Söndraby),4
-Klippan (Tegelbruket-Klippan väster),2
+Klippan (Tegelbruket-Klippan väster),3
 Åstorp (Björnekulla),3
 Åstorp (Björnås-Tingdal),4
 Åstorp (Centrum norr-Grytevad),3
 Åstorp (Dala-Bjärshög),3
 Åstorp (Haganäs),1
-Åstorp (Hyllinge),4
+Åstorp (Hyllinge),3
 Åstorp (Kvidinge),3
 Åstorp (Kvidinge omland),4
 Åstorp (Nyvång-Västra Broby),3
@@ -1447,7 +1447,7 @@ Malmö (RegSO-Bellevue-Nya Bellevue),5
 Malmö (RegSO-Bunkeflostrand syd),4
 Malmö (RegSO-Bunkeflostrand väst),4
 Malmö (RegSO-Bunkeflostrand öst),3
-Malmö (RegSO-Dammfri),3
+Malmö (RegSO-Dammfri),4
 Malmö (RegSO-Davidshall-Lugnet),4
 Malmö (RegSO-Djupadal-Rosenvång),5
 Malmö (RegSO-Elinelund-Djupadal),4
@@ -1489,16 +1489,16 @@ Malmö (RegSO-Möllevången syd),1
 Malmö (RegSO-Möllevången väst),3
 Malmö (RegSO-Möllevången öst),3
 Malmö (RegSO-Nydala norr),1
-Malmö (RegSO-Oxie norr),4
+Malmö (RegSO-Oxie norr),3
 Malmö (RegSO-Oxie syd),3
 Malmö (RegSO-Persborg-Törnrosen),1
 Malmö (RegSO-Ribersborg),4
 Malmö (RegSO-Riseberga),4
-Malmö (RegSO-Rådmansvången),3
+Malmö (RegSO-Rådmansvången),4
 Malmö (RegSO-Rönneholm),4
 Malmö (RegSO-Rörsjöstaden),4
 Malmö (RegSO-Sege väst),2
-Malmö (RegSO-Sege öst),2
+Malmö (RegSO-Sege öst),1
 Malmö (RegSO-Sibbarp),4
 Malmö (RegSO-Slussen),4
 Malmö (RegSO-Sofielund norr),2
@@ -1508,7 +1508,7 @@ Malmö (RegSO-Svågertorp-Lindeborg),3
 Malmö (RegSO-Söderkulla),3
 Malmö (RegSO-Södervärn-Allmänna sjukhuset-Flensburg),2
 Malmö (RegSO-Södra Sofielund),1
-Malmö (RegSO-Tygelsjö by omland),4
+Malmö (RegSO-Tygelsjö by omland),5
 Malmö (RegSO-Videdal),4
 Malmö (RegSO-Vintrie-Skumparp),5
 Malmö (RegSO-Virentofta-Östra Skrävlinge-Toftanäs),4
@@ -1532,7 +1532,7 @@ Lund (Arenan-Klostergården),3
 Lund (Brunnshög-Östra Torn),4
 Lund (Dalby centrum),4
 Lund (Dalby-Veberöd omnejd),4
-Lund (Delphinen-Kämnärsvägen),2
+Lund (Delphinen-Kämnärsvägen),1
 Lund (Genarp centrum),4
 Lund (Genarps omnejd),4
 Lund (Kobjer-Öresundsvägen),4
@@ -1550,16 +1550,16 @@ Lund (Nöbbelöv-Gunnesbo),4
 Lund (Nöbbelöv-Oscarshem),4
 Lund (Nöbbelövs torg),3
 Lund (Parentesen-Ulrikedal),2
-Lund (Råbyholm),3
-Lund (Sankt Hans),2
+Lund (Råbyholm),4
+Lund (Sankt Hans),3
 Lund (Skarpskyttevägen-Sankt Hans Backar),4
 Lund (Sparta-Ideon),2
-Lund (Stora Råby-Norränga),3
+Lund (Stora Råby-Norränga),4
 Lund (Svenshögskolan-Utsättaregränden),4
 Lund (Södra Sanby omnejd),4
 Lund (Södra Sandby centrum),4
 Lund (Tuna-Galjevången),4
-Lund (Vallkärra-Stångby),4
+Lund (Vallkärra-Stångby),5
 Lund (Veberöd centrum),4
 Lund (Vildanden),2
 Lund (Värpinge-Klosters Fälad),4
@@ -1573,7 +1573,7 @@ Landskrona (Hyllingelyckan-Örja-Örja industriområde),2
 Landskrona (Häljarp),4
 Landskrona (Koppargården-Kopparhögarna),1
 Landskrona (Landskrona centrum-Öster),1
-Landskrona (Nyhamn-Södra Industriområdet),3
+Landskrona (Nyhamn-Södra Industriområdet),4
 Landskrona (Pilåkern-Silvergården-Karlslund-Säbyholm),2
 Landskrona (Pilängen),1
 Landskrona (Sandvången),3
@@ -1582,15 +1582,15 @@ Landskrona (Saxtorp-Kvärlöv-Annelöv),4
 Landskrona (Ven),4
 Landskrona (Västra Fäladen),4
 Helsingborg (Adolfsberg-Västergård),2
-Helsingborg (Allerum-Domsten),4
+Helsingborg (Allerum-Domsten),5
 Helsingborg (Berga-Kullavägen södra),3
 Helsingborg (Dalhem-Väla södra),2
 Helsingborg (Drottninghög),1
-Helsingborg (Eneborg-Högaborg),1
+Helsingborg (Eneborg-Högaborg),2
 Helsingborg (Eskilsminne-Gustavslund norra),4
 Helsingborg (Fredriksdal-Filborna),2
 Helsingborg (Helsingborg centrum-Slottshöjden västra),4
-Helsingborg (Husensjö-Sofieberg),5
+Helsingborg (Husensjö-Sofieberg),4
 Helsingborg (Högasten-Miatorp östra),2
 Helsingborg (Kattarp-Hasslarp-Utvälinge),3
 Helsingborg (Laröd-Hittarp),4
@@ -1618,18 +1618,18 @@ Höganäs (Höganäs nordvästra-Strandbaden-Nyhamnsläge),4
 Höganäs (Höganäs södra),3
 Höganäs (Höganäs östra-Väsby-Ingelsträde),3
 Höganäs (Höganäs övre),3
-Höganäs (Jonstorp-Rekekroken-Svanshall),5
+Höganäs (Jonstorp-Rekekroken-Svanshall),4
 Höganäs (Lerberget),5
 Höganäs (Viken),5
 Eslöv (Backarna-Väster-Elvkullen),4
 Eslöv (Berga-Öster),2
 Eslöv (Billinge-Stockamöllan-Stehag),4
 Eslöv (Eslöv centrum),3
-Eslöv (Eslöv norr),2
+Eslöv (Eslöv norr),3
 Eslöv (Flyinge-Örtofta-Hurva),4
 Eslöv (Karlsro-Solkullen),4
 Eslöv (Löberöd-Harlösa),4
-Eslöv (Marieholm),4
+Eslöv (Marieholm),3
 Eslöv (Rönneberga-Norrevång),2
 Eslöv (Sallerup-Hällan-Bäckdala),3
 Ystad (Bellevue),4
@@ -1641,14 +1641,14 @@ Ystad (Köpingebro-Nybrostrand),4
 Ystad (Sövestad-Stora Köpinge),4
 Ystad (Vallösa-Skårby-Svarte),4
 Ystad (Ystad norra-Hedeskoga-Stora Herrestad),4
-Ystad (Ystad östra),3
+Ystad (Ystad östra),4
 Trelleborg (Alstad-Gislöv-Södra Åby-Södra Åby omland),4
 Trelleborg (Anderslöv),4
 Trelleborg (Anderslöv omland-Klagstorp-Klagstorp omland),4
 Trelleborg (Dalajär-Böste),5
 Trelleborg (Granlunda-Knäckekärr-Högalid),4
 Trelleborg (Kyrkoköpinge-Malörten-Akka-Pilevall),3
-Trelleborg (Skegrie),4
+Trelleborg (Skegrie),5
 Trelleborg (Skegrie-Västra Tommarp omland),4
 Trelleborg (Smygehamn-Beddingestrand),4
 Trelleborg (Trelleborg innerstaden),3
@@ -1665,9 +1665,9 @@ Kristianstad (Hammar-Hammarslund),4
 Kristianstad (Helgedal-Norra Åsum-Gärds Köpinge),4
 Kristianstad (Kristianstad centrum),2
 Kristianstad (Kulltorp-Sommarlust-Egna Hem),4
-Kristianstad (Linderöd-Träne-Äsphult),3
+Kristianstad (Linderöd-Träne-Äsphult),4
 Kristianstad (Nosaby-Möllebacken),4
-Kristianstad (Näsby),3
+Kristianstad (Näsby),2
 Kristianstad (Söder),3
 Kristianstad (Tollarp),3
 Kristianstad (Viby-Rinkaby),4
@@ -1680,7 +1680,7 @@ Kristianstad (Önnestad-Färlöv-Skepparslöv),4
 Kristianstad (Östermalm),3
 Kristianstad (Österäng),1
 Kristianstad (Östra Kasern-Fäladen),2
-Simrishamn (Borrby),3
+Simrishamn (Borrby),2
 Simrishamn (Gärsnäs),3
 Simrishamn (Hammenhög),3
 Simrishamn (Kivik),4
@@ -1699,7 +1699,7 @@ Simrishamn (Vik),4
 Ängelholm (Kronotorp-Gamla Kungsgården-Nya Kungsgården),3
 Ängelholm (Kulltorp-Södra Utmarken-Epadalen),4
 Ängelholm (Munka Ljungby-Tåstarp-Toarp),4
-Ängelholm (Skälderviken-Pomona-Ärrarps ängar),5
+Ängelholm (Skälderviken-Pomona-Ärrarps ängar),4
 Ängelholm (Stationsområdet-Sockerbruket),4
 Ängelholm (Strövelstorp),4
 Ängelholm (Vejbystrand-Magnarp-Skepparkroken),5
@@ -1723,7 +1723,7 @@ Hässleholm (Hässleholm-Djupadal-Galgbacken),2
 Hässleholm (Hässleholm-Fredentorp),3
 Hässleholm (Hässleholm-Gulastorp-Röinge-Stoby),4
 Hässleholm (Hässleholm-Kristinehem),4
-Hässleholm (Hässleholm-Kärråkra-Gäddastorp),2
+Hässleholm (Hässleholm-Kärråkra-Gäddastorp),3
 Hässleholm (Hässleholm-Ljungdala),4
 Hässleholm (Hässleholm-Läreda),1
 Hässleholm (Hässleholm-Sjörröd-Finja),4
@@ -1740,11 +1740,11 @@ Hässleholm (Tyringe sydöst),4
 Hässleholm (Vinslöv centrala),4
 Hässleholm (Vinslöv norra),3
 Hässleholm (Vinslöv södra),4
-Hässleholm (Vittsjö),2
+Hässleholm (Vittsjö),3
 Hylte (Drängsered-Kinnared-Brännögård),4
 Hylte (Hyltebruk norra),2
 Hylte (Hyltebruk södra),2
-Hylte (Långaryd-Landeryd),4
+Hylte (Långaryd-Landeryd),3
 Hylte (Rydöbruk-Femsjö),3
 Hylte (Torup),3
 Hylte (Unnaryd-Jälluntofta),3
@@ -1769,8 +1769,8 @@ Halmstad (Harplinge-Getinge glesbygd),4
 Halmstad (Kvibille-Holm-Vapnö),4
 Halmstad (Linehed södra-Östra Stranden),1
 Halmstad (Trönninge-Gullbranna-Laxvik),4
-Halmstad (Nyhem södra),2
-Halmstad (Nyhem norra-Nyatorp östra),2
+Halmstad (Nyhem södra),3
+Halmstad (Nyhem norra-Nyatorp östra),3
 Halmstad (Oskarström tätort),3
 Halmstad (Åled-Sennan-Oskarström glesbygd),4
 Halmstad (Bäckagård norra-Bäckagård södra),5
@@ -1779,7 +1779,7 @@ Halmstad (Vallås västra),1
 Laholm (Genevad-Veinge),3
 Laholm (Hasslöv-Ränneslöv-Våxtorp),3
 Laholm (Hishult-Knäreds omland),3
-Laholm (Knäred),3
+Laholm (Knäred),2
 Laholm (Laholm västra),4
 Laholm (Laholm östra),3
 Laholm (Laholms omland-Ysby),4
@@ -1813,7 +1813,7 @@ Varberg (Träslöv),5
 Varberg (Trönninge-Bläshammar),4
 Varberg (Tvååker),4
 Varberg (Tvååkers omland),4
-Varberg (Tångaberg-Årnäs),5
+Varberg (Tångaberg-Årnäs),4
 Varberg (Varberg centrum),4
 Varberg (Varberg söder),4
 Varberg (Veddige-Derome),4
@@ -1859,8 +1859,8 @@ Partille (Puketorp),5
 Partille (Södra Sävedalen),4
 Partille (Vallhamra),3
 Partille (Västra Öjersjö),5
-Partille (Östra Öjersjö),4
-Öckerö (Björkö-Kalvsund),5
+Partille (Östra Öjersjö),5
+Öckerö (Björkö-Kalvsund),4
 Öckerö (Hälsö-Nordöarna),4
 Öckerö (Hönö västra),4
 Öckerö (Hönö östra-Grötö-Fotö),4
@@ -1913,8 +1913,8 @@ Ale (Skepplanda),4
 Ale (Starrkärr-Kilanda-Ryd),4
 Ale (Surte),4
 Ale (Södra Nödinge),4
-Ale (Södra Älvängen),5
-Ale (Östra Nödinge),4
+Ale (Södra Älvängen),4
+Ale (Östra Nödinge),5
 Lerum (Aggetorp-Björboholm),4
 Lerum (Aspenäs),5
 Lerum (Floda),4
@@ -1928,7 +1928,7 @@ Lerum (Sjövik),3
 Lerum (Stannum-Olstorp-Södra Gråbo),4
 Lerum (Stenkullen),4
 Lerum (Tollered),4
-Lerum (Uddared-Drängsered),4
+Lerum (Uddared-Drängsered),5
 Vårgårda (Vårgårda landsbygd nordväst-Fly-Södra Härene),4
 Vårgårda (Vårgårda landsbygd sydost-Skogsbygden-Asklanda),4
 Vårgårda (Vårgårda landsbygd väst-Hol-Horla),4
@@ -1939,7 +1939,7 @@ Vårgårda (Vårgårda tätort väst-Centrum-Hoberg),2
 Bollebygd (Bollebygd tätort),4
 Bollebygd (Bollebygd västra),4
 Bollebygd (Bollebygd östra),4
-Bollebygd (Olsfors-Hultafors),4
+Bollebygd (Olsfors-Hultafors),3
 Bollebygd (Töllsjö),4
 Grästorp (Grästorps omnejd),4
 Grästorp (Grästorps samhälle),4
@@ -1962,13 +1962,13 @@ Tranemo (Tranemo södra),2
 Tranemo (Tranemo södra omland),3
 Tranemo (Tranemo västra),4
 Tranemo (Tranemo västra omland),3
-Tranemo (Tranemo östra),3
-Tranemo (Tranemo östra omland),3
+Tranemo (Tranemo östra),4
+Tranemo (Tranemo östra omland),4
 Bengtsfors (Bengtsfors centrum),2
 Bengtsfors (Bengtsfors norra kommundel),3
 Bengtsfors (Bengtsfors södra kommundel),3
 Bengtsfors (Bengtsfors-Sidan södra),4
-Bengtsfors (Billingsfors),2
+Bengtsfors (Billingsfors),1
 Bengtsfors (Dals Långed),3
 Mellerud (Dalboslätten omland),4
 Mellerud (Kroppefjäll omland),3
@@ -1988,13 +1988,13 @@ Mark (Fritsla),3
 Mark (Fritsla omland),4
 Mark (Haby-Skene centrum),2
 Mark (Horred),4
-Mark (Horred omland),4
+Mark (Horred omland),3
 Mark (Hyssna),4
 Mark (Kammarberg-Kinnahult),4
-Mark (Kinna centrum-Näs),4
+Mark (Kinna centrum-Näs),3
 Mark (Sandvallsäng-Backa-Kinnasten),4
 Mark (Snickare-Muraren-Aspäng),2
-Mark (Svansjö),4
+Mark (Svansjö),3
 Mark (Sätila),4
 Mark (Sätila omland),4
 Mark (Västra mark),4
@@ -2011,14 +2011,14 @@ Herrljunga (Herrljunga tätort norra),3
 Herrljunga (Herrljunga tätort södra),4
 Herrljunga (Ljung-Annelund),3
 Vara (Helås-Arentorp-Tumleberg),4
-Vara (Jung-Tråvad),3
+Vara (Jung-Tråvad),4
 Vara (Kvänum),2
 Vara (Larv-Längjum-Edsvära),4
 Vara (Stora Levene-Håkantorp),4
-Vara (Vara västra),4
-Vara (Vara östra-Emtunga),2
+Vara (Vara västra),3
+Vara (Vara östra-Emtunga),3
 Vara (Vedum),3
-Vara (Vedumsbygden),4
+Vara (Vedumsbygden),3
 Vara (Öttum-Norra Vånga),4
 Götene (Götene kommun nordvästra),4
 Götene (Götene kommun sydöstra),4
@@ -2027,10 +2027,10 @@ Götene (Götene tätort nordvästra),4
 Götene (Götene tätort nordöstra),2
 Götene (Källby),4
 Götene (Lundsbrunn),4
-Tibro (Tibro centrala),4
+Tibro (Tibro centrala),3
 Tibro (Tibro landsbygd),4
 Tibro (Tibro nordvästra),3
-Tibro (Tibro nordöstra),2
+Tibro (Tibro nordöstra),1
 Tibro (Tibro sydvästra),4
 Tibro (Tibro sydöstra),3
 Töreboda (Töreboda centrala omland),4
@@ -2050,7 +2050,7 @@ Göteborg (Bagaregården),4
 Göteborg (Bergsjön centrala),3
 Göteborg (Bergsjön nordvästra),1
 Göteborg (Bergsjön Rymdtorget),1
-Göteborg (Bergsjön sydöstra),2
+Göteborg (Bergsjön sydöstra),1
 Göteborg (Bergsjön södra),1
 Göteborg (Bergum),4
 Göteborg (Billdal Brottkärr),5
@@ -2079,16 +2079,16 @@ Göteborg (Guldheden norra),4
 Göteborg (Guldheden södra),3
 Göteborg (Guldringen),4
 Göteborg (Gårdsten nordöstra),2
-Göteborg (Gårdsten sydvästra),1
+Göteborg (Gårdsten sydvästra),2
 Göteborg (Haga),4
 Göteborg (Hagen),5
 Göteborg (Hammarkullen centrala),1
-Göteborg (Hammarkullen yttre),2
+Göteborg (Hammarkullen yttre),1
 Göteborg (Heden västra),4
 Göteborg (Heden östra),3
 Göteborg (Hjuvik),5
 Göteborg (Hjällbo västra),1
-Göteborg (Hjällbo östra),1
+Göteborg (Hjällbo östra),2
 Göteborg (Hovås),5
 Göteborg (Högsbo-Flatås östra),3
 Göteborg (Högsbohöjd norra),4
@@ -2096,7 +2096,7 @@ Göteborg (Högsbohöjd södra),3
 Göteborg (Högsbotorp västra),3
 Göteborg (Högsbotorp östra),4
 Göteborg (Inom Vallgraven),4
-Göteborg (Johanneberg Chalmers),3
+Göteborg (Johanneberg Chalmers),4
 Göteborg (Johanneberg västra),4
 Göteborg (Järnbrott),4
 Göteborg (Svartedalen),2
@@ -2111,8 +2111,8 @@ Göteborg (Kortedala sydöstra),1
 Göteborg (Krokslätt Mossen),2
 Göteborg (Krokslätt norra),4
 Göteborg (Krokslätt södra),4
-Göteborg (Kungsladugård Kungsladugårdsgatan),3
-Göteborg (Kungsladugård Älvsborgsgatan),3
+Göteborg (Kungsladugård Kungsladugårdsgatan),4
+Göteborg (Kungsladugård Älvsborgsgatan),4
 Göteborg (Kvillebäcken Backaplan),4
 Göteborg (Kvillebäcken Björlandavägen),4
 Göteborg (Kvillebäcken Wieselgrensplatsen),3
@@ -2165,7 +2165,7 @@ Göteborg (Skattegården),3
 Göteborg (Skogome),4
 Göteborg (Skår),5
 Göteborg (Skälltorp Bäckebol),4
-Göteborg (Skälltorp Selma Lagerlöfs torg),2
+Göteborg (Skälltorp Selma Lagerlöfs torg),1
 Göteborg (Skälltorp Åketorp),5
 Göteborg (Slättadamm),4
 Göteborg (Stampen västra),4
@@ -2183,15 +2183,15 @@ Göteborg (Tuve västra),4
 Göteborg (Tuve östra),4
 Göteborg (Utby),4
 Göteborg (Vasastaden västra),4
-Göteborg (Ängås),2
-Göteborg (Önnered),4
+Göteborg (Ängås),3
+Göteborg (Önnered),5
 Göteborg (Överås),5
 Mölndal (Balltorp),4
 Mölndal (Bifrost),4
-Mölndal (Bifrost-Pedagogen),4
+Mölndal (Bifrost-Pedagogen),5
 Mölndal (Bosgården),4
 Mölndal (Eklanda),5
-Mölndal (Forsåker),5
+Mölndal (Forsåker),4
 Mölndal (Hällesåker),4
 Mölndal (Jungfruplatsen-Solängen),4
 Mölndal (Krokslätt),4
@@ -2227,8 +2227,8 @@ Lysekil (Skaftö),4
 Uddevalla (Ammenäs-Forshälla-Backamo),4
 Uddevalla (Bokenäset-Berg-Sund),4
 Uddevalla (Hedegärde-Äsperöd-Gräskärr),3
-Uddevalla (Helenedal-Södra Dalaberg-Bleket),4
-Uddevalla (Herrestad-Sunningen-Utby),5
+Uddevalla (Helenedal-Södra Dalaberg-Bleket),3
+Uddevalla (Herrestad-Sunningen-Utby),4
 Uddevalla (Hogstorp-Lanesund-Kissleberg),4
 Uddevalla (Hälle-Lyckorna),4
 Uddevalla (Kapelle-Walkesborg-Gustafsberg),4
@@ -2257,7 +2257,7 @@ Vänersborg (Mariero-Kassaretorpet),3
 Vänersborg (Nabbensberg-Nordvästra Mariedal),4
 Vänersborg (Nordkroken-Vänersnäs),4
 Vänersborg (Onsjö),4
-Vänersborg (Vargön centrum),4
+Vänersborg (Vargön centrum),3
 Vänersborg (Vänersborg centrum),3
 Vänersborg (Väneryr-Hol),4
 Trollhättan (Björndalen-Vårvik),5
@@ -2272,7 +2272,7 @@ Trollhättan (Sjuntorpsområdet-Gärdhem-Edsvid),4
 Trollhättan (Skogshöjden-Överby),4
 Trollhättan (Strömslund-Torsred-Källstorp),5
 Trollhättan (Sylte-Hörlycke-Eriksro),2
-Trollhättan (Södra Lextorp-Alingsåker),3
+Trollhättan (Södra Lextorp-Alingsåker),2
 Trollhättan (Södra Skoftebyn),5
 Trollhättan (Trollhättan centrum-Tingvalla-Västergärdet),4
 Trollhättan (Trollhättan östra landsbygd),4
@@ -2284,21 +2284,21 @@ Alingsås (Alingsås östra omland),4
 Alingsås (Bolltorp),4
 Alingsås (Brogården-Östlyckan),2
 Alingsås (Brunnsparken-Landskyrkan),4
-Alingsås (Gråbo-Ängabo),5
+Alingsås (Gråbo-Ängabo),4
 Alingsås (Hemsjö-Ödenäs),4
 Alingsås (Ingared),4
 Alingsås (Kullingsberg-Rothoffskär),4
 Alingsås (Kvarnbacken-Enehagen),5
 Alingsås (Lövekulle-Stadsskogen),4
 Alingsås (Nolby-Sävelund),4
-Alingsås (Nolhaga-Hagagården),2
+Alingsås (Nolhaga-Hagagården),3
 Alingsås (Noltorp),2
 Alingsås (Nygård-Stockslycke),3
 Alingsås (Prästeryd-Gerdsken),5
 Alingsås (Saxebäcken-Tegelbruket),4
-Alingsås (Sollebrunn),4
+Alingsås (Sollebrunn),3
 Alingsås (Sörhaga-Gustav Adolf),4
-Alingsås (Västra bodarna-Hästeryd),5
+Alingsås (Västra bodarna-Hästeryd),4
 Borås (Bergdalen-Norrmalm väst),4
 Borås (Borgstena Tämta),4
 Borås (Borås centrum sydöst),4
@@ -2308,7 +2308,7 @@ Borås (Byttorp-Parkstaden),4
 Borås (Dalsjöfors),4
 Borås (Dammsvedjan),4
 Borås (Ekås-Hestra),4
-Borås (Fristad centrum),4
+Borås (Fristad centrum),3
 Borås (Fristad omland),4
 Borås (Fristad-Asklanda),4
 Borås (Frufällan-Sparsör väst),4
@@ -2324,8 +2324,8 @@ Borås (Kristineberg öst-Hedvigsborg),3
 Borås (Lugnet),4
 Borås (Målsryd-Aplared-Dannike),4
 Borås (Norrby),1
-Borås (Norrmalm norr),3
-Borås (Regementet),3
+Borås (Norrmalm norr),4
+Borås (Regementet),4
 Borås (Ryda-Alideberg-Knalleland),3
 Borås (Rydboholm-Viskafors centrum),4
 Borås (Rångedala),4
@@ -2336,7 +2336,7 @@ Borås (Sjöbo norra),2
 Borås (Sjöbo-Johannelund),1
 Borås (Sjömarken-Lundaskog),4
 Borås (Sparsör öst),5
-Borås (Stadskärnan-Druvefors),3
+Borås (Stadskärnan-Druvefors),4
 Borås (Svaneholm),3
 Borås (Svensgärde),4
 Borås (Södra Öresjö),3
@@ -2379,7 +2379,7 @@ Mariestad (Ullervad-Tidavad glesbygd),4
 Mariestad (Vasavägen-Prebende),3
 Lidköping (Gamla Staden),3
 Lidköping (Hovby-Norra Härene-Saleby),4
-Lidköping (Järpås-Lovene),4
+Lidköping (Järpås-Lovene),3
 Lidköping (Kålland-Kållandsö),4
 Lidköping (Majåker-Ljunghed-Lidåker),4
 Lidköping (Margretelund),3
@@ -2404,7 +2404,7 @@ Skövde (Billingsluttningen-Kullen),4
 Skövde (Dälderna-Havstena),3
 Skövde (Ekängen-Aspö-Ulveket),4
 Skövde (Frösve Säter-Tidan-Väring),4
-Skövde (Hentorp-Våmb),5
+Skövde (Hentorp-Våmb),4
 Skövde (Högskolan-Trängen),3
 Skövde (Igelstorp-Värsås),4
 Skövde (Källegården),4
@@ -2451,7 +2451,7 @@ Torsby (Sysslebäck-Höljes),3
 Torsby (Torsby centrala),3
 Torsby (Torsby norra),3
 Torsby (Torsby omland),4
-Torsby (Torsby södra),4
+Torsby (Torsby södra),3
 Torsby (Vitsand),4
 Torsby (Östmark-Lekvattnet),3
 Storfors (Storfors centralort),3
@@ -2461,7 +2461,7 @@ Hammarö (Hammarö sydöstra),5
 Hammarö (Nolgård-Lövnäs),5
 Hammarö (Skoghall-Gunnarskär),4
 Hammarö (Skoghall-Mörmon),3
-Hammarö (Skoghall-Vidöåsen),2
+Hammarö (Skoghall-Vidöåsen),3
 Hammarö (Tynäs-Bärstad-Hallersrud),5
 Munkfors (Munkerud-Munkebol),3
 Munkfors (Munkfors centrala områden),3
@@ -2474,7 +2474,7 @@ Grums (Gamla Slottsbron),4
 Grums (Karlberg),3
 Grums (Orrby-Grönberg),3
 Grums (Segmon-Liljedal),3
-Grums (Slottsbron),3
+Grums (Slottsbron),2
 Årjäng (Trankil-Blomskog-Silbodal-Sillerud),4
 Årjäng (Töcksfors),3
 Årjäng (Västra Fågelvik-Töcksmark-Östervallskog-Karlanda),4
@@ -2503,7 +2503,7 @@ Karlstad (Kvarnberget-Sommarro-Marieberg),4
 Karlstad (Molkom-Blombacka),3
 Karlstad (Norrstrand),4
 Karlstad (Orrholmen),3
-Karlstad (Romstad-Strand),5
+Karlstad (Romstad-Strand),4
 Karlstad (Rud nordöstra),2
 Karlstad (Råtorp),5
 Karlstad (Skåre omland),4
@@ -2523,7 +2523,7 @@ Kristinehamn (Broängen-Presterud-Strandudden),3
 Kristinehamn (Fältet-Djurgården),4
 Kristinehamn (Kristinehamn norra omland),4
 Kristinehamn (Kristinehamn södra omland),3
-Kristinehamn (Kurlanda),3
+Kristinehamn (Kurlanda),2
 Kristinehamn (Marielund-Jakobsberg-Östermalm),4
 Kristinehamn (Smedby-Liljebäck-Södermalm),2
 Kristinehamn (Strand-Marieberg-Villastaden),3
@@ -2552,13 +2552,13 @@ Arvika (Solvik-Taserud),4
 Arvika (Speke-Rackstad-Mötterud-Humlekil),4
 Arvika (Stavnäs-Högerud),4
 Arvika (Älgå-Ny),4
-Säffle (Annelund-Billerud-Lugnadal),4
+Säffle (Annelund-Billerud-Lugnadal),3
 Säffle (Höglunda-Hermes-Norelund),2
 Säffle (Långserud-Gillberga-Nysäter),3
 Säffle (Olof Trätälja-Villan-Flå),1
 Säffle (Rolfserud-Tingvalla-Treabackarna),3
 Säffle (Rudsbyn-Svanskog),3
-Säffle (Sundstorp-Sund-Tuvan),4
+Säffle (Sundstorp-Sund-Tuvan),3
 Säffle (Värmlandsnäs),4
 Säffle (Västra Kila-Tveta),4
 Säffle (Östra Kila-Värmlandsbro-Södra Ny),4
@@ -2568,8 +2568,8 @@ Lekeberg (Lekeberg norra landsbygd),4
 Lekeberg (Lekeberg södra landsbygd),4
 Lekeberg (Lekeberg-Lanna),5
 Lekeberg (Mullhyttan-Mullhyttan omnejd),3
-Laxå (Finnerödja-Tived),4
-Laxå (Hasselfors-Röfors),4
+Laxå (Finnerödja-Tived),3
+Laxå (Hasselfors-Röfors),3
 Laxå (Laxå norra),3
 Laxå (Laxå södra),3
 Hallsberg (Hallsberg västra-Stortorget-Vibytorp),3
@@ -2580,7 +2580,7 @@ Hallsberg (Pålsboda-Vibbanbotorp-Resta),3
 Hallsberg (Sköllersta-Kalsta-Sörby),4
 Hallsberg (Stocksätter-Kårstahult-Stora Älberg),4
 Hallsberg (Svennevad-Kånsta-Hjortkvarn),4
-Hallsberg (Vretstorp-Viby-omland),4
+Hallsberg (Vretstorp-Viby-omland),3
 Hallsberg (Östansjö-Tisaren-Ålsta),4
 Degerfors (Degerfors centrum-Bruket),2
 Degerfors (Strömtorp-Degernäs),4
@@ -2589,7 +2589,7 @@ Degerfors (Åtorp-Högberg-Gräsmossen),4
 Hällefors (Hällefors centrum),1
 Hällefors (Hällefors omland),4
 Hällefors (Hällefors-Gillershöjden),3
-Hällefors (Hällefors-Kronhagen),3
+Hällefors (Hällefors-Kronhagen),2
 Ljusnarsberg (Kopparberg City),2
 Ljusnarsberg (Kopparberg Yttre-Bångbro),3
 Ljusnarsberg (Ljusnarsberg Yttre),3
@@ -2633,9 +2633,9 @@ Kumla (Haga-Djupadal-Åsen),4
 Kumla (Kumla centrum-Fylsta-Via),2
 Kumla (Kumla omland),4
 Kumla (Kumlaby-Korsta-Sannahed),3
-Kumla (Oppegård-Skogstorp-Smedstorp),4
+Kumla (Oppegård-Skogstorp-Smedstorp),5
 Askersund (Askersund omland norr),4
-Askersund (Askersund omland söder),3
+Askersund (Askersund omland söder),4
 Askersund (Askersund omland väster),4
 Askersund (Askersund omland öster),4
 Askersund (Askersund stad),3
@@ -2644,7 +2644,7 @@ Karlskoga (Karlskoga norra tätort),3
 Karlskoga (Karlskoga omland),4
 Karlskoga (Karlskoga västra tätort),3
 Karlskoga (Karlskoga östra tätort),4
-Nora (Esstorp-Fibbetorp),4
+Nora (Esstorp-Fibbetorp),3
 Nora (Nora landsbygd norr),4
 Nora (Nora landsbygd söder),4
 Nora (Nora norra centrum),4
@@ -2652,7 +2652,7 @@ Nora (Nora södra centrum),2
 Nora (Pershyttan-Hitorp),4
 Nora (Ås-Gyttorp),3
 Lindesberg (Fellingsbro landsbygd),3
-Lindesberg (Fellingsbro tätort),3
+Lindesberg (Fellingsbro tätort),2
 Lindesberg (Frövi landsbygd),3
 Lindesberg (Frövi tätort),3
 Lindesberg (Lindesberg landsbygd),4
@@ -2662,7 +2662,7 @@ Lindesberg (Lindesberg sydöstra),4
 Lindesberg (Lindesberg södra),3
 Lindesberg (Lindesberg västra),4
 Lindesberg (Storå landsbygd),4
-Lindesberg (Storå tätort),3
+Lindesberg (Storå tätort),2
 Skinnskatteberg (Skinnskatteberg centralort),3
 Skinnskatteberg (Skinnskatteberg ytterområden),4
 Surahammar (Bruket),4
@@ -2670,10 +2670,10 @@ Surahammar (Dalskogen),3
 Surahammar (Ramnäs),3
 Surahammar (Skogslund),4
 Surahammar (Stavtorpet),4
-Surahammar (Surahammars landsbygd),3
+Surahammar (Surahammars landsbygd),4
 Surahammar (Virsbo),3
 Kungsör (Granhammar-Torpa),4
-Kungsör (Kungsör centrala),2
+Kungsör (Kungsör centrala),1
 Kungsör (Kungsör norra),4
 Kungsör (Kungsör södra),3
 Kungsör (Valskog-Kungs Barkarö),4
@@ -2685,7 +2685,7 @@ Hallstahammar (Nibble-Lövboås),2
 Hallstahammar (Näs-Lustigkulla),4
 Hallstahammar (Strömsholm-Säby),4
 Hallstahammar (Surbrunnsvägen-Tuna),2
-Norberg (Norberg norra),4
+Norberg (Norberg norra),3
 Norberg (Norberg omland),4
 Norberg (Norberg västra),2
 Norberg (Norberg östra),3
@@ -2716,16 +2716,16 @@ Västerås (Rönnby-Billsta-Åshagen),4
 Västerås (Skiljeboplatsen),2
 Västerås (Skiljebo-Södra Brandthovda-Hälla),5
 Västerås (Skultuna),3
-Västerås (Sydvästra Bjurhovda),3
+Västerås (Sydvästra Bjurhovda),2
 Västerås (Södra Gryta),3
 Västerås (Södra Jakobsberg),4
 Västerås (Södra Skallberget),2
 Västerås (Tillberga),4
-Västerås (Vega-Tunby-Sydvästra Nordanby),3
+Västerås (Vega-Tunby-Sydvästra Nordanby),4
 Västerås (Vetterslund-Nordöstra Råby),3
 Västerås (Västerås norra landsbygd),4
-Västerås (Västerås västra landsbygd),4
-Västerås (Västerås östra landsbygd),4
+Västerås (Västerås västra landsbygd),5
+Västerås (Västerås östra landsbygd),5
 Västerås (Västra Bäckby-Nordöstra Skälby),3
 Västerås (Västra centrum-Västermalm-Almelund),4
 Västerås (Västra Hammarby),2
@@ -2736,7 +2736,7 @@ Västerås (Västra Viksäng-Kungsängen-Ängsgärdet),2
 Västerås (Önsta-Norra Gryta-Stenby),4
 Västerås (Östra Bäckby),1
 Västerås (Östra hamnen-Öster Mälarstrand),4
-Västerås (Östra Pettersberg-Trumslagarbacken-Lustigkulla),3
+Västerås (Östra Pettersberg-Trumslagarbacken-Lustigkulla),2
 Västerås (Östra Råby-Norra Vetterstorp),2
 Västerås (Östra Viksäng),4
 Sala (Sala centralt),3
@@ -2756,7 +2756,7 @@ Köping (Köping sydväst),4
 Köping (Köping västra omland),3
 Köping (Köping östra omland),4
 Köping (Nibblesbacke),1
-Köping (Skogsborg),4
+Köping (Skogsborg),5
 Köping (Östanås-Johannisdal),3
 Arboga (Arboga landsbyggd norr),4
 Arboga (Arboga landsbyggd syd),4
@@ -2765,17 +2765,17 @@ Arboga (Ladubackgärdena-Prästgärdet),4
 Arboga (Nästkvarn-Studrestaden),3
 Arboga (Sjukhusgärdet-Ekbacken),3
 Arboga (Strömsnäs-Brattberget),3
-Arboga (Vasastaden-Marieborg-Näsby),1
+Arboga (Vasastaden-Marieborg-Näsby),2
 Arboga (Vinbäcken-Åbrinken-Söder),2
 Vansbro (Vansbro västra landsbygd),4
 Vansbro (Vansbro),3
 Vansbro (Dala-Järna),4
 Vansbro (Vansbro östra landsbygd),3
 Malung-Sälen (Limedsforsen-Lima-Rörbäcksnäs),4
-Malung-Sälen (Malungs nordöstra tätort),2
+Malung-Sälen (Malungs nordöstra tätort),3
 Malung-Sälen (Malungs omland),3
 Malung-Sälen (Malungs sydöstra tätort),4
-Malung-Sälen (Malungs västra tätort),4
+Malung-Sälen (Malungs västra tätort),3
 Malung-Sälen (Transtrand-Sälen-Sörsjön),4
 Gagnef (Björbo),3
 Gagnef (Brötjärna omland),4
@@ -2826,17 +2826,17 @@ Mora (Våmhus-Bonäs),4
 Mora (Öna-Östnor-Kråkberg),4
 Falun (Aspeboda),4
 Falun (Bjursås),4
-Falun (Bjursås omland-Sågmyra),3
+Falun (Bjursås omland-Sågmyra),4
 Falun (Bojsenburg),1
 Falun (Enviken-Linghed-Svärdsjö omland),4
 Falun (Falu centrum norra),4
 Falun (Falu centrum södra),3
-Falun (Grycksbo),4
-Falun (Herrhagen),1
+Falun (Grycksbo),3
+Falun (Herrhagen),2
 Falun (Hosjö),4
-Falun (Kvarnberget-Främby-Källviken),3
+Falun (Kvarnberget-Främby-Källviken),4
 Falun (Nedre Norslund),2
-Falun (Pilbo-Samuelsdal-Gruvriset),4
+Falun (Pilbo-Samuelsdal-Gruvriset),5
 Falun (Slätta-Gamla Berget),5
 Falun (Stennäset-Britsarvet-Lugnet),4
 Falun (Sundborn-Danholn-Toftbyn),4
@@ -2850,7 +2850,7 @@ Borlänge (Jakobsgårdarna-Paradiset-Nygårdsdalen),1
 Borlänge (Kupolen-Norra Backa-Hagalund-Ringen),3
 Borlänge (Lergärdet-Bergslagsbyn),4
 Borlänge (Medväga-Hönsarvet-Domnarvet-Barkagärdet-Islingby-Nyckelby),4
-Borlänge (Mjälga-Centrum),3
+Borlänge (Mjälga-Centrum),4
 Borlänge (Repbäcken-Amsberg-Kvarnsveden),4
 Borlänge (Romme),4
 Borlänge (Skräddarbacken-Mats Knuts-Nygårdarna),4
@@ -2862,7 +2862,7 @@ Borlänge (Östermalm),3
 Borlänge (Övre Tjärna),1
 Säter (Gustafs omland),4
 Säter (Mora-Enbacka-Naglarby),4
-Säter (Säter centrala),2
+Säter (Säter centrala),3
 Säter (Säter västra),3
 Säter (Säter östra),4
 Säter (Säters omland),4
@@ -2874,13 +2874,13 @@ Hedemora (Vikmanshytteområdet),3
 Avesta (Avesta norra-Avesta västra-Karlbo),4
 Avesta (Avesta omland),4
 Avesta (Avesta södra-Avesta östra-Bengtsbo),2
-Avesta (Horndal),3
+Avesta (Horndal),2
 Avesta (Krylbo-Isaksbo-Mästerbo),1
 Ludvika (Fredriksberg),3
 Ludvika (Grangärde-Sunnansjö),3
 Ludvika (Grängesberg),3
 Ludvika (Högberget),3
-Ludvika (Ludvika gård),2
+Ludvika (Ludvika gård),1
 Ludvika (Ludvika norra),3
 Ludvika (Ludvika södra),4
 Ludvika (Marnäs),1
@@ -2894,15 +2894,15 @@ Hofors (Hofors östra omland),4
 Ovanåker (Alfta),3
 Ovanåker (Edsbyn),3
 Ovanåker (Ovanåkers landsbygd),4
-Nordanstig (Bergsjö),3
+Nordanstig (Bergsjö),2
 Nordanstig (Gnarp),3
 Nordanstig (Nordanstig nordvästra omland),3
 Nordanstig (Nordanstig nordöstra omland),4
 Nordanstig (Nordanstig södra omland),3
 Ljusdal (Färila),3
-Ljusdal (Järvsö),4
+Ljusdal (Järvsö),3
 Ljusdal (Järvsö omland),4
-Ljusdal (Ljusdal),4
+Ljusdal (Ljusdal),3
 Ljusdal (Ljusdal norra),1
 Ljusdal (Ljusdal omland),3
 Ljusdal (Tallåsen),4
@@ -2931,7 +2931,7 @@ Gävle (Villastaden-Fridhem),4
 Sandviken (Järbo),4
 Sandviken (Kungsgården),4
 Sandviken (Sandviken centrum),1
-Sandviken (Sandviken nordöstra tätorten),4
+Sandviken (Sandviken nordöstra tätorten),5
 Sandviken (Sandviken södra tätorten),4
 Sandviken (Sandviken västra tätorten),2
 Sandviken (Sandviken östra tätort),4
@@ -2960,7 +2960,7 @@ Bollnäs (Kilafors landsbygd),4
 Bollnäs (Kilafors-Sibo tätort),3
 Bollnäs (Ren),4
 Bollnäs (Rengsjö kommundel),4
-Bollnäs (Säversta-Granberg-Hertsjö),4
+Bollnäs (Säversta-Granberg-Hertsjö),3
 Bollnäs (Sävsberg-Heden),2
 Hudiksvall (Bjuråkersbygden),3
 Hudiksvall (Björkberg-Maln),3
@@ -2979,10 +2979,10 @@ Hudiksvall (Iggesund södra),2
 Hudiksvall (Jakobsberg-Kristineberg),4
 Hudiksvall (Näsviken),4
 Hudiksvall (Sanna-Sandvalla),4
-Hudiksvall (Sörforsa),3
+Hudiksvall (Sörforsa),4
 Ånge (Fränsta),3
 Ånge (Ljungaverk),3
-Ånge (Ånge omland),3
+Ånge (Ånge omland),4
 Ånge (Ånge tätort),3
 Timrå (Bergeforsen-Stavreviken),4
 Timrå (Edsgården-Vävland-Timrådalen),4
@@ -2996,16 +2996,16 @@ Härnösand (Bondsjöhöjden-Härnön östra-Häggdånger),4
 Härnösand (Hemsön-Älandsbro-Ramsås),4
 Härnösand (Härnösand centrum),2
 Härnösand (Härnösand södra),3
-Härnösand (Murberget-Gådeåstaden),1
+Härnösand (Murberget-Gådeåstaden),2
 Härnösand (Norra Brännan-Eriksdal-Gånsvik),3
 Härnösand (Rotudden-Hälletorp-Bondsjöstaden),3
-Härnösand (Stigsjö-Viksjö),3
+Härnösand (Stigsjö-Viksjö),4
 Härnösand (Södra Brännan-Stenhammar-Nickebo),4
 Härnösand (Utansjö-Ramvik),3
 Sundsvall (Allsta-Klingsta),5
 Sundsvall (Alnö),4
 Sundsvall (Bergsåker västra),4
-Sundsvall (Bergsåker östra),3
+Sundsvall (Bergsåker östra),4
 Sundsvall (Bosvedjan),4
 Sundsvall (Bredsand),2
 Sundsvall (Bydalen),5
@@ -3014,7 +3014,7 @@ Sundsvall (Granlo),4
 Sundsvall (Granloholm),4
 Sundsvall (Haga),4
 Sundsvall (Indal-Liden),4
-Sundsvall (Juniskär-Skottsund),5
+Sundsvall (Juniskär-Skottsund),4
 Sundsvall (Korsta-Tunadal),4
 Sundsvall (Kovland),4
 Sundsvall (Kvissleby),3
@@ -3046,9 +3046,9 @@ Kramfors (Vibyggerå),4
 Kramfors (Väja-Dynäs),2
 Kramfors (Älven västra),3
 Kramfors (Älven östra),3
-Sollefteå (Graninge-Helgum),3
+Sollefteå (Graninge-Helgum),4
 Sollefteå (Junsele-Ramsele),3
-Sollefteå (Långsele),2
+Sollefteå (Långsele),3
 Sollefteå (Näsåker-Resele),3
 Sollefteå (Skedom-Skärvsta-Prästbordet),4
 Sollefteå (Sollefteå centrum-Övergård),2
@@ -3061,7 +3061,7 @@ Sollefteå (Sollefteå omland),4
 Örnsköldsvik (Gimåt-Högland-Arnäsvall),4
 Örnsköldsvik (Grundsunda),4
 Örnsköldsvik (Gullänget-Kroksta),4
-Örnsköldsvik (Husum),4
+Örnsköldsvik (Husum),3
 Örnsköldsvik (Hörnett-Sund),4
 Örnsköldsvik (Järved-Bonäset-Dekarsön),5
 Örnsköldsvik (Köpmanholmen),4
@@ -3108,7 +3108,7 @@ Berg (Hoverberg),4
 Berg (Oviken),4
 Berg (Rätan),3
 Berg (Svenstavik),1
-Berg (Åsarna),3
+Berg (Åsarna),4
 Härjedalen (Funäsdalen),4
 Härjedalen (Hede),3
 Härjedalen (Härjedalen västra),4
@@ -3123,11 +3123,11 @@ Härjedalen (Vemdalen omland),4
 Östersund (Karlslund-Remonthagen-Blomängen),4
 Östersund (Körfältet),3
 Östersund (Lit),3
-Östersund (Lugnviks centrum),4
-Östersund (Målsta-Sandviken-Marieby),4
+Östersund (Lugnviks centrum),3
+Östersund (Målsta-Sandviken-Marieby),5
 Östersund (Norra Frösön-Frösö Berge-Frösödal),4
 Östersund (Norra Odenslund-Odenskog),4
-Östersund (Norra Valla-Härke-Västra Frösön),4
+Östersund (Norra Valla-Härke-Västra Frösön),5
 Östersund (Odensala),4
 Östersund (Skogsmon),2
 Östersund (Storsjöstrand-Odensvik-Fagervallen),4
@@ -3140,7 +3140,7 @@ Härjedalen (Vemdalen omland),4
 Östersund (Östersund södra landsbygd),4
 Nordmaling (Levaråkern),4
 Nordmaling (Nordmaling centrum),3
-Nordmaling (Nordmalings norra omland),4
+Nordmaling (Nordmalings norra omland),3
 Nordmaling (Nordmalings södra omland),4
 Nordmaling (Rundvik-Lögdeå),3
 Bjurholm (Bjurholms centralort),3
@@ -3150,11 +3150,11 @@ Vindeln (Vindelns omland),4
 Vindeln (Vindelns tätort),3
 Robertsfors (Robertsfors),3
 Robertsfors (Robertsfors centrala omland),4
-Robertsfors (Robertsfors norra omland),3
+Robertsfors (Robertsfors norra omland),4
 Robertsfors (Robertsfors södra omland),4
 Norsjö (Norsjö omland),4
 Norsjö (Norsjö tätort),3
-Malå (Malå),3
+Malå (Malå),4
 Malå (Malå västra),3
 Malå (Malå östra),4
 Storuman (Luspen),3
@@ -3163,7 +3163,7 @@ Storuman (Storuman östra),4
 Storuman (Vallnäs),4
 Sorsele (Sorsele centralort),3
 Sorsele (Sorsele omland),3
-Dorotea (Dorotea omland),4
+Dorotea (Dorotea omland),3
 Dorotea (Dorotea tätort),3
 Vännäs (Vännäs),3
 Vännäs (Vännäs landsbygder),4
@@ -3171,7 +3171,7 @@ Vännäs (Vännäsby),4
 Vilhelmina (Vilhelmina tätort Södra),3
 Vilhelmina (Vilhelmina tätort-Baksjön),3
 Vilhelmina (Vilhelmina tätort-Bergbacka-Trissen),2
-Vilhelmina (Vilhelmina västra),3
+Vilhelmina (Vilhelmina västra),4
 Vilhelmina (Vilhelmina östra),4
 Åsele (Åsele omland),3
 Åsele (Åsele tätort),3
@@ -3185,11 +3185,11 @@ Umeå (Ersmark),5
 Umeå (Grisbacka-Grubbe-Västerhiske),4
 Umeå (Haga),4
 Umeå (Holmsund västra),3
-Umeå (Holmsund östra),5
+Umeå (Holmsund östra),4
 Umeå (Holmsund-Obbola omland),5
-Umeå (Hörnefors omland),5
+Umeå (Hörnefors omland),4
 Umeå (Hörnefors tätort),4
-Umeå (Marieberg),3
+Umeå (Marieberg),4
 Umeå (Mariehem västra),5
 Umeå (Mariehem östra-Olofsdal),3
 Umeå (Obbola),4
@@ -3201,14 +3201,14 @@ Umeå (Sävar tätort),4
 Umeå (Teg centrala),4
 Umeå (Teg västra),4
 Umeå (Teg östra-Ön),4
-Umeå (Tomtebo norra),3
+Umeå (Tomtebo norra),4
 Umeå (Tomtebo västra),4
 Umeå (Tomtebo östra-Innertavle),5
 Umeå (Täfteå tätort),5
 Umeå (Umedalen västra-Backen),4
 Umeå (Umedalen östra),3
 Umeå (Umeå centrum),4
-Umeå (Umeå norra landsbygd),5
+Umeå (Umeå norra landsbygd),4
 Umeå (Umeå södra landsbygd),5
 Umeå (Umeå västra landsbygd),5
 Umeå (Universitetet-sjukhusområdet-Nydalahöjden),2
@@ -3231,16 +3231,16 @@ Skellefteå (Bureå tätort),4
 Skellefteå (Burträsk omland),4
 Skellefteå (Burträsk tätort),3
 Skellefteå (Byske omland),4
-Skellefteå (Byske tätort),3
+Skellefteå (Byske tätort),4
 Skellefteå (Degerbyn-Prästbordet),4
 Skellefteå (Ersmark-Kåge tätort),4
 Skellefteå (Jörn-Boliden omland),4
 Skellefteå (Klutmark-Medle-Myckle-Stämningsgården),4
 Skellefteå (Kåge omland),4
-Skellefteå (Lund-Sunnanå),5
+Skellefteå (Lund-Sunnanå),4
 Skellefteå (Lövånger),3
 Skellefteå (Moröhöjden-Morö backe centrum),3
-Skellefteå (Morön),4
+Skellefteå (Morön),5
 Skellefteå (Norra Morö backe),5
 Skellefteå (Sjungande dalen-Västra Norrböle),4
 Skellefteå (Skelleftehamn),3
@@ -3256,7 +3256,7 @@ Arjeplog (Arjeplog glesbygd),4
 Arjeplog (Arjeplog tätort),4
 Jokkmokk (Jokkmokk centralort västra),3
 Jokkmokk (Jokkmokk centralort östra),4
-Jokkmokk (Jokkmokk västra omland),4
+Jokkmokk (Jokkmokk västra omland),3
 Jokkmokk (Jokkmokk östra omland),4
 Överkalix (Överkalix omland),4
 Överkalix (Överkalix tätort),3
@@ -3270,13 +3270,13 @@ Kalix (Töre),3
 Övertorneå (Övertorneå centralort),3
 Övertorneå (Övertorneå-Centrala),4
 Övertorneå (Övertorneå-Norra),4
-Övertorneå (Övertorneå-Södra),3
+Övertorneå (Övertorneå-Södra),4
 Pajala (Pajala centralort),4
 Pajala (Pajala omland),4
 Gällivare (Andra sidan),4
 Gällivare (Gällivare centrum),3
 Gällivare (Gällivare norra),4
-Gällivare (Gällivare södra),4
+Gällivare (Gällivare södra),3
 Gällivare (Gällivare väst),4
 Gällivare (Gällivare öst),4
 Gällivare (Gällivare östra omland),4
@@ -3325,7 +3325,7 @@ Piteå (Markbygden-Sikfors-Sjulsmark),4
 Piteå (Norrfjärden),4
 Piteå (Pite älvdal-Infjärden-Blåsmark),4
 Piteå (Piteå centrum),4
-Piteå (Piteå kustnära områden),4
+Piteå (Piteå kustnära områden),5
 Piteå (Rosvik),4
 Piteå (Svartudden-Strömnäs-Pitholm norra),4
 Piteå (Öjebyn),3
@@ -3341,7 +3341,7 @@ Boden (Prästholmen),3
 Boden (Sanden-Torpgärdan),4
 Boden (Sävast-Sävastön-Gamla Sävast),4
 Boden (Södra Svartbyn-Gruvberget),5
-Boden (Trångfors-Heden-Vittjärv-Hamptjärnmoran),5
+Boden (Trångfors-Heden-Vittjärv-Hamptjärnmoran),4
 Haparanda (Haparanda norra landsbygden),3
 Haparanda (Haparanda stad centrala),3
 Haparanda (Haparanda stad norra),3
