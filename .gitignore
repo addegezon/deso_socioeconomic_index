@@ -1,0 +1,16 @@
+# R specific
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# MacOS specific
+.DS_Store
+
+# Data files (uncomment if you don't want to include data files)
+# /data_in/*.csv
+# /data_out/*.csv
+
+# Environment configuration
+.env
+.Renviron

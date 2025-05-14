@@ -1,0 +1,1 @@
+A simple script for matching RegSO Områdestyp to DeSO for 2023.
