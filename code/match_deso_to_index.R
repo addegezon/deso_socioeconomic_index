@@ -2,13 +2,9 @@
 library(data.table)
 library(stringi)
 
-# Set working directory to the project root
-# Uncomment and modify if needed
-# setwd("/Users/andreas/Code/deso_sociekonomiskt_index")
-
 # Define paths to data files
-koppling_path <- "data/koppling-deso2018-regso2020.csv"
-index_path <- "data/regso_socioekonomisk_index_2023.csv"
+koppling_path <- file.path("data_in", "koppling-deso2018-regso2020.csv")
+index_path <- file.path("data_in", "regso_socioekonomisk_index_2023.csv")
 
 # Read files with proper encoding
 # Read koppling file - links DeSO to RegSO
